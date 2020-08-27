@@ -1,0 +1,11 @@
+
+Error in NS(id) : objeto 'id' não encontrado
+Calls: source ... eval -> <Anonymous> -> dots_list -> mainPanel -> NS
+Execução interrompida
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+
+Execução interrompida

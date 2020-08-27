@@ -1,0 +1,53 @@
+.panel {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: space-between;
+  height: 100vh;
+  width: max-content;
+  padding: 0 10px;
+  background-color: #fcfcfc;
+}
+
+.panel .logo {
+  margin-top: 30px;
+}
+
+.panel .navigation {
+  display: flex;
+  flex-direction: column;
+}
+
+.panel .navigation .item {
+  display: flex;
+  align-items: center;
+}
+
+.panel .navigation .item a {
+  font-family: "PT Sans Narrow", sans-serif;
+  font-size: 35pt;
+  color: #333333;
+  margin-left: 7px;
+}
+
+.panel .navigation .item a.active {
+  border-bottom: 4px solid #0c9fbf;
+  border-radius: 2px;
+}
+
+.panel .navigation .item + .item {
+  margin-top: 28px;
+}
+
+.panel .footer {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+
+.panel .footer p {
+  font-family: "PT Sans Narrow", sans-serif;
+  margin-left: 7px;
+  font-size: 15pt;
+}
+
