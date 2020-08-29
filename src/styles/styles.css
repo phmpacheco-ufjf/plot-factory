@@ -1,53 +1,407 @@
-.panel {
+h1,
+h2,
+h3,
+h4,
+p {
+  font-family: "PT Sans Narrow", sans-serif;
+  color: #333333;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  outline: 0;
+  box-sizing: border-box;
+}
+
+*:focus {
+  outline: 0;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+html,
+html body {
+  min-height: 100vh;
+  max-width: 100vw;
+  overflow-x: hidden;
+}
+
+body {
+  text-rendering: optimizeLegibility !important;
+  -webkit-font-smoothing: antialiased !important;
+  font-family: "PT Sans Narrow", sans-serif;
+  color: #111111;
+  background: #fcfcfc;
+}
+
+a {
+  text-decoration: none;
+  cursor: pointer;
+}
+
+button {
+  background-color: Transparent;
+  cursor: pointer !important;
+  border: none;
+}
+
+ul {
+  list-style: none;
+}
+
+.home {
+  display: flex;
+}
+
+.home .sideBarPanel {
   display: flex;
   flex-direction: column;
   align-items: flex-start;
   justify-content: space-between;
-  height: 100vh;
+  min-height: 100vh;
   width: max-content;
   padding: 0 10px;
   background-color: #fcfcfc;
 }
 
-.panel .logo {
+.home .sideBarPanel .logo {
   margin-top: 30px;
 }
 
-.panel .navigation {
+.home .sideBarPanel .navigation {
   display: flex;
   flex-direction: column;
 }
 
-.panel .navigation .item {
+.home .sideBarPanel .navigation .sideBarPanelItem {
   display: flex;
   align-items: center;
 }
 
-.panel .navigation .item a {
+.home .sideBarPanel .navigation .sideBarPanelItem a {
   font-family: "PT Sans Narrow", sans-serif;
   font-size: 35pt;
   color: #333333;
   margin-left: 7px;
 }
 
-.panel .navigation .item a.active {
+.home .sideBarPanel .navigation .sideBarPanelItem a.active {
   border-bottom: 4px solid #0c9fbf;
   border-radius: 2px;
 }
 
-.panel .navigation .item + .item {
+.home .sideBarPanel .navigation .sideBarPanelItem + .item {
   margin-top: 28px;
 }
 
-.panel .footer {
+.home .sideBarPanel .footer {
   display: flex;
   justify-content: center;
   width: 100%;
 }
 
-.panel .footer p {
+.home .sideBarPanel .footer p {
   font-family: "PT Sans Narrow", sans-serif;
   margin-left: 7px;
   font-size: 15pt;
+}
+
+.home .mainPanel {
+  background-color: #e5ebf1;
+  background-image: url("../../../assets/images/background.svg");
+}
+
+.home .mainPanel .mainText {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 95%;
+  margin-top: 10%;
+}
+
+.home .mainPanel .mainText h1 {
+  font-size: 60pt;
+  width: 95%;
+}
+
+.home .mainPanel .mainText p {
+  font-size: 25pt;
+  width: 95%;
+}
+
+.home .mainPanel .mainButton {
+  display: flex;
+  flex-direction: column;
+  width: max-content;
+  margin-top: 100px;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+}
+
+.home .mainPanel .mainButton .green-button {
+  display: flex;
+  background-color: #1eb21e;
+  color: #fcfcfc;
+  padding: 10px 20px;
+  font-size: 20pt;
+  font-weight: 700;
+  border-radius: 10px;
+  width: max-content;
+}
+
+.home .mainPanel .mainButton p {
+  font-size: 25pt;
+  margin-bottom: 10px;
+}
+
+.dataImport {
+  display: flex;
+}
+
+.dataImport .sideBarPanel {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: space-between;
+  min-height: 100vh;
+  width: max-content;
+  padding: 0 10px;
+  background-color: #fcfcfc;
+}
+
+.dataImport .sideBarPanel .logo {
+  margin-top: 30px;
+}
+
+.dataImport .sideBarPanel .navigation {
+  display: flex;
+  flex-direction: column;
+}
+
+.dataImport .sideBarPanel .navigation .sideBarPanelItem {
+  display: flex;
+  align-items: center;
+}
+
+.dataImport .sideBarPanel .navigation .sideBarPanelItem a {
+  font-family: "PT Sans Narrow", sans-serif;
+  font-size: 35pt;
+  color: #333333;
+  margin-left: 7px;
+}
+
+.dataImport .sideBarPanel .navigation .sideBarPanelItem a.active {
+  border-bottom: 4px solid #0c9fbf;
+  border-radius: 2px;
+}
+
+.dataImport .sideBarPanel .navigation .sideBarPanelItem + .item {
+  margin-top: 28px;
+}
+
+.dataImport .sideBarPanel .footer {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+
+.dataImport .sideBarPanel .footer p {
+  font-family: "PT Sans Narrow", sans-serif;
+  margin-left: 7px;
+  font-size: 15pt;
+}
+
+.dataImport .mainPanel {
+  background-color: #e5ebf1;
+  background-image: url("../../../assets/images/background.svg");
+}
+
+.dataImport .mainPanel .mainText {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 95%;
+  margin-top: 3%;
+}
+
+.dataImport .mainPanel .mainText h1 {
+  font-size: 60pt;
+  width: 95%;
+}
+
+.dataImport .mainPanel .mainText p {
+  font-size: 25pt;
+  width: 95%;
+}
+
+.dataImport .mainPanel .mainText p + p {
+  margin-top: 20px;
+}
+
+.dataImport .mainPanel .mainButton {
+  display: flex;
+  flex-direction: column;
+  width: max-content;
+  margin: 20px 0 0 5%;
+}
+
+.dataImport .mainPanel .mainButton .green-button {
+  display: flex;
+  background-color: #1eb21e;
+  color: #fcfcfc;
+  padding: 10px 20px;
+  font-size: 20pt;
+  font-weight: 700;
+  border-radius: 10px;
+  width: max-content;
+}
+
+.dataImport .mainPanel .blue-border {
+  display: flex;
+  justify-content: flex-start;
+  margin: 20px 2.5%;
+  height: 500px;
+  width: 95%;
+  border: 5px solid #0c9fbf !important;
+  background-color: #fcfcfc;
+  overflow: scroll;
+}
+
+.dataImport .mainPanel .forwardBackwardButtons {
+  display: flex;
+  justify-content: center;
+}
+
+.dataImport .mainPanel .forwardBackwardButtons .mainButton {
+  display: flex;
+  flex-direction: column;
+  width: max-content;
+  flex-direction: row-reverse;
+}
+
+.dataImport .mainPanel .forwardBackwardButtons .mainButton .green-button {
+  display: flex;
+  background-color: #1eb21e;
+  color: #fcfcfc;
+  padding: 10px 20px;
+  font-size: 20pt;
+  font-weight: 700;
+  border-radius: 10px;
+  width: max-content;
+}
+
+.dataImport .mainPanel .forwardBackwardButtons .mainButton .green-button {
+  margin: 10px;
+}
+
+.type {
+  display: flex;
+}
+
+.type .sideBarPanel {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: space-between;
+  min-height: 100vh;
+  width: max-content;
+  padding: 0 10px;
+  background-color: #fcfcfc;
+}
+
+.type .sideBarPanel .logo {
+  margin-top: 30px;
+}
+
+.type .sideBarPanel .navigation {
+  display: flex;
+  flex-direction: column;
+}
+
+.type .sideBarPanel .navigation .sideBarPanelItem {
+  display: flex;
+  align-items: center;
+}
+
+.type .sideBarPanel .navigation .sideBarPanelItem a {
+  font-family: "PT Sans Narrow", sans-serif;
+  font-size: 35pt;
+  color: #333333;
+  margin-left: 7px;
+}
+
+.type .sideBarPanel .navigation .sideBarPanelItem a.active {
+  border-bottom: 4px solid #0c9fbf;
+  border-radius: 2px;
+}
+
+.type .sideBarPanel .navigation .sideBarPanelItem + .item {
+  margin-top: 28px;
+}
+
+.type .sideBarPanel .footer {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+
+.type .sideBarPanel .footer p {
+  font-family: "PT Sans Narrow", sans-serif;
+  margin-left: 7px;
+  font-size: 15pt;
+}
+
+.type .mainPanel {
+  background-color: #e5ebf1;
+  background-image: url("../../../assets/images/background.svg");
+}
+
+.type .mainPanel .mainText {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 95%;
+  margin-top: 3%;
+}
+
+.type .mainPanel .mainText h1 {
+  font-size: 60pt;
+  width: 95%;
+}
+
+.type .mainPanel .mainText p {
+  font-size: 25pt;
+  width: 95%;
+}
+
+.type .mainPanel .forwardBackwardButtons {
+  display: flex;
+  justify-content: center;
+}
+
+.type .mainPanel .forwardBackwardButtons .mainButton {
+  display: flex;
+  flex-direction: column;
+  width: max-content;
+  flex-direction: row-reverse;
+}
+
+.type .mainPanel .forwardBackwardButtons .mainButton .green-button {
+  display: flex;
+  background-color: #1eb21e;
+  color: #fcfcfc;
+  padding: 10px 20px;
+  font-size: 20pt;
+  font-weight: 700;
+  border-radius: 10px;
+  width: max-content;
+}
+
+.type .mainPanel .forwardBackwardButtons .mainButton .green-button {
+  margin: 10px;
 }
 

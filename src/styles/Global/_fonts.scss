@@ -1,0 +1,11 @@
+$font-text: "PT Sans Narrow", sans-serif;
+$font-logo: "Rajdhani", sans-serif;
+
+h1,
+h2,
+h3,
+h4,
+p {
+  font-family: $font-text;
+  color: $base-gray;
+}

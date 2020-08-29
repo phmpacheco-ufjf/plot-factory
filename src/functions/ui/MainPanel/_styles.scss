@@ -1,0 +1,8 @@
+@mixin mainPanel {
+  .mainPanel {
+    background-color: $bg-blue;
+    background-image: url("../../../assets/images/background.svg");
+
+    @content;
+  }
+}

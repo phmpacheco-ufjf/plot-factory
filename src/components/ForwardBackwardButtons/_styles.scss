@@ -1,0 +1,16 @@
+@import "../../functions/ui/MainButton/styles";
+
+@mixin forwardBackwardButtons {
+  .forwardBackwardButtons {
+    display: flex;
+    justify-content: center;
+
+    @include mainButton() {
+      flex-direction: row-reverse;
+
+      .green-button {
+        margin: 10px;
+      }
+    }
+  }
+}

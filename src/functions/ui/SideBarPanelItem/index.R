@@ -1,6 +1,6 @@
 sideBarPanelItem <- function(id, ref, label, route_id) {
   tags$div(
-    class = "item",
+    class = "sideBarPanelItem",
     img(src = "./assets/icons/grayTriangle.svg"),
     tags$a(label,
       id = id,

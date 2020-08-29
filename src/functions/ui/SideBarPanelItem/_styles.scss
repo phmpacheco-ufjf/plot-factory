@@ -1,0 +1,22 @@
+@mixin sideBarPanelItem {
+  .sideBarPanelItem {
+    display: flex;
+    align-items: center;
+
+    a {
+      font-family: $font-text;
+      font-size: 35pt;
+      color: $base-gray;
+      margin-left: 7px;
+    }
+
+    a.active {
+      border-bottom: 4px solid $base-blue;
+      border-radius: 2px;
+    }
+
+    & + .item {
+      margin-top: 28px;
+    }
+  }
+}

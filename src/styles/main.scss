@@ -1,1 +1,7 @@
-@import "../components/SideBarPanel/styles";
+@import "./Global/colors";
+@import "./Global/fonts";
+@import "./Global/global";
+
+@import "../pages/Home/styles";
+@import "../pages/DataImport/styles";
+@import "../pages/Type/styles";

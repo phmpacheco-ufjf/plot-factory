@@ -1,9 +1,42 @@
+Listening on http://127.0.0.1:3333
 
-Error in NS(id) : objeto 'id' não encontrado
-Calls: source ... eval -> <Anonymous> -> dots_list -> mainPanel -> NS
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+Error in source("./src/components/TypePanel/index.R") : 
+  tentativa de usar um nome de variável com comprimento zero
+Calls: source -> withVisible -> eval -> eval -> source
+Execução interrompida
+Error in source("./src/components/TypePanel/index.R") : 
+  tentativa de usar um nome de variável com comprimento zero
+Calls: source -> withVisible -> eval -> eval -> source
 Execução interrompida
 
 Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+Warning: Error in hasGroups: argumento "dataframe" ausente, sem padrão
+  [No stack trace available]
 
 Listening on http://127.0.0.1:3333
 

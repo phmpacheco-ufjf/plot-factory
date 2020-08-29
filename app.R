@@ -17,6 +17,11 @@ ui <- tags$html(
       href = "https://fonts.googleapis.com/css2?family=PT+Sans+Narrow:wght@400;700&display=swap",
       rel = "stylesheet"
     ),
+    tags$link(
+      href = "https://fonts.googleapis.com/css2?family=Rajdhani:wght@500&display=swap",
+      rel = "stylesheet"
+    ),
+
     tags$style(sass(sass_file("./src/styles/main.scss"),
       options = sass_options(output_style = "expanded"),
       output = "./src/styles/styles.css"
@@ -37,6 +42,8 @@ ui <- tags$html(
 
 server <- function(input, output, session) {
   router(input, output, session)
+
+  dataframe <<- reactive({})
 }
 
 options(shiny.port = 3333)

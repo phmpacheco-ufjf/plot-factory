@@ -1,0 +1,7 @@
+@import "../MainButton/styles";
+
+@mixin importData {
+  .importData {
+    @include mainButton();
+  }
+}

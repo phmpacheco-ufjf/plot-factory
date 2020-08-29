@@ -1,3 +1,13 @@
 serverDataImport <- function(input, output, session) {
-  sidebarPanelServer(id = "sideBarDataImport", route_id = "data-import")
+  sidebarPanelServer(id = "sideBarPanelDataImport")
+
+  dataframe <<- importDataButtonServer(id = "importDataButtonDataImport")
+
+  observeEvent(dataframe(), {
+    displayDataframeServer(id = "displayDataframeDataImport", dataframe = dataframe())
+  })
+
+  forwardBackwardButtonsServer(
+    id = "forwardBackwardButtonsDataImport", backward = "/", forward = "type"
+  )
 }

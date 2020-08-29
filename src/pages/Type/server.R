@@ -1,3 +1,8 @@
 serverType <- function(input, output, session) {
-  sidebarPanelServer(id = "sideBarType", route_id = "type")
+  sidebarPanelServer(id = "sideBarPanelType")
+
+  typePanelServer(id = "typePanelType", dataframe = dataframe())
+  forwardBackwardButtonsServer(
+    id = "forwardBackwardButtonsType", backward = "data-import", forward = "edition"
+  )
 }

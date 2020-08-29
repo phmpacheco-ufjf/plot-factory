@@ -1,0 +1,28 @@
+@import "../../components/SideBarPanel/styles";
+@import "../../functions/ui/MainPanel/styles";
+@import "../../functions/ui/MainText/styles";
+@import "../../functions/ui/MainButton/styles";
+
+.home {
+  display: flex;
+
+  @include sideBarPanel();
+
+  @include mainPanel() {
+    @include mainText() {
+      margin-top: 10%;
+    }
+
+    @include mainButton {
+      margin-top: 100px;
+      align-items: center;
+      justify-content: center;
+      width: 100%;
+
+      p {
+        font-size: 25pt;
+        margin-bottom: 10px;
+      }
+    }
+  }
+}

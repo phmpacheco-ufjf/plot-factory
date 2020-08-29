@@ -1,0 +1,44 @@
+* {
+  margin: 0;
+  padding: 0;
+  outline: 0;
+  box-sizing: border-box;
+
+  &:focus {
+    outline: 0;
+  }
+}
+
+html {
+  scroll-behavior: smooth;
+
+  &,
+  body {
+    min-height: 100vh;
+    max-width: 100vw;
+    overflow-x: hidden;
+  }
+}
+
+body {
+  text-rendering: optimizeLegibility !important;
+  -webkit-font-smoothing: antialiased !important;
+  font-family: $font-text;
+  color: $base-black;
+  background: $base-white;
+}
+
+a {
+  text-decoration: none;
+  cursor: pointer;
+}
+
+button {
+  background-color: Transparent;
+  cursor: pointer !important;
+  border: none;
+}
+
+ul {
+  list-style: none;
+}
