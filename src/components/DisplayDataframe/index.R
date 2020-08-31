@@ -7,12 +7,12 @@ displayDataframe <- function(id) {
   )
 }
 
-displayDataframeServer <- function(id, dataframe) {
+displayDataframeServer <- function(id) {
   moduleServer(
     id,
     function(input, output, session) {
       output$dataframe <- renderDataTable({
-        datatable(dataframe)
+        datatable(session$userData$dataframe$data)
       })
     }
   )

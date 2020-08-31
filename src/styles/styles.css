@@ -378,6 +378,29 @@ ul {
   width: 95%;
 }
 
+.type .mainPanel .typePanel {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 95%;
+  margin-top: 20px;
+}
+
+.type .mainPanel .typePanel > h2 {
+  width: 95%;
+}
+
+.type .mainPanel .typePanel .typeChoices {
+  display: flex;
+  flex-wrap: wrap;
+  width: 95%;
+  margin-top: 10px;
+}
+
+.type .mainPanel .typePanel .typeChoices .form-group {
+  margin: 0 5px;
+}
+
 .type .mainPanel .forwardBackwardButtons {
   display: flex;
   justify-content: center;
@@ -402,6 +425,163 @@ ul {
 }
 
 .type .mainPanel .forwardBackwardButtons .mainButton .green-button {
+  margin: 10px;
+}
+
+.edition {
+  display: flex;
+}
+
+.edition .sideBarPanel {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: space-between;
+  min-height: 100vh;
+  width: max-content;
+  padding: 0 10px;
+  background-color: #fcfcfc;
+}
+
+.edition .sideBarPanel .logo {
+  margin-top: 30px;
+}
+
+.edition .sideBarPanel .navigation {
+  display: flex;
+  flex-direction: column;
+}
+
+.edition .sideBarPanel .navigation .sideBarPanelItem {
+  display: flex;
+  align-items: center;
+}
+
+.edition .sideBarPanel .navigation .sideBarPanelItem a {
+  font-family: "PT Sans Narrow", sans-serif;
+  font-size: 35pt;
+  color: #333333;
+  margin-left: 7px;
+}
+
+.edition .sideBarPanel .navigation .sideBarPanelItem a.active {
+  border-bottom: 4px solid #0c9fbf;
+  border-radius: 2px;
+}
+
+.edition .sideBarPanel .navigation .sideBarPanelItem + .item {
+  margin-top: 28px;
+}
+
+.edition .sideBarPanel .footer {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+
+.edition .sideBarPanel .footer p {
+  font-family: "PT Sans Narrow", sans-serif;
+  margin-left: 7px;
+  font-size: 15pt;
+}
+
+.edition .mainPanel {
+  background-color: #e5ebf1;
+  background-image: url("../../../assets/images/background.svg");
+}
+
+.edition .mainPanel .mainText {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 95%;
+  margin-top: 3%;
+}
+
+.edition .mainPanel .mainText h1 {
+  font-size: 60pt;
+  width: 95%;
+}
+
+.edition .mainPanel .mainText p {
+  font-size: 25pt;
+  width: 95%;
+}
+
+.edition .mainPanel .editionPanel {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 95%;
+  margin-top: 20px;
+}
+
+.edition .mainPanel .editionPanel > h2 {
+  width: 95%;
+}
+
+.edition .mainPanel .editionPanel .main {
+  display: flex;
+  flex-direction: column;
+  width: 95%;
+  margin-top: 10px;
+}
+
+.edition .mainPanel .editionPanel .main .titles {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+
+.edition .mainPanel .editionPanel .main .titles .shiny-input-container:not(.shiny-input-container-inline) {
+  width: 100%;
+}
+
+.edition .mainPanel .editionPanel .main .color {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.edition .mainPanel .editionPanel .main .color > div {
+  margin-left: 10px;
+}
+
+.edition .mainPanel .editionPanel .main .color .colourpicker-input-container {
+  background-image: none;
+}
+
+.edition .mainPanel .editionPanel .main .color .colourpicker-input-container input {
+  width: 100%;
+  height: 35px;
+  border-radius: 3px;
+  border-color: #f0f0f0;
+  border-width: 1px;
+}
+
+.edition .mainPanel .forwardBackwardButtons {
+  display: flex;
+  justify-content: center;
+}
+
+.edition .mainPanel .forwardBackwardButtons .mainButton {
+  display: flex;
+  flex-direction: column;
+  width: max-content;
+  flex-direction: row-reverse;
+}
+
+.edition .mainPanel .forwardBackwardButtons .mainButton .green-button {
+  display: flex;
+  background-color: #1eb21e;
+  color: #fcfcfc;
+  padding: 10px 20px;
+  font-size: 20pt;
+  font-weight: 700;
+  border-radius: 10px;
+  width: max-content;
+}
+
+.edition .mainPanel .forwardBackwardButtons .mainButton .green-button {
   margin: 10px;
 }
 

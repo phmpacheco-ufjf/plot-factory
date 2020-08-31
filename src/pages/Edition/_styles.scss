@@ -1,10 +1,10 @@
 @import "../../components/SideBarPanel/styles";
 @import "../../components/ForwardBackwardButtons/styles";
-@import "../../components/TypePanel/styles";
+@import "../../components/EditionPanel/styles";
 @import "../../functions/ui/MainPanel/styles";
 @import "../../functions/ui/MainText/styles";
 
-.type {
+.edition {
   display: flex;
 
   @include sideBarPanel();
@@ -14,7 +14,7 @@
       margin-top: 3%;
     }
 
-    @include typePanel();
+    @include editionPanel();
     @include forwardBackwardButtons();
   }
 }

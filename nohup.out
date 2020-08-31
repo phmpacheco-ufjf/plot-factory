@@ -1,44 +1,356 @@
-Listening on http://127.0.0.1:3333
 
 Listening on http://127.0.0.1:3333
+[[1]]
+[1] "Data"
 
-Listening on http://127.0.0.1:3333
+[[2]]
+NULL
 
-Listening on http://127.0.0.1:3333
+[[3]]
+NULL
 
-Listening on http://127.0.0.1:3333
+[[4]]
+NULL
 
-Listening on http://127.0.0.1:3333
+[[5]]
+NULL
 
-Listening on http://127.0.0.1:3333
+[[6]]
+NULL
 
-Listening on http://127.0.0.1:3333
+[[7]]
+NULL
 
-Listening on http://127.0.0.1:3333
+[[8]]
+NULL
 
-Listening on http://127.0.0.1:3333
+[[9]]
+NULL
 
-Listening on http://127.0.0.1:3333
-Error in source("./src/components/TypePanel/index.R") : 
-  tentativa de usar um nome de variável com comprimento zero
-Calls: source -> withVisible -> eval -> eval -> source
-Execução interrompida
-Error in source("./src/components/TypePanel/index.R") : 
-  tentativa de usar um nome de variável com comprimento zero
-Calls: source -> withVisible -> eval -> eval -> source
-Execução interrompida
+[[1]]
+[1] "Data"
 
-Listening on http://127.0.0.1:3333
+[[2]]
+NULL
 
-Listening on http://127.0.0.1:3333
+[[3]]
+NULL
 
-Listening on http://127.0.0.1:3333
+[[4]]
+NULL
 
-Listening on http://127.0.0.1:3333
-Warning: Error in hasGroups: argumento "dataframe" ausente, sem padrão
-  [No stack trace available]
+[[5]]
+NULL
 
-Listening on http://127.0.0.1:3333
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+[1] "#FFFFFF"
+
+[[9]]
+NULL
+
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+[1] "Este é um gráfico de "
+
+[[7]]
+NULL
+
+[[8]]
+[1] "#FFFFFF"
+
+[[9]]
+NULL
+
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+[1] "Este é um gráfico de curva de "
+
+[[7]]
+NULL
+
+[[8]]
+[1] "#FFFFFF"
+
+[[9]]
+NULL
+
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+[1] "Este é um gráfico de curva de Paretto"
+
+[[7]]
+NULL
+
+[[8]]
+[1] "#FFFFFF"
+
+[[9]]
+NULL
+
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+[1] "Este é um gráfico de curva de Paretto"
+
+[[7]]
+[1] "Aqui serão analisados infi"
+
+[[8]]
+[1] "#FFFFFF"
+
+[[9]]
+NULL
+
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+[1] "Este é um gráfico de curva de Paretto"
+
+[[7]]
+[1] "Aqui serão analisados infinitas "
+
+[[8]]
+[1] "#FFFFFF"
+
+[[9]]
+NULL
+
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+[1] "Este é um gráfico de curva de Paretto"
+
+[[7]]
+[1] "Aqui serão analisados infinitas propriedade"
+
+[[8]]
+[1] "#FFFFFF"
+
+[[9]]
+NULL
+
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+[1] "Este é um gráfico de curva de Paretto"
+
+[[7]]
+[1] "Aqui serão analisados infinitas propriedades de "
+
+[[8]]
+[1] "#FFFFFF"
+
+[[9]]
+NULL
+
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+[1] "Este é um gráfico de curva de Paretto"
+
+[[7]]
+[1] "Aqui serão analisados infinitas propriedades de c"
+
+[[8]]
+[1] "#FFFFFF"
+
+[[9]]
+NULL
+
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+[1] "Este é um gráfico de curva de Paretto"
+
+[[7]]
+[1] "Aqui serão analisados infinitas propriedades de gráficos"
+
+[[8]]
+[1] "#FFFFFF"
+
+[[9]]
+NULL
+
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+[1] "Este é um gráfico de curva de Paretto"
+
+[[7]]
+[1] "Aqui serão analisados infinitas propriedades de gráficos."
+
+[[8]]
+[1] "#FFFFFF"
+
+[[9]]
+NULL
+
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+[1] "#FFFFFF"
+
+[[9]]
+NULL
+
 
 
 Execução interrompida

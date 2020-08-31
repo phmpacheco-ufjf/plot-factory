@@ -43,7 +43,35 @@ ui <- tags$html(
 server <- function(input, output, session) {
   router(input, output, session)
 
-  dataframe <<- reactive({})
+  session$userData$dataframe <- reactiveValues(
+    data = NULL
+  )
+
+  session$userData$plotOptions <- reactiveValues(
+    type = NULL,
+    variableX = NULL,
+    variableY = NULL,
+    variableGroupBy = NULL,
+    title = NULL,
+    subtitle = NULL,
+    hexColor = NULL,
+    typeColor = NULL
+  )
+
+  observe({
+    print(list(
+      "Data",
+      # head(session$userData$dataframe$data),
+      session$userData$plotOptions$type,
+      session$userData$plotOptions$variableX,
+      session$userData$plotOptions$variableY,
+      session$userData$plotOptions$variableGroupBy,
+      session$userData$plotOptions$title,
+      session$userData$plotOptions$subtitle,
+      session$userData$plotOptions$hexColor,
+      session$userData$plotOptions$typeColor
+    ))
+  })
 }
 
 options(shiny.port = 3333)

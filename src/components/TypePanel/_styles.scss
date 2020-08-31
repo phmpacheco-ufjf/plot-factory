@@ -1,0 +1,24 @@
+@mixin typePanel {
+  .typePanel {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 95%;
+    margin-top: 20px;
+
+    & > h2 {
+      width: 95%;
+    }
+
+    .typeChoices {
+      display: flex;
+      flex-wrap: wrap;
+      width: 95%;
+      margin-top: 10px;
+
+      .form-group {
+        margin: 0 5px;
+      }
+    }
+  }
+}
