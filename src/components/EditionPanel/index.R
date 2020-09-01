@@ -2,6 +2,7 @@ editionPanel <- function(id) {
   ns <- NS(id)
 
   tags$div(
+    useShinyjs(),
     class = "editionPanel",
     h2("Estilizando componentes"),
     tags$div(
@@ -12,31 +13,25 @@ editionPanel <- function(id) {
           ns("title"),
           label = h4("Escolha um título"),
           width = "100%",
+          value = "",
           resize = "none"
         ),
         textAreaInput(
           ns("subtitle"),
           label = h4("Escolha um subtítulo"),
           width = "100%",
+          value = "",
           resize = "none"
         )
       ),
       tags$div(
         class = "color",
-        colourInput(
-          ns("hexColor"),
-          label = h4("Escolha uma cor"),
-          value = ""
-        ),
-        selectInput(
-          ns("typeColor"),
-          h4("Tom de cores"),
-          choices = ""
-        )
+        uiOutput(ns("color"))
       )
     ),
     tags$div(
       class = "config",
+      switchCheckbox(id = ns("teste"))
     )
   )
 }
@@ -45,8 +40,82 @@ editionPanelServer <- function(id) {
   moduleServer(
     id,
     function(input, output, session) {
-      observeEvent(session$userData$dataframe$data, {
-        req(session$userData$dataframe$data)
+      switchCheckboxServer(id = "teste")
+
+      output$color <- renderUI({
+        req(session$userData$plotOptions$type, session$userData$plotOptions$variableX)
+
+        if (session$userData$plotOptions$type == "Gráfico de boxplot") {
+          tagList(
+            colourInput(
+              session$ns("hexColor"),
+              label = h4("Escolha uma cor"),
+              value = session$userData$plotOptions$hexColor
+            ),
+            disabled(
+              selectInput(
+                session$ns("typeColor"),
+                h4("Tom de cores"),
+                choices = "",
+                selected = ""
+              )
+            )
+          )
+        } else if (session$userData$plotOptions$type == "Gráfico de pizza") {
+          tagList(
+            disabled(
+              colourInput(
+                session$ns("hexColor"),
+                label = h4("Escolha uma cor"),
+                value = ""
+              )
+            ),
+            selectInput(
+              session$ns("typeColor"),
+              h4("Tom de cores"),
+              choices = c("Escolha uma variável" = "", "Azul", "Vermelho"),
+              selected = session$userData$plotOptions$typeColor
+            )
+          )
+        } else {
+          if (is.null(session$userData$plotOptions$variableGroupBy)) {
+            tagList(
+              colourInput(
+                session$ns("hexColor"),
+                label = h4("Escolha uma cor"),
+                value = session$userData$plotOptions$hexColor
+              ),
+              disabled(
+                selectInput(
+                  session$ns("typeColor"),
+                  h4("Tom de cores"),
+                  choices = "",
+                  selected = ""
+                )
+              )
+            )
+          } else {
+            tagList(
+              disabled(
+                colourInput(
+                  session$ns("hexColor"),
+                  label = h4("Escolha uma cor"),
+                  value = ""
+                )
+              ),
+              selectInput(
+                session$ns("typeColor"),
+                h4("Tom de cores"),
+                choices = c("Escolha uma variável" = "", "Azul", "Vermelho"),
+                selected = session$userData$plotOptions$typeColor
+              )
+            )
+          }
+        }
+      })
+
+      observe({
+        req(session$userData$plotOptions$type, session$userData$plotOptions$variableX)
 
         updateTextAreaInput(
           session,
@@ -59,57 +128,32 @@ editionPanelServer <- function(id) {
           "subtitle",
           value = session$userData$plotOptions$subtitle
         )
-
-        updateColourInput(
-          "hexColor",
-          value = session$userData$plotOptions$hexColor
-        )
       })
 
-      observeEvent(session$userData$plotOptions$variableGroupBy, {
-        req(session$userData$plotOptions$variableGroupBy)
-
-        updateSelectInput(
-          session,
-          "typeColor",
-          choices = c("Escolha uma variável" = "", "Azul", "Vermelho"),
-          selected = session$userData$plotOptions$typeColor
-        )
-      })
+      plotOptions <- reactiveValues(
+        title = NULL,
+        subtitle = NULL,
+        hexColor = NULL,
+        typeColor = NULL
+      )
 
       observeEvent(input$title, {
-        session$userData$plotOptions$title <- defaultSetPlotOptions(input = input$title)
+        plotOptions$title <- defaultSetPlotOptions(input = input$title)
       })
 
       observeEvent(input$subtitle, {
-        session$userData$plotOptions$subtitle <- defaultSetPlotOptions(input = input$subtitle)
+        plotOptions$subtitle <- defaultSetPlotOptions(input = input$subtitle)
       })
 
       observeEvent(input$hexColor, {
-        session$userData$plotOptions$hexColor <- defaultSetPlotOptions(input = input$hexColor)
+        plotOptions$hexColor <- defaultSetPlotOptions(input = input$hexColor)
       })
 
       observeEvent(input$typeColor, {
-        session$userData$plotOptions$typeColor <- defaultSetPlotOptions(input = input$typeColor)
+        plotOptions$typeColor <- defaultSetPlotOptions(input = input$typeColor)
       })
 
-      observe({
-        session$userData$plotOptions$type
-
-        if (is.null(session$userData$plotOptions$variableGroupBy)) {
-          updateSelectInput(
-            session,
-            "typeColor",
-            selected = ""
-          )
-
-          disable("typeColor")
-          enable("hexColor")
-        } else {
-          disable("hexColor")
-          enable("typeColor")
-        }
-      })
+      return(plotOptions)
     }
   )
 }

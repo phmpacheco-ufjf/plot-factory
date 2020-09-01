@@ -10,11 +10,14 @@ pageTransitionButton <- function(id, label, class) {
   )
 }
 
-pageTransitionButtonServer <- function(id, page) {
+pageTransitionButtonServer <- function(id, page, ...) {
   moduleServer(
     id,
     function(input, output, session) {
-      onclick("button", change_page(page))
+      onclick("button", {
+        list(...)
+        change_page(page)
+      })
     }
   )
 }

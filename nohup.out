@@ -27,6 +27,11 @@ NULL
 [[9]]
 NULL
 
+[[10]]
+NULL
+
+
+Listening on http://127.0.0.1:3333
 [[1]]
 [1] "Data"
 
@@ -49,281 +54,16 @@ NULL
 NULL
 
 [[8]]
-[1] "#FFFFFF"
+NULL
 
 [[9]]
 NULL
 
-[[1]]
-[1] "Data"
-
-[[2]]
+[[10]]
 NULL
 
-[[3]]
-NULL
 
-[[4]]
-NULL
-
-[[5]]
-NULL
-
-[[6]]
-[1] "Este é um gráfico de "
-
-[[7]]
-NULL
-
-[[8]]
-[1] "#FFFFFF"
-
-[[9]]
-NULL
-
-[[1]]
-[1] "Data"
-
-[[2]]
-NULL
-
-[[3]]
-NULL
-
-[[4]]
-NULL
-
-[[5]]
-NULL
-
-[[6]]
-[1] "Este é um gráfico de curva de "
-
-[[7]]
-NULL
-
-[[8]]
-[1] "#FFFFFF"
-
-[[9]]
-NULL
-
-[[1]]
-[1] "Data"
-
-[[2]]
-NULL
-
-[[3]]
-NULL
-
-[[4]]
-NULL
-
-[[5]]
-NULL
-
-[[6]]
-[1] "Este é um gráfico de curva de Paretto"
-
-[[7]]
-NULL
-
-[[8]]
-[1] "#FFFFFF"
-
-[[9]]
-NULL
-
-[[1]]
-[1] "Data"
-
-[[2]]
-NULL
-
-[[3]]
-NULL
-
-[[4]]
-NULL
-
-[[5]]
-NULL
-
-[[6]]
-[1] "Este é um gráfico de curva de Paretto"
-
-[[7]]
-[1] "Aqui serão analisados infi"
-
-[[8]]
-[1] "#FFFFFF"
-
-[[9]]
-NULL
-
-[[1]]
-[1] "Data"
-
-[[2]]
-NULL
-
-[[3]]
-NULL
-
-[[4]]
-NULL
-
-[[5]]
-NULL
-
-[[6]]
-[1] "Este é um gráfico de curva de Paretto"
-
-[[7]]
-[1] "Aqui serão analisados infinitas "
-
-[[8]]
-[1] "#FFFFFF"
-
-[[9]]
-NULL
-
-[[1]]
-[1] "Data"
-
-[[2]]
-NULL
-
-[[3]]
-NULL
-
-[[4]]
-NULL
-
-[[5]]
-NULL
-
-[[6]]
-[1] "Este é um gráfico de curva de Paretto"
-
-[[7]]
-[1] "Aqui serão analisados infinitas propriedade"
-
-[[8]]
-[1] "#FFFFFF"
-
-[[9]]
-NULL
-
-[[1]]
-[1] "Data"
-
-[[2]]
-NULL
-
-[[3]]
-NULL
-
-[[4]]
-NULL
-
-[[5]]
-NULL
-
-[[6]]
-[1] "Este é um gráfico de curva de Paretto"
-
-[[7]]
-[1] "Aqui serão analisados infinitas propriedades de "
-
-[[8]]
-[1] "#FFFFFF"
-
-[[9]]
-NULL
-
-[[1]]
-[1] "Data"
-
-[[2]]
-NULL
-
-[[3]]
-NULL
-
-[[4]]
-NULL
-
-[[5]]
-NULL
-
-[[6]]
-[1] "Este é um gráfico de curva de Paretto"
-
-[[7]]
-[1] "Aqui serão analisados infinitas propriedades de c"
-
-[[8]]
-[1] "#FFFFFF"
-
-[[9]]
-NULL
-
-[[1]]
-[1] "Data"
-
-[[2]]
-NULL
-
-[[3]]
-NULL
-
-[[4]]
-NULL
-
-[[5]]
-NULL
-
-[[6]]
-[1] "Este é um gráfico de curva de Paretto"
-
-[[7]]
-[1] "Aqui serão analisados infinitas propriedades de gráficos"
-
-[[8]]
-[1] "#FFFFFF"
-
-[[9]]
-NULL
-
-[[1]]
-[1] "Data"
-
-[[2]]
-NULL
-
-[[3]]
-NULL
-
-[[4]]
-NULL
-
-[[5]]
-NULL
-
-[[6]]
-[1] "Este é um gráfico de curva de Paretto"
-
-[[7]]
-[1] "Aqui serão analisados infinitas propriedades de gráficos."
-
-[[8]]
-[1] "#FFFFFF"
-
-[[9]]
-NULL
-
+Listening on http://127.0.0.1:3333
 [[1]]
 [1] "Data"
 
@@ -346,11 +86,2068 @@ NULL
 NULL
 
 [[8]]
-[1] "#FFFFFF"
+NULL
 
 [[9]]
 NULL
 
+[[10]]
+NULL
+
+
+Listening on http://127.0.0.1:3333
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+[[10]]
+NULL
+
+
+Listening on http://127.0.0.1:3333
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+[[10]]
+NULL
+
+
+Listening on http://127.0.0.1:3333
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+[[10]]
+NULL
+
+Error in source("./src/components/SwitchCheckbox/index.R") : 
+  ./src/components/SwitchCheckbox/index.R:9:19: '=' inesperado
+8:     ),
+9:     tags$label(for=
+                     ^
+Calls: source -> withVisible -> eval -> eval -> source
+Execução interrompida
+Error in source("./src/components/SwitchCheckbox/index.R") : 
+  ./src/components/SwitchCheckbox/index.R:11:20: '=' inesperado
+10:     ),
+11:     tags$label(for =
+                       ^
+Calls: source -> withVisible -> eval -> eval -> source
+Execução interrompida
+Error in source("./src/components/SwitchCheckbox/index.R") : 
+  ./src/components/SwitchCheckbox/index.R:11:20: '=' inesperado
+10:     ),
+11:     tags$label(for =
+                       ^
+Calls: source -> withVisible -> eval -> eval -> source
+Execução interrompida
+Error in source("./src/components/SwitchCheckbox/index.R") : 
+  ./src/components/SwitchCheckbox/index.R:11:20: '=' inesperado
+10:     ),
+11:     tags$label(for =
+                       ^
+Calls: source -> withVisible -> eval -> eval -> source
+Execução interrompida
+Error in source("./src/components/SwitchCheckbox/index.R") : 
+  ./src/components/SwitchCheckbox/index.R:11:20: '=' inesperado
+10:     ),
+11:     tags$label(for =
+                       ^
+Calls: source -> withVisible -> eval -> eval -> source
+Execução interrompida
+Error in source("./src/components/SwitchCheckbox/index.R") : 
+  ./src/components/SwitchCheckbox/index.R:11:20: '=' inesperado
+10:     ),
+11:     tags$label(for =
+                       ^
+Calls: source -> withVisible -> eval -> eval -> source
+Execução interrompida
+
+Listening on http://127.0.0.1:3333
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+[[10]]
+NULL
+
+[[1]]
+[1] "Data"
+
+[[2]]
+  Codigo_Municipio_Saude    Periodo Tipo UTI adulto II COVID-19
+1                 110001 2020-01-01  SUS                      0
+2                 110001 2020-04-01  SUS                      0
+3                 110001 2020-06-01  SUS                      0
+4                 110001 2020-02-01  SUS                      0
+5                 110001 2020-05-01  SUS                      0
+6                 110001 2020-03-01  SUS                      0
+  UTI pediátrica II COVID-19 Unidade intermediária neonatal Unidade isolamento
+1                          0                              0                  2
+2                          0                              0                  2
+3                          0                              0                  2
+4                          0                              0                  2
+5                          0                              0                  2
+6                          0                              0                  2
+  UTI adulto I UTI adulto II UTI adulto III UTI pediátrica I UTI pediátrica II
+1            0             0              0                0                 0
+2            0             0              0                0                 0
+3            0             0              0                0                 0
+4            0             0              0                0                 0
+5            0             0              0                0                 0
+6            0             0              0                0                 0
+  UTI pediátrica III UTI neonatal I UTI neonatal II UTI neonatal III
+1                  0              0               0                0
+2                  0              0               0                0
+3                  0              0               0                0
+4                  0              0               0                0
+5                  0              0               0                0
+6                  0              0               0                0
+  UTI de Queimados UTI coronariana tipo II -UCO tipo II
+1                0                                    0
+2                0                                    0
+3                0                                    0
+4                0                                    0
+5                0                                    0
+6                0                                    0
+  UTI coronariana tipo III - UCO tipo III
+1                                       0
+2                                       0
+3                                       0
+4                                       0
+5                                       0
+6                                       0
+  Unidade de cuidados intermed neonatal convencional
+1                                                  0
+2                                                  0
+3                                                  0
+4                                                  0
+5                                                  0
+6                                                  0
+  Unidade de cuidados intermed neonatal canguru
+1                                             0
+2                                             0
+3                                             0
+4                                             0
+5                                             0
+6                                             0
+  Unidade de cuidados intermed pediatrico Unidade de cuidados intermed adulto
+1                                       0                                   0
+2                                       0                                   0
+3                                       0                                   0
+4                                       0                                   0
+5                                       0                                   0
+6                                       0                                   0
+  Total Codigo_Regiao Regiao Codigo_UF       UF Codigo_Mesorregiao
+1     2             1  Norte        11 Rondônia               1102
+2     2             1  Norte        11 Rondônia               1102
+3     2             1  Norte        11 Rondônia               1102
+4     2             1  Norte        11 Rondônia               1102
+5     2             1  Norte        11 Rondônia               1102
+6     2             1  Norte        11 Rondônia               1102
+        Mesorregiao Codigo_Macrorregiao_Saude         Macrorregiao_Saude
+1 Leste Rondoniense                      1101 Macrorregional II - Cacoal
+2 Leste Rondoniense                      1101 Macrorregional II - Cacoal
+3 Leste Rondoniense                      1101 Macrorregional II - Cacoal
+4 Leste Rondoniense                      1101 Macrorregional II - Cacoal
+5 Leste Rondoniense                      1101 Macrorregional II - Cacoal
+6 Leste Rondoniense                      1101 Macrorregional II - Cacoal
+  Codigo_Microrregiao Microrregiao Codigo_Microrregiao_Saude Microrregiao_Saude
+1               11006       Cacoal                     11005       Zona da Mata
+2               11006       Cacoal                     11005       Zona da Mata
+3               11006       Cacoal                     11005       Zona da Mata
+4               11006       Cacoal                     11005       Zona da Mata
+5               11006       Cacoal                     11005       Zona da Mata
+6               11006       Cacoal                     11005       Zona da Mata
+  Codigo_Municipio             Municipio Populacao
+1          1100015 Alta Floresta D'Oeste     22945
+2          1100015 Alta Floresta D'Oeste     22945
+3          1100015 Alta Floresta D'Oeste     22945
+4          1100015 Alta Floresta D'Oeste     22945
+5          1100015 Alta Floresta D'Oeste     22945
+6          1100015 Alta Floresta D'Oeste     22945
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+[[10]]
+NULL
+
+[[1]]
+[1] "Data"
+
+[[2]]
+  Codigo_Municipio_Saude    Periodo Tipo UTI adulto II COVID-19
+1                 110001 2020-01-01  SUS                      0
+2                 110001 2020-04-01  SUS                      0
+3                 110001 2020-06-01  SUS                      0
+4                 110001 2020-02-01  SUS                      0
+5                 110001 2020-05-01  SUS                      0
+6                 110001 2020-03-01  SUS                      0
+  UTI pediátrica II COVID-19 Unidade intermediária neonatal Unidade isolamento
+1                          0                              0                  2
+2                          0                              0                  2
+3                          0                              0                  2
+4                          0                              0                  2
+5                          0                              0                  2
+6                          0                              0                  2
+  UTI adulto I UTI adulto II UTI adulto III UTI pediátrica I UTI pediátrica II
+1            0             0              0                0                 0
+2            0             0              0                0                 0
+3            0             0              0                0                 0
+4            0             0              0                0                 0
+5            0             0              0                0                 0
+6            0             0              0                0                 0
+  UTI pediátrica III UTI neonatal I UTI neonatal II UTI neonatal III
+1                  0              0               0                0
+2                  0              0               0                0
+3                  0              0               0                0
+4                  0              0               0                0
+5                  0              0               0                0
+6                  0              0               0                0
+  UTI de Queimados UTI coronariana tipo II -UCO tipo II
+1                0                                    0
+2                0                                    0
+3                0                                    0
+4                0                                    0
+5                0                                    0
+6                0                                    0
+  UTI coronariana tipo III - UCO tipo III
+1                                       0
+2                                       0
+3                                       0
+4                                       0
+5                                       0
+6                                       0
+  Unidade de cuidados intermed neonatal convencional
+1                                                  0
+2                                                  0
+3                                                  0
+4                                                  0
+5                                                  0
+6                                                  0
+  Unidade de cuidados intermed neonatal canguru
+1                                             0
+2                                             0
+3                                             0
+4                                             0
+5                                             0
+6                                             0
+  Unidade de cuidados intermed pediatrico Unidade de cuidados intermed adulto
+1                                       0                                   0
+2                                       0                                   0
+3                                       0                                   0
+4                                       0                                   0
+5                                       0                                   0
+6                                       0                                   0
+  Total Codigo_Regiao Regiao Codigo_UF       UF Codigo_Mesorregiao
+1     2             1  Norte        11 Rondônia               1102
+2     2             1  Norte        11 Rondônia               1102
+3     2             1  Norte        11 Rondônia               1102
+4     2             1  Norte        11 Rondônia               1102
+5     2             1  Norte        11 Rondônia               1102
+6     2             1  Norte        11 Rondônia               1102
+        Mesorregiao Codigo_Macrorregiao_Saude         Macrorregiao_Saude
+1 Leste Rondoniense                      1101 Macrorregional II - Cacoal
+2 Leste Rondoniense                      1101 Macrorregional II - Cacoal
+3 Leste Rondoniense                      1101 Macrorregional II - Cacoal
+4 Leste Rondoniense                      1101 Macrorregional II - Cacoal
+5 Leste Rondoniense                      1101 Macrorregional II - Cacoal
+6 Leste Rondoniense                      1101 Macrorregional II - Cacoal
+  Codigo_Microrregiao Microrregiao Codigo_Microrregiao_Saude Microrregiao_Saude
+1               11006       Cacoal                     11005       Zona da Mata
+2               11006       Cacoal                     11005       Zona da Mata
+3               11006       Cacoal                     11005       Zona da Mata
+4               11006       Cacoal                     11005       Zona da Mata
+5               11006       Cacoal                     11005       Zona da Mata
+6               11006       Cacoal                     11005       Zona da Mata
+  Codigo_Municipio             Municipio Populacao
+1          1100015 Alta Floresta D'Oeste     22945
+2          1100015 Alta Floresta D'Oeste     22945
+3          1100015 Alta Floresta D'Oeste     22945
+4          1100015 Alta Floresta D'Oeste     22945
+5          1100015 Alta Floresta D'Oeste     22945
+6          1100015 Alta Floresta D'Oeste     22945
+
+[[3]]
+[1] "Gráfico de boxplot"
+
+[[4]]
+[1] "UTI pediátrica II COVID-19"
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+[[10]]
+NULL
+
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+[[10]]
+NULL
+
+Error in compile_data(as_sass(input), options) : 
+  Error: no mixin named switchCheckbox
+        on line 51:18 of src/components/EditionPanel/_styles.scss, in mixin `editionPanel`
+        from line 17:14 of src/pages/Edition/_styles.scss, in mixin `@content`
+        from line 6:5 of src/functions/ui/MainPanel/_styles.scss, in mixin `mainPanel`
+        from line 12:12 of src/pages/Edition/_styles.scss
+        from line 9:9 of src/styles/main.scss
+        from line 1:9 of stdin
+>>         @include switchCheckbox;
+
+   -----------------^
+Calls: <Anonymous> ... dots_list -> <Anonymous> -> dots_list -> sass -> compile_data
+Execução interrompida
+Error in compile_data(as_sass(input), options) : 
+  Error: Import directives may not be used within control directives or mixins.
+        on line 2:3 of src/components/EditionPanel/_styles.scss
+        from line 3:1 of src/pages/Edition/_styles.scss
+        from line 9:1 of src/styles/main.scss
+        from line 1:1 of stdin
+>>   @import "../SwitchCheckbox/styles";
+
+   --^
+Calls: <Anonymous> ... dots_list -> <Anonymous> -> dots_list -> sass -> compile_data
+Execução interrompida
+
+Listening on http://127.0.0.1:3333
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+[[10]]
+NULL
+
+Error in compile_data(as_sass(input), options) : 
+  Error: no mixin named switchCheckbox
+        on line 51:18 of src/components/EditionPanel/_styles.scss, in mixin `editionPanel`
+        from line 17:14 of src/pages/Edition/_styles.scss, in mixin `@content`
+        from line 6:5 of src/functions/ui/MainPanel/_styles.scss, in mixin `mainPanel`
+        from line 12:12 of src/pages/Edition/_styles.scss
+        from line 9:9 of src/styles/main.scss
+        from line 1:9 of stdin
+>>         @include switchCheckbox;
+
+   -----------------^
+Calls: <Anonymous> ... dots_list -> <Anonymous> -> dots_list -> sass -> compile_data
+Execução interrompida
+
+Listening on http://127.0.0.1:3333
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+[[10]]
+NULL
+
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+[[10]]
+NULL
+
+
+Listening on http://127.0.0.1:3333
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+[[10]]
+NULL
+
+Error in compile_data(as_sass(input), options) : 
+  Error: Invalid CSS after "}": expected "}", was ""
+        on line 109:2 of src/components/EditionPanel/_styles.scss
+        from line 3:1 of src/pages/Edition/_styles.scss
+        from line 9:1 of src/styles/main.scss
+        from line 1:1 of stdin
+>> }
+
+   -^
+Calls: <Anonymous> ... dots_list -> <Anonymous> -> dots_list -> sass -> compile_data
+Execução interrompida
+
+Listening on http://127.0.0.1:3333
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+[[10]]
+NULL
+
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+[[10]]
+NULL
+
+
+Listening on http://127.0.0.1:3333
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+[[10]]
+NULL
+
+
+Listening on http://127.0.0.1:3333
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+[[10]]
+NULL
+
+Error in compile_data(as_sass(input), options) : 
+  Error: no mixin named switchCheckbox
+        on line 51:18 of src/components/EditionPanel/_styles.scss, in mixin `editionPanel`
+        from line 17:14 of src/pages/Edition/_styles.scss, in mixin `@content`
+        from line 6:5 of src/functions/ui/MainPanel/_styles.scss, in mixin `mainPanel`
+        from line 12:12 of src/pages/Edition/_styles.scss
+        from line 9:9 of src/styles/main.scss
+        from line 1:9 of stdin
+>>         @include switchCheckbox();
+
+   -----------------^
+Calls: <Anonymous> ... dots_list -> <Anonymous> -> dots_list -> sass -> compile_data
+Execução interrompida
+Error in compile_data(as_sass(input), options) : 
+  Error: no mixin named switchCheckbox
+        on line 51:18 of src/components/EditionPanel/_styles.scss, in mixin `editionPanel`
+        from line 17:14 of src/pages/Edition/_styles.scss, in mixin `@content`
+        from line 6:5 of src/functions/ui/MainPanel/_styles.scss, in mixin `mainPanel`
+        from line 12:12 of src/pages/Edition/_styles.scss
+        from line 9:9 of src/styles/main.scss
+        from line 1:9 of stdin
+>>         @include switchCheckbox();
+
+   -----------------^
+Calls: <Anonymous> ... dots_list -> <Anonymous> -> dots_list -> sass -> compile_data
+Execução interrompida
+
+Listening on http://127.0.0.1:3333
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+[[10]]
+NULL
+
+
+Listening on http://127.0.0.1:3333
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+[[10]]
+NULL
+
+
+Listening on http://127.0.0.1:3333
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+[[10]]
+NULL
+
+Error in compile_data(as_sass(input), options) : 
+  Error: Import directives may not be used within control directives or mixins.
+        on line 2:3 of src/components/EditionPanel/_styles.scss
+        from line 3:1 of src/pages/Edition/_styles.scss
+        from line 9:1 of src/styles/main.scss
+        from line 1:1 of stdin
+>>   @import "../SwitchCheckbox/styles";
+
+   --^
+Calls: <Anonymous> ... dots_list -> <Anonymous> -> dots_list -> sass -> compile_data
+Execução interrompida
+
+Listening on http://127.0.0.1:3333
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+[[10]]
+NULL
+
+Error in source("./src/components/SwitchCheckbox/index.R") : 
+  ./src/components/SwitchCheckbox/index.R:11:20: '=' inesperado
+10:     ),
+11:     tags$label(for =
+                       ^
+Calls: source -> withVisible -> eval -> eval -> source
+Execução interrompida
+
+Listening on http://127.0.0.1:3333
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+[[10]]
+NULL
+
+[[1]]
+[1] "Data"
+
+[[2]]
+  Codigo_Municipio_Saude    Periodo Tipo UTI adulto II COVID-19
+1                 110001 2020-01-01  SUS                      0
+2                 110001 2020-04-01  SUS                      0
+3                 110001 2020-06-01  SUS                      0
+4                 110001 2020-02-01  SUS                      0
+5                 110001 2020-05-01  SUS                      0
+6                 110001 2020-03-01  SUS                      0
+  UTI pediátrica II COVID-19 Unidade intermediária neonatal Unidade isolamento
+1                          0                              0                  2
+2                          0                              0                  2
+3                          0                              0                  2
+4                          0                              0                  2
+5                          0                              0                  2
+6                          0                              0                  2
+  UTI adulto I UTI adulto II UTI adulto III UTI pediátrica I UTI pediátrica II
+1            0             0              0                0                 0
+2            0             0              0                0                 0
+3            0             0              0                0                 0
+4            0             0              0                0                 0
+5            0             0              0                0                 0
+6            0             0              0                0                 0
+  UTI pediátrica III UTI neonatal I UTI neonatal II UTI neonatal III
+1                  0              0               0                0
+2                  0              0               0                0
+3                  0              0               0                0
+4                  0              0               0                0
+5                  0              0               0                0
+6                  0              0               0                0
+  UTI de Queimados UTI coronariana tipo II -UCO tipo II
+1                0                                    0
+2                0                                    0
+3                0                                    0
+4                0                                    0
+5                0                                    0
+6                0                                    0
+  UTI coronariana tipo III - UCO tipo III
+1                                       0
+2                                       0
+3                                       0
+4                                       0
+5                                       0
+6                                       0
+  Unidade de cuidados intermed neonatal convencional
+1                                                  0
+2                                                  0
+3                                                  0
+4                                                  0
+5                                                  0
+6                                                  0
+  Unidade de cuidados intermed neonatal canguru
+1                                             0
+2                                             0
+3                                             0
+4                                             0
+5                                             0
+6                                             0
+  Unidade de cuidados intermed pediatrico Unidade de cuidados intermed adulto
+1                                       0                                   0
+2                                       0                                   0
+3                                       0                                   0
+4                                       0                                   0
+5                                       0                                   0
+6                                       0                                   0
+  Total Codigo_Regiao Regiao Codigo_UF       UF Codigo_Mesorregiao
+1     2             1  Norte        11 Rondônia               1102
+2     2             1  Norte        11 Rondônia               1102
+3     2             1  Norte        11 Rondônia               1102
+4     2             1  Norte        11 Rondônia               1102
+5     2             1  Norte        11 Rondônia               1102
+6     2             1  Norte        11 Rondônia               1102
+        Mesorregiao Codigo_Macrorregiao_Saude         Macrorregiao_Saude
+1 Leste Rondoniense                      1101 Macrorregional II - Cacoal
+2 Leste Rondoniense                      1101 Macrorregional II - Cacoal
+3 Leste Rondoniense                      1101 Macrorregional II - Cacoal
+4 Leste Rondoniense                      1101 Macrorregional II - Cacoal
+5 Leste Rondoniense                      1101 Macrorregional II - Cacoal
+6 Leste Rondoniense                      1101 Macrorregional II - Cacoal
+  Codigo_Microrregiao Microrregiao Codigo_Microrregiao_Saude Microrregiao_Saude
+1               11006       Cacoal                     11005       Zona da Mata
+2               11006       Cacoal                     11005       Zona da Mata
+3               11006       Cacoal                     11005       Zona da Mata
+4               11006       Cacoal                     11005       Zona da Mata
+5               11006       Cacoal                     11005       Zona da Mata
+6               11006       Cacoal                     11005       Zona da Mata
+  Codigo_Municipio             Municipio Populacao
+1          1100015 Alta Floresta D'Oeste     22945
+2          1100015 Alta Floresta D'Oeste     22945
+3          1100015 Alta Floresta D'Oeste     22945
+4          1100015 Alta Floresta D'Oeste     22945
+5          1100015 Alta Floresta D'Oeste     22945
+6          1100015 Alta Floresta D'Oeste     22945
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+[[10]]
+NULL
+
+[[1]]
+[1] "Data"
+
+[[2]]
+  Codigo_Municipio_Saude    Periodo Tipo UTI adulto II COVID-19
+1                 110001 2020-01-01  SUS                      0
+2                 110001 2020-04-01  SUS                      0
+3                 110001 2020-06-01  SUS                      0
+4                 110001 2020-02-01  SUS                      0
+5                 110001 2020-05-01  SUS                      0
+6                 110001 2020-03-01  SUS                      0
+  UTI pediátrica II COVID-19 Unidade intermediária neonatal Unidade isolamento
+1                          0                              0                  2
+2                          0                              0                  2
+3                          0                              0                  2
+4                          0                              0                  2
+5                          0                              0                  2
+6                          0                              0                  2
+  UTI adulto I UTI adulto II UTI adulto III UTI pediátrica I UTI pediátrica II
+1            0             0              0                0                 0
+2            0             0              0                0                 0
+3            0             0              0                0                 0
+4            0             0              0                0                 0
+5            0             0              0                0                 0
+6            0             0              0                0                 0
+  UTI pediátrica III UTI neonatal I UTI neonatal II UTI neonatal III
+1                  0              0               0                0
+2                  0              0               0                0
+3                  0              0               0                0
+4                  0              0               0                0
+5                  0              0               0                0
+6                  0              0               0                0
+  UTI de Queimados UTI coronariana tipo II -UCO tipo II
+1                0                                    0
+2                0                                    0
+3                0                                    0
+4                0                                    0
+5                0                                    0
+6                0                                    0
+  UTI coronariana tipo III - UCO tipo III
+1                                       0
+2                                       0
+3                                       0
+4                                       0
+5                                       0
+6                                       0
+  Unidade de cuidados intermed neonatal convencional
+1                                                  0
+2                                                  0
+3                                                  0
+4                                                  0
+5                                                  0
+6                                                  0
+  Unidade de cuidados intermed neonatal canguru
+1                                             0
+2                                             0
+3                                             0
+4                                             0
+5                                             0
+6                                             0
+  Unidade de cuidados intermed pediatrico Unidade de cuidados intermed adulto
+1                                       0                                   0
+2                                       0                                   0
+3                                       0                                   0
+4                                       0                                   0
+5                                       0                                   0
+6                                       0                                   0
+  Total Codigo_Regiao Regiao Codigo_UF       UF Codigo_Mesorregiao
+1     2             1  Norte        11 Rondônia               1102
+2     2             1  Norte        11 Rondônia               1102
+3     2             1  Norte        11 Rondônia               1102
+4     2             1  Norte        11 Rondônia               1102
+5     2             1  Norte        11 Rondônia               1102
+6     2             1  Norte        11 Rondônia               1102
+        Mesorregiao Codigo_Macrorregiao_Saude         Macrorregiao_Saude
+1 Leste Rondoniense                      1101 Macrorregional II - Cacoal
+2 Leste Rondoniense                      1101 Macrorregional II - Cacoal
+3 Leste Rondoniense                      1101 Macrorregional II - Cacoal
+4 Leste Rondoniense                      1101 Macrorregional II - Cacoal
+5 Leste Rondoniense                      1101 Macrorregional II - Cacoal
+6 Leste Rondoniense                      1101 Macrorregional II - Cacoal
+  Codigo_Microrregiao Microrregiao Codigo_Microrregiao_Saude Microrregiao_Saude
+1               11006       Cacoal                     11005       Zona da Mata
+2               11006       Cacoal                     11005       Zona da Mata
+3               11006       Cacoal                     11005       Zona da Mata
+4               11006       Cacoal                     11005       Zona da Mata
+5               11006       Cacoal                     11005       Zona da Mata
+6               11006       Cacoal                     11005       Zona da Mata
+  Codigo_Municipio             Municipio Populacao
+1          1100015 Alta Floresta D'Oeste     22945
+2          1100015 Alta Floresta D'Oeste     22945
+3          1100015 Alta Floresta D'Oeste     22945
+4          1100015 Alta Floresta D'Oeste     22945
+5          1100015 Alta Floresta D'Oeste     22945
+6          1100015 Alta Floresta D'Oeste     22945
+
+[[3]]
+[1] "Gráfico de boxplot"
+
+[[4]]
+[1] "Unidade isolamento"
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+[[10]]
+NULL
+
+
+Listening on http://127.0.0.1:3333
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+[[10]]
+NULL
+
+Error in dots_list(...) : tentativa de aplicar uma não-função
+Calls: source ... dots_list -> switchCheckbox -> <Anonymous> -> dots_list
+Execução interrompida
+
+Listening on http://127.0.0.1:3333
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+[[10]]
+NULL
+
+
+Listening on http://127.0.0.1:3333
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+[[10]]
+NULL
+
+
+Listening on http://127.0.0.1:3333
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+[[10]]
+NULL
+
+
+Listening on http://127.0.0.1:3333
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+[[10]]
+NULL
+
+
+Listening on http://127.0.0.1:3333
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+[[10]]
+NULL
+
+
+Listening on http://127.0.0.1:3333
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+[[10]]
+NULL
+
+NULL
+
+Listening on http://127.0.0.1:3333
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+[[10]]
+NULL
+
+[1] "oi"
+Error in dots_list(...) : argumento "label" ausente, sem padrão
+Calls: source ... <Anonymous> -> dots_list -> <Anonymous> -> dots_list
+Execução interrompida
+
+Listening on http://127.0.0.1:3333
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+[[10]]
+NULL
+
+[1] "oi"
+
+Listening on http://127.0.0.1:3333
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+[[10]]
+NULL
+
+[1] "oi"
+
+Listening on http://127.0.0.1:3333
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+[[10]]
+NULL
+
+[1] "oi"
+
+Listening on http://127.0.0.1:3333
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+[[10]]
+NULL
+
+NULL
+
+Listening on http://127.0.0.1:3333
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+[[10]]
+NULL
+
+NULL
+[1] FALSE
+[1] "oi"
+[1] TRUE
+
+Listening on http://127.0.0.1:3333
+NULL
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+[[10]]
+NULL
+
+Warning: Error in <observer:observe(input$switch_shadow)>: objeto 'input' não encontrado
+  [No stack trace available]
+NULL
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+[[10]]
+NULL
+
+Warning: Error in <observer:observe(input$switch_shadow)>: objeto 'input' não encontrado
+  [No stack trace available]
+NULL
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+[[10]]
+NULL
+
+Warning: Error in <observer:observe(input$switch_shadow)>: objeto 'input' não encontrado
+  [No stack trace available]
+NULL
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+[[10]]
+NULL
+
+Warning: Error in <observer:observe(input$switch_shadow)>: objeto 'input' não encontrado
+  [No stack trace available]
+NULL
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+[[10]]
+NULL
+
+Warning: Error in <observer:observe(input$switch_shadow)>: objeto 'input' não encontrado
+  [No stack trace available]
+NULL
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+[[10]]
+NULL
+
+Warning: Error in <observer:observe(input$switch_shadow)>: objeto 'input' não encontrado
+  [No stack trace available]
+NULL
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+[[10]]
+NULL
+
+Warning: Error in <observer:observe(input$switch_shadow)>: objeto 'input' não encontrado
+  [No stack trace available]
+NULL
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+[[10]]
+NULL
+
+Warning: Error in <observer:observe(input$switch_shadow)>: objeto 'input' não encontrado
+  [No stack trace available]
+NULL
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+[[10]]
+NULL
+
+Warning: Error in <observer:observe(input$switch_shadow)>: objeto 'input' não encontrado
+  [No stack trace available]
+NULL
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+[[10]]
+NULL
+
+Warning: Error in <observer:observe(input$switch_shadow)>: objeto 'input' não encontrado
+  [No stack trace available]
+NULL
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+[[10]]
+NULL
+
+Warning: Error in <observer:observe(input$switch_shadow)>: objeto 'input' não encontrado
+  [No stack trace available]
+
+Listening on http://127.0.0.1:3333
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+[[10]]
+NULL
+
+NULL
+[1] FALSE
+[1] TRUE
+[1] FALSE
+[1] TRUE
+[1] FALSE
+
+Listening on http://127.0.0.1:3333
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+[[10]]
+NULL
+
+[1] TRUE
+[1] FALSE
+[1] TRUE
 
 
 Execução interrompida

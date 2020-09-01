@@ -18,15 +18,13 @@ importDataButtonServer <- function(id, label) {
   moduleServer(
     id,
     function(input, output, session) {
-      dataframe <- reactive({
-        req(input$button)
+      dataframe <- reactiveValues(data = NULL)
 
-        readRDS(input$button$datapath)
+      observeEvent(input$button, {
+        dataframe$data <- readRDS(input$button$datapath)
       })
 
-      observeEvent(dataframe(), {
-        session$userData$dataframe$data <- dataframe()
-      })
+      return(dataframe)
     }
   )
 }

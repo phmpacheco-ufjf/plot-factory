@@ -5,8 +5,8 @@ ui <- tags$html(
   conditionalPanel(
     condition = "$('html').hasClass('shiny-busy')",
     tags$div(
-      class = "loading_div",
-      tags$div(class = "loader", "")
+      class = "lds-roller",
+      tags$div(), tags$div(), tags$div(), tags$div(), tags$div(), tags$div(), tags$div(), tags$div()
     )
   ),
 
@@ -61,7 +61,7 @@ server <- function(input, output, session) {
   observe({
     print(list(
       "Data",
-      # head(session$userData$dataframe$data),
+      head(session$userData$dataframe$data),
       session$userData$plotOptions$type,
       session$userData$plotOptions$variableX,
       session$userData$plotOptions$variableY,

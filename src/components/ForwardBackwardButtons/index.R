@@ -18,12 +18,13 @@ forwardBackwardButtons <- function(id) {
   )
 }
 
-forwardBackwardButtonsServer <- function(id, backward, forward) {
+forwardBackwardButtonsServer <- function(id, backward, forward, ...) {
   moduleServer(
     id,
     function(input, output, session) {
       pageTransitionButtonServer(id = "backward", page = backward)
-      pageTransitionButtonServer(id = "forward", page = forward)
+
+      pageTransitionButtonServer(id = "forward", page = forward, ...)
     }
   )
 }

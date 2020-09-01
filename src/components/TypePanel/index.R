@@ -42,7 +42,7 @@ typePanelServer <- function(id) {
         "Gráfico de boxplot"
       )
 
-      observeEvent(session$userData$dataframe$data, {
+      observe({
         req(session$userData$dataframe$data)
 
         updateSelectInput(
@@ -75,22 +75,6 @@ typePanelServer <- function(id) {
       })
 
       observeEvent(input$type, {
-        session$userData$plotOptions$type <- defaultSetPlotOptions(input = input$type)
-      })
-
-      observeEvent(input$variableX, {
-        session$userData$plotOptions$variableX <- defaultSetPlotOptions(input = input$variableX)
-      })
-
-      observeEvent(input$variableY, {
-        session$userData$plotOptions$variableY <- defaultSetPlotOptions(input = input$variableY)
-      })
-
-      observeEvent(input$variableGroupBy, {
-        session$userData$plotOptions$variableGroupBy <- defaultSetPlotOptions(input = input$variableGroupBy)
-      })
-
-      observeEvent(input$type, {
         req(input$type)
 
         if (input$type == "Gráfico de pizza" | input$type == "Gráfico de boxplot") {
@@ -113,6 +97,31 @@ typePanelServer <- function(id) {
           enable("variableGroupBy")
         }
       })
+
+      plotOptions <- reactiveValues(
+        type = NULL,
+        variableX = NULL,
+        variableY = NULL,
+        variableGroupBy = NULL
+      )
+
+      observeEvent(input$type, {
+        plotOptions$type <- defaultSetPlotOptions(input = input$type)
+      })
+
+      observeEvent(input$variableX, {
+        plotOptions$variableX <- defaultSetPlotOptions(input = input$variableX)
+      })
+
+      observeEvent(input$variableY, {
+        plotOptions$variableY <- defaultSetPlotOptions(input = input$variableY)
+      })
+
+      observeEvent(input$variableGroupBy, {
+        plotOptions$variableGroupBy <- defaultSetPlotOptions(input = input$variableGroupBy)
+      })
+
+      return(plotOptions)
     }
   )
 }

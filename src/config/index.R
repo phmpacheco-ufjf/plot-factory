@@ -14,6 +14,7 @@ source("./src/components/DisplayDataframe/index.R")
 source("./src/components/ForwardBackwardButtons/index.R")
 source("./src/components/TypePanel/index.R")
 source("./src/components/EditionPanel/index.R")
+source("./src/components/SwitchCheckbox/index.R")
 
 source("./src/functions/ui/MainPanel/index.R")
 source("./src/functions/ui/MainText/index.R")

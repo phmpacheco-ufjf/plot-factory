@@ -1,9 +1,21 @@
 serverEdition <- function(input, output, session) {
   sidebarPanelServer(id = "sideBarPanelEdition")
 
-  editionPanelServer(id = "editionPanelEdition")
+  plotOptions <- editionPanelServer(id = "editionPanelEdition")
 
-  forwardBackwardButtonsServer(
-    id = "forwardBackwardButtonsEdition", backward = "type", forward = "result"
-  )
+  observe({
+    req(plotOptions$title, plotOptions$subtitle)
+
+    forwardBackwardButtonsServer(
+      id = "forwardBackwardButtonsEdition",
+      backward = "type",
+      forward = "result",
+      {
+        session$userData$plotOptions$title <- plotOptions$title
+        session$userData$plotOptions$subtitle <- plotOptions$subtitle
+        session$userData$plotOptions$hexColor <- plotOptions$hexColor
+        session$userData$plotOptions$typeColor <- plotOptions$typeColor
+      }
+    )
+  })
 }
