@@ -2,13 +2,13 @@ source("./src/config/index.R")
 source("./src/routes/index.R")
 
 ui <- tags$html(
-  conditionalPanel(
-    condition = "$('html').hasClass('shiny-busy')",
-    tags$div(
-      class = "lds-roller",
-      tags$div(), tags$div(), tags$div(), tags$div(), tags$div(), tags$div(), tags$div(), tags$div()
-    )
-  ),
+  # conditionalPanel(
+  #   condition = "$('html').hasClass('shiny-busy')",
+  #   tags$div(
+  #     class = "lds-roller",
+  #     tags$div(), tags$div(), tags$div(), tags$div(), tags$div(), tags$div(), tags$div(), tags$div()
+  #   )
+  # ),
 
   tags$head(
     useShinyjs(),
@@ -58,20 +58,36 @@ server <- function(input, output, session) {
     typeColor = NULL
   )
 
-  observe({
-    print(list(
-      "Data",
-      head(session$userData$dataframe$data),
-      session$userData$plotOptions$type,
-      session$userData$plotOptions$variableX,
-      session$userData$plotOptions$variableY,
-      session$userData$plotOptions$variableGroupBy,
-      session$userData$plotOptions$title,
-      session$userData$plotOptions$subtitle,
-      session$userData$plotOptions$hexColor,
-      session$userData$plotOptions$typeColor
-    ))
-  })
+  session$userData$plotConfig <- reactiveValues(
+    subtitles = FALSE,
+    subtitles_hover = FALSE
+  )
+
+  # session$userData$dataframe <- reactiveValues(
+  #   data = NULL,
+  #   x = NULL,
+  #   y = NULL,
+  #   groupBy = NULL
+  # )
+
+  # session$userData$plotOptions <- reactiveValues(
+  #   type = NULL,
+  #   mode = NULL,
+  #   marker = NULL,
+  #   line = NULL,
+  #   hoverinfo = NULL,
+  #   textinfo = NULL,
+  #   showlegend = NULL,
+  #   labels = NULL,
+  #   values = NULL,
+  #   hole = NULL,
+  #   textposition = NULL,
+  #   insidetextanchor = NULL,
+  #   title = NULL,
+  #   subtitle = NULL,
+  #   hexColor = NULL,
+  #   typeColor = NULL
+  # )
 }
 
 options(shiny.port = 3333)

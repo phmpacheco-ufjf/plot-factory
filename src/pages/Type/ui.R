@@ -1,8 +1,8 @@
 uiType <- tags$div(
   class = "type",
-  sideBarPanel(id = "sideBarPanelType", route_id = "type"),
+  sideBarPanel(id = "sideBarPanelType"),
   mainPanel(
-    mainText(
+    mainText = mainText(
       title = "Tipo de gráfico",
       text = "Definida a base de dados, o próximo passo é escolher quais serão as
         variáveis a serem analisadas e também qual o tipo do gráfico a ser exibido.

@@ -1,8 +1,8 @@
 uiEdition <- tags$div(
   class = "edition",
-  sideBarPanel(id = "sideBarPanelEdition", route_id = "edition"),
+  sideBarPanel(id = "sideBarPanelEdition"),
   mainPanel(
-    mainText(
+    mainText = mainText(
       title = "Edição",
       text = "Por fim, é preciso editar o gráfico. Adicionar um bom título,
         cores equilibradas, legendas bem indicadas e uma visualização dinâmica

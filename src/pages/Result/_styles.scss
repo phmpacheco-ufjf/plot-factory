@@ -1,0 +1,33 @@
+@import "../../components/SideBarPanel/styles";
+@import "../../components/ForwardBackwardButtons/styles";
+@import "../../functions/ui/MainPanel/styles";
+@import "../../functions/ui/MainText/styles";
+
+.result {
+  display: flex;
+
+  @include sideBarPanel();
+
+  @include mainPanel() {
+    @include mainText() {
+      margin-top: 3%;
+
+      p + p {
+        margin-top: 20px;
+      }
+    }
+
+    .blue-border {
+      display: flex;
+      justify-content: flex-start;
+      margin: 20px 2.5%;
+      height: 425px;
+      width: 95%;
+      border: 5px solid $base-blue !important;
+      background-color: $base-white;
+      overflow: scroll;
+    }
+
+    @include forwardBackwardButtons();
+  }
+}

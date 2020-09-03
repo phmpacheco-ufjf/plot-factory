@@ -662,13 +662,39 @@ ul {
   border-width: 1px;
 }
 
-.edition .mainPanel .editionPanel .config .switch__container .switch {
-  position: absolute;
-  margin-left: -9999px;
+.edition .mainPanel .editionPanel .config {
+  display: flex;
+  flex-direction: column;
+  width: 95%;
+  margin-top: 10px;
+}
+
+.edition .mainPanel .editionPanel .config > div {
+  display: flex;
+}
+
+.edition .mainPanel .editionPanel .config > div .content {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+
+.edition .mainPanel .editionPanel .config .switch_container {
+  display: flex;
+  align-items: center;
+  margin: 5px 0;
+}
+
+.edition .mainPanel .editionPanel .config .switch_container .switch_content {
+  display: flex;
+  align-items: center;
+}
+
+.edition .mainPanel .editionPanel .config .switch_container .switch_content .switch {
   visibility: hidden;
 }
 
-.edition .mainPanel .editionPanel .config .switch__container .switch + label {
+.edition .mainPanel .editionPanel .config .switch_container .switch_content .switch + label {
   display: block;
   position: relative;
   cursor: pointer;
@@ -676,16 +702,15 @@ ul {
   user-select: none;
 }
 
-.edition .mainPanel .editionPanel .config .switch__container .switch--shadow + label {
+.edition .mainPanel .editionPanel .config .switch_container .switch_content .switch--shadow + label {
   padding: 2px;
-  width: 120px;
-  height: 60px;
+  width: 52px;
+  height: 32px;
   background-color: #dddddd;
-  border-radius: 60px;
+  border-radius: 32px;
 }
 
-.edition .mainPanel .editionPanel .config .switch__container .switch--shadow + label:before,
-.edition .mainPanel .editionPanel .config .switch__container .switch--shadow + label:after {
+.edition .mainPanel .editionPanel .config .switch_container .switch_content .switch--shadow + label:before, .edition .mainPanel .editionPanel .config .switch_container .switch_content .switch--shadow + label:after {
   display: block;
   position: absolute;
   top: 1px;
@@ -694,27 +719,27 @@ ul {
   content: "";
 }
 
-.edition .mainPanel .editionPanel .config .switch__container .switch--shadow + label:before {
+.edition .mainPanel .editionPanel .config .switch_container .switch_content .switch--shadow + label:before {
   right: 1px;
   background-color: #f1f1f1;
   border-radius: 60px;
   transition: all 0.4s;
 }
 
-.edition .mainPanel .editionPanel .config .switch__container .switch--shadow + label:after {
-  width: 62px;
+.edition .mainPanel .editionPanel .config .switch_container .switch_content .switch--shadow + label:after {
+  width: 31px;
   background-color: #fff;
   border-radius: 100%;
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
   transition: all 0.4s;
 }
 
-.edition .mainPanel .editionPanel .config .switch__container .switch--shadow:checked + label:before {
-  background-color: #8ce196;
+.edition .mainPanel .editionPanel .config .switch_container .switch_content .switch--shadow:checked + label:before {
+  background-color: #333333;
 }
 
-.edition .mainPanel .editionPanel .config .switch__container .switch--shadow:checked + label:after {
-  transform: translateX(60px);
+.edition .mainPanel .editionPanel .config .switch_container .switch_content .switch--shadow:checked + label:after {
+  transform: translateX(20px);
 }
 
 .edition .mainPanel .forwardBackwardButtons {
@@ -741,6 +766,128 @@ ul {
 }
 
 .edition .mainPanel .forwardBackwardButtons .mainButton .green-button {
+  margin: 10px;
+}
+
+.result {
+  display: flex;
+}
+
+.result .sideBarPanel {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: space-between;
+  min-height: 100vh;
+  width: max-content;
+  padding: 0 10px;
+  background-color: #fcfcfc;
+}
+
+.result .sideBarPanel .logo {
+  margin-top: 30px;
+}
+
+.result .sideBarPanel .navigation {
+  display: flex;
+  flex-direction: column;
+}
+
+.result .sideBarPanel .navigation .sideBarPanelItem {
+  display: flex;
+  align-items: center;
+}
+
+.result .sideBarPanel .navigation .sideBarPanelItem a {
+  font-family: "PT Sans Narrow", sans-serif;
+  font-size: 35pt;
+  color: #333333;
+  margin-left: 7px;
+}
+
+.result .sideBarPanel .navigation .sideBarPanelItem a.active {
+  border-bottom: 4px solid #0c9fbf;
+  border-radius: 2px;
+}
+
+.result .sideBarPanel .navigation .sideBarPanelItem + .item {
+  margin-top: 28px;
+}
+
+.result .sideBarPanel .footer {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+
+.result .sideBarPanel .footer p {
+  font-family: "PT Sans Narrow", sans-serif;
+  margin-left: 7px;
+  font-size: 15pt;
+}
+
+.result .mainPanel {
+  background-color: #e5ebf1;
+  background-image: url("../../../assets/images/background.svg");
+}
+
+.result .mainPanel .mainText {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 95%;
+  margin-top: 3%;
+}
+
+.result .mainPanel .mainText h1 {
+  font-size: 60pt;
+  width: 95%;
+}
+
+.result .mainPanel .mainText p {
+  font-size: 25pt;
+  width: 95%;
+}
+
+.result .mainPanel .mainText p + p {
+  margin-top: 20px;
+}
+
+.result .mainPanel .blue-border {
+  display: flex;
+  justify-content: flex-start;
+  margin: 20px 2.5%;
+  height: 425px;
+  width: 95%;
+  border: 5px solid #0c9fbf !important;
+  background-color: #fcfcfc;
+  overflow: scroll;
+}
+
+.result .mainPanel .forwardBackwardButtons {
+  display: flex;
+  justify-content: center;
+}
+
+.result .mainPanel .forwardBackwardButtons .mainButton {
+  display: flex;
+  flex-direction: column;
+  width: max-content;
+  flex-direction: row-reverse;
+}
+
+.result .mainPanel .forwardBackwardButtons .mainButton .green-button {
+  display: flex;
+  background-color: #1eb21e;
+  color: #fcfcfc;
+  padding: 10px 20px;
+  font-size: 20pt;
+  font-weight: 700;
+  border-radius: 10px;
+  width: max-content;
+}
+
+.result .mainPanel .forwardBackwardButtons .mainButton .green-button {
   margin: 10px;
 }
 

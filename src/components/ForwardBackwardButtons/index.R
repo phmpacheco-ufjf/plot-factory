@@ -1,20 +1,30 @@
-forwardBackwardButtons <- function(id) {
+forwardBackwardButtons <- function(id, forward = TRUE) {
   ns <- NS(id)
 
   tags$div(
     class = "forwardBackwardButtons",
-    mainButton(
-      mainButton = pageTransitionButton(
-        id = ns("backward"),
-        label = "Voltar",
-        class = "green-button"
-      ),
-      button = pageTransitionButton(
-        id = ns("forward"),
-        label = "Avançar",
-        class = "green-button"
+    if (forward) {
+      mainButton(
+        mainButton = pageTransitionButton(
+          id = ns("backward"),
+          label = "Voltar",
+          class = "green-button"
+        ),
+        button <- pageTransitionButton(
+          id = ns("forward"),
+          label = "Avançar",
+          class = "green-button"
+        )
       )
-    )
+    } else {
+      mainButton(
+        mainButton = pageTransitionButton(
+          id = ns("backward"),
+          label = "Voltar",
+          class = "green-button"
+        )
+      )
+    }
   )
 }
 

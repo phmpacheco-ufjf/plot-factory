@@ -1,8 +1,8 @@
 uiHome <- tags$div(
   class = "home",
-  sideBarPanel(id = "sideBarPanelHome", route_id = "home"),
+  sideBarPanel(id = "sideBarPanelHome"),
   mainPanel(
-    mainText(
+    mainText = mainText(
       title = "Seja bem-vindo!",
       text = "A Plot Factory é uma plataforma voltada para a criação de gráficos
               interativos através da ferramenta estatística Shiny disponível no R."

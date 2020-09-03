@@ -1,8 +1,8 @@
 uiDataImport <- tags$div(
   class = "dataImport",
-  sideBarPanel(id = "sideBarPanelDataImport", route_id = "data-import"),
+  sideBarPanel(id = "sideBarPanelDataImport"),
   mainPanel(
-    mainText(
+    mainText = mainText(
       title = "Importando dados",
       text = "O primeiro passo para a construção de qualquer gráfico é importaro banco de dados.
               Para isso, clique no botão abaixo para selecionar o arquivo de interesse.",

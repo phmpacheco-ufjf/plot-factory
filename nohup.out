@@ -2151,3 +2151,8030 @@ NULL
 
 
 Execução interrompida
+
+Listening on http://127.0.0.1:3333
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+[[10]]
+NULL
+
+[[1]]
+[1] "Data"
+
+[[2]]
+  Codigo_Municipio_Saude    Periodo Tipo UTI adulto II COVID-19
+1                 110001 2020-01-01  SUS                      0
+2                 110001 2020-04-01  SUS                      0
+3                 110001 2020-06-01  SUS                      0
+4                 110001 2020-02-01  SUS                      0
+5                 110001 2020-05-01  SUS                      0
+6                 110001 2020-03-01  SUS                      0
+  UTI pediátrica II COVID-19 Unidade intermediária neonatal Unidade isolamento
+1                          0                              0                  2
+2                          0                              0                  2
+3                          0                              0                  2
+4                          0                              0                  2
+5                          0                              0                  2
+6                          0                              0                  2
+  UTI adulto I UTI adulto II UTI adulto III UTI pediátrica I UTI pediátrica II
+1            0             0              0                0                 0
+2            0             0              0                0                 0
+3            0             0              0                0                 0
+4            0             0              0                0                 0
+5            0             0              0                0                 0
+6            0             0              0                0                 0
+  UTI pediátrica III UTI neonatal I UTI neonatal II UTI neonatal III
+1                  0              0               0                0
+2                  0              0               0                0
+3                  0              0               0                0
+4                  0              0               0                0
+5                  0              0               0                0
+6                  0              0               0                0
+  UTI de Queimados UTI coronariana tipo II -UCO tipo II
+1                0                                    0
+2                0                                    0
+3                0                                    0
+4                0                                    0
+5                0                                    0
+6                0                                    0
+  UTI coronariana tipo III - UCO tipo III
+1                                       0
+2                                       0
+3                                       0
+4                                       0
+5                                       0
+6                                       0
+  Unidade de cuidados intermed neonatal convencional
+1                                                  0
+2                                                  0
+3                                                  0
+4                                                  0
+5                                                  0
+6                                                  0
+  Unidade de cuidados intermed neonatal canguru
+1                                             0
+2                                             0
+3                                             0
+4                                             0
+5                                             0
+6                                             0
+  Unidade de cuidados intermed pediatrico Unidade de cuidados intermed adulto
+1                                       0                                   0
+2                                       0                                   0
+3                                       0                                   0
+4                                       0                                   0
+5                                       0                                   0
+6                                       0                                   0
+  Total Codigo_Regiao Regiao Codigo_UF       UF Codigo_Mesorregiao
+1     2             1  Norte        11 Rondônia               1102
+2     2             1  Norte        11 Rondônia               1102
+3     2             1  Norte        11 Rondônia               1102
+4     2             1  Norte        11 Rondônia               1102
+5     2             1  Norte        11 Rondônia               1102
+6     2             1  Norte        11 Rondônia               1102
+        Mesorregiao Codigo_Macrorregiao_Saude         Macrorregiao_Saude
+1 Leste Rondoniense                      1101 Macrorregional II - Cacoal
+2 Leste Rondoniense                      1101 Macrorregional II - Cacoal
+3 Leste Rondoniense                      1101 Macrorregional II - Cacoal
+4 Leste Rondoniense                      1101 Macrorregional II - Cacoal
+5 Leste Rondoniense                      1101 Macrorregional II - Cacoal
+6 Leste Rondoniense                      1101 Macrorregional II - Cacoal
+  Codigo_Microrregiao Microrregiao Codigo_Microrregiao_Saude Microrregiao_Saude
+1               11006       Cacoal                     11005       Zona da Mata
+2               11006       Cacoal                     11005       Zona da Mata
+3               11006       Cacoal                     11005       Zona da Mata
+4               11006       Cacoal                     11005       Zona da Mata
+5               11006       Cacoal                     11005       Zona da Mata
+6               11006       Cacoal                     11005       Zona da Mata
+  Codigo_Municipio             Municipio Populacao
+1          1100015 Alta Floresta D'Oeste     22945
+2          1100015 Alta Floresta D'Oeste     22945
+3          1100015 Alta Floresta D'Oeste     22945
+4          1100015 Alta Floresta D'Oeste     22945
+5          1100015 Alta Floresta D'Oeste     22945
+6          1100015 Alta Floresta D'Oeste     22945
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+[[10]]
+NULL
+
+[[1]]
+[1] "Data"
+
+[[2]]
+  Codigo_Municipio_Saude    Periodo Tipo UTI adulto II COVID-19
+1                 110001 2020-01-01  SUS                      0
+2                 110001 2020-04-01  SUS                      0
+3                 110001 2020-06-01  SUS                      0
+4                 110001 2020-02-01  SUS                      0
+5                 110001 2020-05-01  SUS                      0
+6                 110001 2020-03-01  SUS                      0
+  UTI pediátrica II COVID-19 Unidade intermediária neonatal Unidade isolamento
+1                          0                              0                  2
+2                          0                              0                  2
+3                          0                              0                  2
+4                          0                              0                  2
+5                          0                              0                  2
+6                          0                              0                  2
+  UTI adulto I UTI adulto II UTI adulto III UTI pediátrica I UTI pediátrica II
+1            0             0              0                0                 0
+2            0             0              0                0                 0
+3            0             0              0                0                 0
+4            0             0              0                0                 0
+5            0             0              0                0                 0
+6            0             0              0                0                 0
+  UTI pediátrica III UTI neonatal I UTI neonatal II UTI neonatal III
+1                  0              0               0                0
+2                  0              0               0                0
+3                  0              0               0                0
+4                  0              0               0                0
+5                  0              0               0                0
+6                  0              0               0                0
+  UTI de Queimados UTI coronariana tipo II -UCO tipo II
+1                0                                    0
+2                0                                    0
+3                0                                    0
+4                0                                    0
+5                0                                    0
+6                0                                    0
+  UTI coronariana tipo III - UCO tipo III
+1                                       0
+2                                       0
+3                                       0
+4                                       0
+5                                       0
+6                                       0
+  Unidade de cuidados intermed neonatal convencional
+1                                                  0
+2                                                  0
+3                                                  0
+4                                                  0
+5                                                  0
+6                                                  0
+  Unidade de cuidados intermed neonatal canguru
+1                                             0
+2                                             0
+3                                             0
+4                                             0
+5                                             0
+6                                             0
+  Unidade de cuidados intermed pediatrico Unidade de cuidados intermed adulto
+1                                       0                                   0
+2                                       0                                   0
+3                                       0                                   0
+4                                       0                                   0
+5                                       0                                   0
+6                                       0                                   0
+  Total Codigo_Regiao Regiao Codigo_UF       UF Codigo_Mesorregiao
+1     2             1  Norte        11 Rondônia               1102
+2     2             1  Norte        11 Rondônia               1102
+3     2             1  Norte        11 Rondônia               1102
+4     2             1  Norte        11 Rondônia               1102
+5     2             1  Norte        11 Rondônia               1102
+6     2             1  Norte        11 Rondônia               1102
+        Mesorregiao Codigo_Macrorregiao_Saude         Macrorregiao_Saude
+1 Leste Rondoniense                      1101 Macrorregional II - Cacoal
+2 Leste Rondoniense                      1101 Macrorregional II - Cacoal
+3 Leste Rondoniense                      1101 Macrorregional II - Cacoal
+4 Leste Rondoniense                      1101 Macrorregional II - Cacoal
+5 Leste Rondoniense                      1101 Macrorregional II - Cacoal
+6 Leste Rondoniense                      1101 Macrorregional II - Cacoal
+  Codigo_Microrregiao Microrregiao Codigo_Microrregiao_Saude Microrregiao_Saude
+1               11006       Cacoal                     11005       Zona da Mata
+2               11006       Cacoal                     11005       Zona da Mata
+3               11006       Cacoal                     11005       Zona da Mata
+4               11006       Cacoal                     11005       Zona da Mata
+5               11006       Cacoal                     11005       Zona da Mata
+6               11006       Cacoal                     11005       Zona da Mata
+  Codigo_Municipio             Municipio Populacao
+1          1100015 Alta Floresta D'Oeste     22945
+2          1100015 Alta Floresta D'Oeste     22945
+3          1100015 Alta Floresta D'Oeste     22945
+4          1100015 Alta Floresta D'Oeste     22945
+5          1100015 Alta Floresta D'Oeste     22945
+6          1100015 Alta Floresta D'Oeste     22945
+
+[[3]]
+[1] "Gráfico de boxplot"
+
+[[4]]
+[1] "Tipo"
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+[[10]]
+NULL
+
+[1] TRUE
+[1] FALSE
+[1] TRUE
+[1] FALSE
+[1] TRUE
+[1] FALSE
+[1] TRUE
+[1] FALSE
+[1] TRUE
+[1] FALSE
+[1] TRUE
+[1] FALSE
+[1] TRUE
+
+Listening on http://127.0.0.1:3333
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+
+Listening on http://127.0.0.1:3333
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+[1] TRUE
+[1] FALSE
+[1] TRUE
+[1] FALSE
+[1] TRUE
+[1] FALSE
+[1] TRUE
+[1] FALSE
+[1] TRUE
+[1] FALSE
+[1] TRUE
+
+Listening on http://127.0.0.1:3333
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+[1] TRUE
+[1] FALSE
+[1] TRUE
+[1] FALSE
+[1] TRUE
+[1] FALSE
+[1] TRUE
+[1] FALSE
+[1] TRUE
+[1] FALSE
+[1] TRUE
+[1] FALSE
+[1] TRUE
+[1] FALSE
+[1] TRUE
+[1] FALSE
+[1] TRUE
+[1] FALSE
+[1] TRUE
+[1] FALSE
+[1] TRUE
+[1] FALSE
+[1] TRUE
+[1] FALSE
+[1] TRUE
+
+Listening on http://127.0.0.1:3333
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+
+Listening on http://127.0.0.1:3333
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+
+Listening on http://127.0.0.1:3333
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+[1] TRUE
+[1] FALSE
+[1] TRUE
+[1] FALSE
+[1] TRUE
+[1] FALSE
+[1] TRUE
+[1] FALSE
+[1] TRUE
+[1] FALSE
+[1] TRUE
+[1] FALSE
+[1] TRUE
+
+Listening on http://127.0.0.1:3333
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+[1] TRUE
+[1] FALSE
+[1] TRUE
+[1] FALSE
+[1] TRUE
+[1] FALSE
+[1] TRUE
+
+Listening on http://127.0.0.1:3333
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+
+Listening on http://127.0.0.1:3333
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+
+Listening on http://127.0.0.1:3333
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+
+Listening on http://127.0.0.1:3333
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+
+Listening on http://127.0.0.1:3333
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+[1] TRUE
+[1] TRUE
+
+Listening on http://127.0.0.1:3333
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+
+Listening on http://127.0.0.1:3333
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+
+Listening on http://127.0.0.1:3333
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+
+Listening on http://127.0.0.1:3333
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+
+Listening on http://127.0.0.1:3333
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+
+Listening on http://127.0.0.1:3333
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+[1] TRUE
+[1] TRUE
+[1] FALSE
+[1] TRUE
+[1] FALSE
+[1] TRUE
+[1] FALSE
+[1] TRUE
+[1] FALSE
+[1] TRUE
+[1] FALSE
+[1] TRUE
+[1] FALSE
+[1] TRUE
+Error in dots_list(...) : argumento "label" ausente, sem padrão
+Calls: source ... switchCheckbox -> <Anonymous> -> dots_list -> p -> dots_list
+Execução interrompida
+Error in dots_list(...) : argumento "label" ausente, sem padrão
+Calls: source ... switchCheckbox -> <Anonymous> -> dots_list -> p -> dots_list
+Execução interrompida
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+
+Listening on http://127.0.0.1:3333
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+[1] TRUE
+[1] TRUE
+
+Listening on http://127.0.0.1:3333
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+
+Listening on http://127.0.0.1:3333
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+
+Listening on http://127.0.0.1:3333
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+[1] TRUE
+[1] TRUE
+Erro: shinyjs: Invalid shiny tags given to `disabled`
+Execução interrompida
+
+Listening on http://127.0.0.1:3333
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+
+Listening on http://127.0.0.1:3333
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+[1] TRUE
+[1] TRUE
+[1] FALSE
+[1] FALSE
+
+Listening on http://127.0.0.1:3333
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+[1] TRUE
+
+Listening on http://127.0.0.1:3333
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+[1] TRUE
+[1] FALSE
+[1] TRUE
+
+Listening on http://127.0.0.1:3333
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+[1] TRUE
+
+Listening on http://127.0.0.1:3333
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+
+Listening on http://127.0.0.1:3333
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+[1] TRUE
+[1] FALSE
+[1] TRUE
+
+Listening on http://127.0.0.1:3333
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+
+Listening on http://127.0.0.1:3333
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+<Observer>
+  Public:
+    .autoDestroy: TRUE
+    .autoDestroyHandle: function () 
+    .createContext: function () 
+    .ctx: environment
+    .destroyed: FALSE
+    .domain: session_proxy
+    .execCount: 1
+    .func: function (...) 
+    .invalidateCallbacks: list
+    .label: observeEvent(input$switch_shadow)
+    .onDomainEnded: function () 
+    .onResume: function () 
+    .prevId: 18
+    .priority: 0
+    .reactId: r9
+    .suspended: FALSE
+    clone: function (deep = FALSE) 
+    destroy: function () 
+    initialize: function (observerFunc, label, suspended = FALSE, priority = 0, 
+    onInvalidate: function (callback) 
+    resume: function () 
+    run: function () 
+    self: Observer, R6
+    setAutoDestroy: function (autoDestroy) 
+    setPriority: function (priority = 0) 
+    suspend: function () 
+
+Listening on http://127.0.0.1:3333
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+Warning: Error in value: não foi possível encontrar a função "value"
+  [No stack trace available]
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+Warning: Error in value: não foi possível encontrar a função "value"
+  [No stack trace available]
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+Warning: Error in value: não foi possível encontrar a função "value"
+  [No stack trace available]
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+Warning: Error in value: não foi possível encontrar a função "value"
+  [No stack trace available]
+
+Listening on http://127.0.0.1:3333
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+<Observer>
+  Public:
+    .autoDestroy: TRUE
+    .autoDestroyHandle: function () 
+    .createContext: function () 
+    .ctx: environment
+    .destroyed: FALSE
+    .domain: session_proxy
+    .execCount: 1
+    .func: function (...) 
+    .invalidateCallbacks: list
+    .label: observeEvent(input$switch_shadow)
+    .onDomainEnded: function () 
+    .onResume: function () 
+    .prevId: 18
+    .priority: 0
+    .reactId: r9
+    .suspended: FALSE
+    clone: function (deep = FALSE) 
+    destroy: function () 
+    initialize: function (observerFunc, label, suspended = FALSE, priority = 0, 
+    onInvalidate: function (callback) 
+    resume: function () 
+    run: function () 
+    self: Observer, R6
+    setAutoDestroy: function (autoDestroy) 
+    setPriority: function (priority = 0) 
+    suspend: function () 
+
+Listening on http://127.0.0.1:3333
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+NULL
+
+Listening on http://127.0.0.1:3333
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+NULL
+
+Listening on http://127.0.0.1:3333
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+NULL
+
+Listening on http://127.0.0.1:3333
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+NULL
+[1] FALSE
+[1] FALSE
+
+Listening on http://127.0.0.1:3333
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+NULL
+[1] FALSE
+
+Listening on http://127.0.0.1:3333
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+NULL
+[1] FALSE
+
+Listening on http://127.0.0.1:3333
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+<ReactiveValues> 
+  Values:    state 
+  Readonly:  FALSE 
+
+Listening on http://127.0.0.1:3333
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+[1] FALSE
+[1] TRUE
+[1] FALSE
+[1] TRUE
+
+Listening on http://127.0.0.1:3333
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+[1] FALSE
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+[1] FALSE
+
+Listening on http://127.0.0.1:3333
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+[1] FALSE
+
+Listening on http://127.0.0.1:3333
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+[1] TRUE
+Error in paste0("<input id=", ns("switch_shadow"), " type=\"checkbox\"\n            class=\"switch switch--shadow shiny-bound-input shinyjs-resettable\"\n            data-shinyjs-resettable-id=",  : 
+  objeto 'session' não encontrado
+Calls: source ... dots_list -> <Anonymous> -> dots_list -> HTML -> paste0
+Execução interrompida
+
+Listening on http://127.0.0.1:3333
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+[1] TRUE
+
+Listening on http://127.0.0.1:3333
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+[1] FALSE
+
+
+Execução interrompida
+
+Listening on http://127.0.0.1:3333
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+[[1]]
+[1] "Data"
+
+[[2]]
+[1] "Gráfico de linha"
+
+[[3]]
+[1] "UTI pediátrica II COVID-19"
+
+[[4]]
+[1] "Periodo"
+
+[[5]]
+[1] "Tipo"
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+[1] FALSE
+[1] TRUE
+[1] FALSE
+
+Listening on http://127.0.0.1:3333
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+Warning: Error in $: objeto de tipo 'closure' não possível dividir em subconjuntos
+  [No stack trace available]
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+Warning: Error in $: objeto de tipo 'closure' não possível dividir em subconjuntos
+  [No stack trace available]
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+Warning: Error in $: objeto de tipo 'closure' não possível dividir em subconjuntos
+  [No stack trace available]
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+Warning: Error in $: objeto de tipo 'closure' não possível dividir em subconjuntos
+  [No stack trace available]
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+Warning: Error in $: objeto de tipo 'closure' não possível dividir em subconjuntos
+  [No stack trace available]
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+Warning: Error in $: objeto de tipo 'closure' não possível dividir em subconjuntos
+  [No stack trace available]
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+Warning: Error in $: objeto de tipo 'closure' não possível dividir em subconjuntos
+  [No stack trace available]
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+Warning: Error in $: objeto de tipo 'closure' não possível dividir em subconjuntos
+  [No stack trace available]
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+Warning: Error in $: objeto de tipo 'closure' não possível dividir em subconjuntos
+  [No stack trace available]
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+Warning: Error in $: objeto de tipo 'closure' não possível dividir em subconjuntos
+  [No stack trace available]
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+Warning: Error in $: objeto de tipo 'closure' não possível dividir em subconjuntos
+  [No stack trace available]
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+Warning: Error in $: objeto de tipo 'closure' não possível dividir em subconjuntos
+  [No stack trace available]
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+Warning: Error in $: objeto de tipo 'closure' não possível dividir em subconjuntos
+  [No stack trace available]
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+Warning: Error in $: objeto de tipo 'closure' não possível dividir em subconjuntos
+  [No stack trace available]
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+Warning: Error in $: objeto de tipo 'closure' não possível dividir em subconjuntos
+  [No stack trace available]
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+Warning: Error in $: objeto de tipo 'closure' não possível dividir em subconjuntos
+  [No stack trace available]
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+Warning: Error in $: objeto de tipo 'closure' não possível dividir em subconjuntos
+  [No stack trace available]
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+Warning: Error in $: objeto de tipo 'closure' não possível dividir em subconjuntos
+  [No stack trace available]
+
+Listening on http://127.0.0.1:3333
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+Warning: Error in $: objeto de tipo 'closure' não possível dividir em subconjuntos
+  [No stack trace available]
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+Warning: Error in $: objeto de tipo 'closure' não possível dividir em subconjuntos
+  [No stack trace available]
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+Warning: Error in $: objeto de tipo 'closure' não possível dividir em subconjuntos
+  [No stack trace available]
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+Warning: Error in $: objeto de tipo 'closure' não possível dividir em subconjuntos
+  [No stack trace available]
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+Warning: Error in $: objeto de tipo 'closure' não possível dividir em subconjuntos
+  [No stack trace available]
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+Warning: Error in $: objeto de tipo 'closure' não possível dividir em subconjuntos
+  [No stack trace available]
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+Warning: Error in $: objeto de tipo 'closure' não possível dividir em subconjuntos
+  [No stack trace available]
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+Warning: Error in $: objeto de tipo 'closure' não possível dividir em subconjuntos
+  [No stack trace available]
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+Warning: Error in $: objeto de tipo 'closure' não possível dividir em subconjuntos
+  [No stack trace available]
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+Warning: Error in $: objeto de tipo 'closure' não possível dividir em subconjuntos
+  [No stack trace available]
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+Warning: Error in $: objeto de tipo 'closure' não possível dividir em subconjuntos
+  [No stack trace available]
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+Warning: Error in $: objeto de tipo 'closure' não possível dividir em subconjuntos
+  [No stack trace available]
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+Warning: Error in $: objeto de tipo 'closure' não possível dividir em subconjuntos
+  [No stack trace available]
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+Warning: Error in $: objeto de tipo 'closure' não possível dividir em subconjuntos
+  [No stack trace available]
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+Warning: Error in $: objeto de tipo 'closure' não possível dividir em subconjuntos
+  [No stack trace available]
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+Warning: Error in $: objeto de tipo 'closure' não possível dividir em subconjuntos
+  [No stack trace available]
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+Warning: Error in $: objeto de tipo 'closure' não possível dividir em subconjuntos
+  [No stack trace available]
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+Warning: Error in $: objeto de tipo 'closure' não possível dividir em subconjuntos
+  [No stack trace available]
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+Warning: Error in $: objeto de tipo 'closure' não possível dividir em subconjuntos
+  [No stack trace available]
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+Warning: Error in $: objeto de tipo 'closure' não possível dividir em subconjuntos
+  [No stack trace available]
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+Warning: Error in $: objeto de tipo 'closure' não possível dividir em subconjuntos
+  [No stack trace available]
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+Warning: Error in $: objeto de tipo 'closure' não possível dividir em subconjuntos
+  [No stack trace available]
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+Warning: Error in $: objeto de tipo 'closure' não possível dividir em subconjuntos
+  [No stack trace available]
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+Warning: Error in $: objeto de tipo 'closure' não possível dividir em subconjuntos
+  [No stack trace available]
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+Warning: Error in $: objeto de tipo 'closure' não possível dividir em subconjuntos
+  [No stack trace available]
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+Warning: Error in $: objeto de tipo 'closure' não possível dividir em subconjuntos
+  [No stack trace available]
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+Warning: Error in $: objeto de tipo 'closure' não possível dividir em subconjuntos
+  [No stack trace available]
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+Warning: Error in $: objeto de tipo 'closure' não possível dividir em subconjuntos
+  [No stack trace available]
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+Warning: Error in $: objeto de tipo 'closure' não possível dividir em subconjuntos
+  [No stack trace available]
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+Warning: Error in $: objeto de tipo 'closure' não possível dividir em subconjuntos
+  [No stack trace available]
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+Warning: Error in $: objeto de tipo 'closure' não possível dividir em subconjuntos
+  [No stack trace available]
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+Warning: Error in $: objeto de tipo 'closure' não possível dividir em subconjuntos
+  [No stack trace available]
+
+Listening on http://127.0.0.1:3333
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+
+Listening on http://127.0.0.1:3333
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+
+Listening on http://127.0.0.1:3333
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+
+Listening on http://127.0.0.1:3333
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+[[1]]
+[1] "Data"
+
+[[2]]
+[1] "Gráfico de barras"
+
+[[3]]
+[1] "UTI adulto II COVID-19"
+
+[[4]]
+[1] "Tipo"
+
+[[5]]
+[1] "UTI adulto II COVID-19"
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+
+Listening on http://127.0.0.1:3333
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+[[1]]
+[1] "Data"
+
+[[2]]
+[1] "Gráfico de pizza"
+
+[[3]]
+[1] "UTI adulto II COVID-19"
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+
+Listening on http://127.0.0.1:3333
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+[[1]]
+<ReactiveValues> 
+  Values:    hexColor, subtitle, title, typeColor 
+  Readonly:  FALSE 
+
+[[2]]
+<ReactiveValues> 
+  Values:    subtitles, subtitles_hover 
+  Readonly:  FALSE 
+
+
+Listening on http://127.0.0.1:3333
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+$plotOptions
+<ReactiveValues> 
+  Values:    hexColor, subtitle, title, typeColor 
+  Readonly:  FALSE 
+
+$plotConfig
+<ReactiveValues> 
+  Values:    subtitles, subtitles_hover 
+  Readonly:  FALSE 
+
+$plotOptions
+<ReactiveValues> 
+  Values:    hexColor, subtitle, title, typeColor 
+  Readonly:  FALSE 
+
+$plotConfig
+<ReactiveValues> 
+  Values:    subtitles, subtitles_hover 
+  Readonly:  FALSE 
+
+$plotOptions
+<ReactiveValues> 
+  Values:    hexColor, subtitle, title, typeColor 
+  Readonly:  FALSE 
+
+$plotConfig
+<ReactiveValues> 
+  Values:    subtitles, subtitles_hover 
+  Readonly:  FALSE 
+
+$plotOptions
+<ReactiveValues> 
+  Values:    hexColor, subtitle, title, typeColor 
+  Readonly:  FALSE 
+
+$plotConfig
+<ReactiveValues> 
+  Values:    subtitles, subtitles_hover 
+  Readonly:  FALSE 
+
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+[1] "Teste"
+
+[[7]]
+[1] "Teste2"
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+
+Listening on http://127.0.0.1:3333
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+[1] "Teeste"
+
+[[7]]
+[1] "Tessste2"
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+Error in unclass(x) : não é possível remover a classe de um ambiente
+Calls: <Anonymous> ... getMethod -> matchSignature -> .handleSimpleError -> h
+Execução interrompida
+
+Listening on http://127.0.0.1:3333
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+[1] "Teste"
+
+[[7]]
+[1] "Teste2"
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+Error in unclass(x) : não é possível remover a classe de um ambiente
+Calls: <Anonymous> ... getMethod -> matchSignature -> .handleSimpleError -> h
+Execução interrompida
+
+Listening on http://127.0.0.1:3333
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+[1] "Teste"
+
+[[7]]
+[1] "Teste2"
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+Error in unclass(x) : não é possível remover a classe de um ambiente
+Calls: <Anonymous> ... getMethod -> matchSignature -> .handleSimpleError -> h
+Execução interrompida
+
+Listening on http://127.0.0.1:3333
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+Warning: Error in switchCheckboxServer(id = "subtitles"): tentativa de aplicar uma não-função
+  [No stack trace available]
+
+Listening on http://127.0.0.1:3333
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+
+Listening on http://127.0.0.1:3333
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+[1] "Teste"
+
+[[7]]
+[1] "Teste2"
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+[[1]]
+[1] "Data"
+
+[[2]]
+[1] "Gráfico de boxplot"
+
+[[3]]
+[1] "UTI pediátrica II COVID-19"
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+[[1]]
+[1] "Data"
+
+[[2]]
+[1] "Gráfico de boxplot"
+
+[[3]]
+[1] "UTI pediátrica II COVID-19"
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+[1] "Teste"
+
+[[7]]
+[1] "Teste2"
+
+[[8]]
+[1] "#F22C2C"
+
+[[9]]
+NULL
+
+
+Listening on http://127.0.0.1:3333
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+[1] FALSE
+[1] FALSE
+[1] TRUE
+[1] FALSE
+
+Listening on http://127.0.0.1:3333
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+
+Listening on http://127.0.0.1:3333
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+[1] FALSE
+[1] FALSE
+[1] TRUE
+[1] FALSE
+[1] TRUE
+[1] TRUE
+[1] FALSE
+[1] TRUE
+[1] FALSE
+[1] FALSE
+[1] TRUE
+[1] FALSE
+
+Listening on http://127.0.0.1:3333
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+
+Listening on http://127.0.0.1:3333
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+[1] "Teste"
+
+[[7]]
+[1] "Teste2"
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+[1] "Teste"
+
+[[7]]
+[1] "Teste2"
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+
+Listening on http://127.0.0.1:3333
+Warning: Error in reactiveValues: argumento "ref" ausente, sem padrão
+  [No stack trace available]
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+
+Listening on http://127.0.0.1:3333
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+[1] "Teste"
+
+[[7]]
+[1] "Teste2"
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+
+Listening on http://127.0.0.1:3333
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+[[1]]
+[1] "Data"
+
+[[2]]
+[1] "Gráfico de boxplot"
+
+[[3]]
+[1] "UTI adulto II COVID-19"
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+[[1]]
+[1] "Data"
+
+[[2]]
+[1] "Gráfico de boxplot"
+
+[[3]]
+[1] "UTI adulto II COVID-19"
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+[1] "Gráfico de Boxplot"
+
+[[7]]
+[1] "Variável Tipo"
+
+[[8]]
+[1] "#E31616"
+
+[[9]]
+NULL
+
+
+Listening on http://127.0.0.1:3333
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+
+Listening on http://127.0.0.1:3333
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+
+Listening on http://127.0.0.1:3333
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+
+Listening on http://127.0.0.1:3333
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+
+Listening on http://127.0.0.1:3333
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+
+Listening on http://127.0.0.1:3333
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+
+Listening on http://127.0.0.1:3333
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+
+Listening on http://127.0.0.1:3333
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+
+Listening on http://127.0.0.1:3333
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+
+Listening on http://127.0.0.1:3333
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+
+Listening on http://127.0.0.1:3333
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+
+Listening on http://127.0.0.1:3333
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+
+Listening on http://127.0.0.1:3333
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+
+Listening on http://127.0.0.1:3333
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+Error in ns("plot") : não foi possível encontrar a função "ns"
+Calls: source ... dots_list -> <Anonymous> -> dots_list -> displayPlot -> NS
+Execução interrompida
+
+Listening on http://127.0.0.1:3333
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+
+Listening on http://127.0.0.1:3333
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+[[1]]
+[1] "Data"
+
+[[2]]
+[1] "Gráfico de boxplot"
+
+[[3]]
+[1] "UTI pediátrica II COVID-19"
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+[[1]]
+[1] "Data"
+
+[[2]]
+[1] "Gráfico de boxplot"
+
+[[3]]
+[1] "UTI pediátrica II COVID-19"
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+[1] "Teste"
+
+[[7]]
+[1] "Teste2"
+
+[[8]]
+[1] "#D90F0F"
+
+[[9]]
+NULL
+
+
+Listening on http://127.0.0.1:3333
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+
+Listening on http://127.0.0.1:3333
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+[[1]]
+[1] "Data"
+
+[[2]]
+[1] "Gráfico de linha"
+
+[[3]]
+[1] "Periodo"
+
+[[4]]
+[1] "Clínicos"
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+[[1]]
+[1] "Data"
+
+[[2]]
+[1] "Gráfico de linha"
+
+[[3]]
+[1] "Periodo"
+
+[[4]]
+[1] "Clínicos"
+
+[[5]]
+NULL
+
+[[6]]
+[1] "Teste"
+
+[[7]]
+[1] "Teste2"
+
+[[8]]
+[1] "#E61212"
+
+[[9]]
+NULL
+
+
+Listening on http://127.0.0.1:3333
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+
+Listening on http://127.0.0.1:3333
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+Warning: `arrange_()` is deprecated as of dplyr 0.7.0.
+Please use `arrange()` instead.
+See vignette('programming') for more help
+This warning is displayed once every 8 hours.
+Call `lifecycle::last_warnings()` to see where this warning was generated.
+A line object has been specified, but lines is not in the mode
+Adding lines to the mode...
+
+Listening on http://127.0.0.1:3333
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+[[1]]
+[1] "Data"
+
+[[2]]
+[1] "Gráfico de linha"
+
+[[3]]
+[1] "Periodo"
+
+[[4]]
+[1] "UTI adulto II COVID-19"
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+[[1]]
+[1] "Data"
+
+[[2]]
+[1] "Gráfico de linha"
+
+[[3]]
+[1] "Periodo"
+
+[[4]]
+[1] "UTI adulto II COVID-19"
+
+[[5]]
+NULL
+
+[[6]]
+[1] "Teste"
+
+[[7]]
+[1] "Teste2"
+
+[[8]]
+[1] "#E01919"
+
+[[9]]
+NULL
+
+Warning: `arrange_()` is deprecated as of dplyr 0.7.0.
+Please use `arrange()` instead.
+See vignette('programming') for more help
+This warning is displayed once every 8 hours.
+Call `lifecycle::last_warnings()` to see where this warning was generated.
+A line object has been specified, but lines is not in the mode
+Adding lines to the mode...
+
+Listening on http://127.0.0.1:3333
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+Warning: Error in : All columns in a tibble must be vectors.
+✖ Column `x` is NULL.
+✖ Column `y` is NULL.
+  114: <Anonymous>
+
+Listening on http://127.0.0.1:3333
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+Warning: Error in : All columns in a tibble must be vectors.
+✖ Column `x` is NULL.
+✖ Column `y` is NULL.
+  114: <Anonymous>
+[[1]]
+[1] "Data"
+
+[[2]]
+[1] "Gráfico de linha"
+
+[[3]]
+[1] "UTI adulto II COVID-19"
+
+[[4]]
+[1] "UTI pediátrica II"
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+[[1]]
+[1] "Data"
+
+[[2]]
+[1] "Gráfico de linha"
+
+[[3]]
+[1] "UTI adulto II COVID-19"
+
+[[4]]
+[1] "UTI pediátrica II"
+
+[[5]]
+NULL
+
+[[6]]
+[1] "Teste"
+
+[[7]]
+[1] "Teste2"
+
+[[8]]
+[1] "#DE1D1D"
+
+[[9]]
+NULL
+
+Warning: `arrange_()` is deprecated as of dplyr 0.7.0.
+Please use `arrange()` instead.
+See vignette('programming') for more help
+This warning is displayed once every 8 hours.
+Call `lifecycle::last_warnings()` to see where this warning was generated.
+A line object has been specified, but lines is not in the mode
+Adding lines to the mode...
+
+Listening on http://127.0.0.1:3333
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+Warning: Error in : All columns in a tibble must be vectors.
+✖ Column `x` is NULL.
+✖ Column `y` is NULL.
+  114: <Anonymous>
+
+Listening on http://127.0.0.1:3333
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+
+Listening on http://127.0.0.1:3333
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+Warning: Error in : All columns in a tibble must be vectors.
+✖ Column `x` is NULL.
+✖ Column `y` is NULL.
+  114: <Anonymous>
+
+Listening on http://127.0.0.1:3333
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+Warning: Error in : All columns in a tibble must be vectors.
+✖ Column `x` is NULL.
+✖ Column `y` is NULL.
+  114: <Anonymous>
+Error in codePLot(id = ns("code")) : 
+  não foi possível encontrar a função "codePLot"
+Calls: source ... dots_list -> resultPanel -> <Anonymous> -> dots_list
+Execução interrompida
+Error in codePLot(id = ns("code")) : 
+  não foi possível encontrar a função "codePLot"
+Calls: source ... dots_list -> resultPanel -> <Anonymous> -> dots_list
+Execução interrompida
+Error in codePLot(id = ns("code")) : 
+  não foi possível encontrar a função "codePLot"
+Calls: source ... dots_list -> resultPanel -> <Anonymous> -> dots_list
+Execução interrompida
+Error in codePLot(id = ns("code")) : 
+  não foi possível encontrar a função "codePLot"
+Calls: source ... dots_list -> resultPanel -> <Anonymous> -> dots_list
+Execução interrompida
+
+Listening on http://127.0.0.1:3333
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+Warning: Error in : All columns in a tibble must be vectors.
+✖ Column `x` is NULL.
+✖ Column `y` is NULL.
+  114: <Anonymous>
+
+Listening on http://127.0.0.1:3333
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+Warning: Error in : All columns in a tibble must be vectors.
+✖ Column `x` is NULL.
+✖ Column `y` is NULL.
+  114: <Anonymous>
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+Warning: Error in codePlotServer: unused argument (code = code)
+  [No stack trace available]
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+Warning: Error in : All columns in a tibble must be vectors.
+✖ Column `x` is NULL.
+✖ Column `y` is NULL.
+  114: <Anonymous>
+[[1]]
+[1] "Data"
+
+[[2]]
+[1] "Gráfico de linha"
+
+[[3]]
+[1] "UTI pediátrica II COVID-19"
+
+[[4]]
+[1] "UTI pediátrica II COVID-19"
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+[[1]]
+[1] "Data"
+
+[[2]]
+[1] "Gráfico de linha"
+
+[[3]]
+[1] "UTI pediátrica II COVID-19"
+
+[[4]]
+[1] "UTI pediátrica II COVID-19"
+
+[[5]]
+NULL
+
+[[6]]
+[1] "Titulo"
+
+[[7]]
+[1] "Subtitulo"
+
+[[8]]
+[1] "#C73232"
+
+[[9]]
+NULL
+
+Warning: `arrange_()` is deprecated as of dplyr 0.7.0.
+Please use `arrange()` instead.
+See vignette('programming') for more help
+This warning is displayed once every 8 hours.
+Call `lifecycle::last_warnings()` to see where this warning was generated.
+A line object has been specified, but lines is not in the mode
+Adding lines to the mode...
+
+Listening on http://127.0.0.1:3333
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+Warning: Error in : All columns in a tibble must be vectors.
+✖ Column `x` is NULL.
+✖ Column `y` is NULL.
+  114: <Anonymous>
+[[1]]
+[1] "Data"
+
+[[2]]
+[1] "Gráfico de linha"
+
+[[3]]
+[1] "Tipo"
+
+[[4]]
+[1] "UTI pediátrica II COVID-19"
+
+[[5]]
+[1] "UTI pediátrica II COVID-19"
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+[[1]]
+[1] "Data"
+
+[[2]]
+[1] "Gráfico de linha"
+
+[[3]]
+[1] "Tipo"
+
+[[4]]
+[1] "UTI pediátrica II COVID-19"
+
+[[5]]
+[1] "UTI pediátrica II COVID-19"
+
+[[6]]
+[1] "Teste"
+
+[[7]]
+[1] "Teste2"
+
+[[8]]
+[1] "#FFFFFF"
+
+[[9]]
+[1] "Vermelho"
+
+Warning: `arrange_()` is deprecated as of dplyr 0.7.0.
+Please use `arrange()` instead.
+See vignette('programming') for more help
+This warning is displayed once every 8 hours.
+Call `lifecycle::last_warnings()` to see where this warning was generated.
+A line object has been specified, but lines is not in the mode
+Adding lines to the mode...
+
+Listening on http://127.0.0.1:3333
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+Warning: Error in : All columns in a tibble must be vectors.
+✖ Column `x` is NULL.
+✖ Column `y` is NULL.
+  114: <Anonymous>
+
+Listening on http://127.0.0.1:3333
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+Warning in if (file == "") { :
+  a condição tem comprimento > 1 e somente o primeiro elemento será usado
+Warning: Error in file: argumento 'description' inválido
+  [No stack trace available]
+
+Listening on http://127.0.0.1:3333
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+Warning: Error in : All columns in a tibble must be vectors.
+✖ Column `x` is NULL.
+✖ Column `y` is NULL.
+  114: <Anonymous>
+
+Listening on http://127.0.0.1:3333
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+Warning: Error in : All columns in a tibble must be vectors.
+✖ Column `x` is NULL.
+✖ Column `y` is NULL.
+  114: <Anonymous>
+
+Listening on http://127.0.0.1:3333
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+Warning: Error in : All columns in a tibble must be vectors.
+✖ Column `x` is NULL.
+✖ Column `y` is NULL.
+  114: <Anonymous>
+
+Listening on http://127.0.0.1:3333
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+Warning: Error in : All columns in a tibble must be vectors.
+✖ Column `x` is NULL.
+✖ Column `y` is NULL.
+  114: <Anonymous>
+
+Listening on http://127.0.0.1:3333
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+Warning: Error in : All columns in a tibble must be vectors.
+✖ Column `x` is NULL.
+✖ Column `y` is NULL.
+  114: <Anonymous>
+plot_ly(
+
+          x = ~ session$userData$plotOptions$variableX,
+          y = ~ session$userData$plotOptions$variableY,
+          type = "scatter",
+          mode = "markers+line",
+          marker = list(color = "#299213"),
+          line = list(color = "#299213")
+        ) %>%
+          layout(
+            xaxis = list(title = session$userData$plotOptions$variableX, fixedrange = TRUE),
+            yaxis = list(title = session$userData$plotOptions$variableY, fixedrange = TRUE)
+          )
+Listening on http://127.0.0.1:3333
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+Warning: Error in : All columns in a tibble must be vectors.
+✖ Column `x` is NULL.
+✖ Column `y` is NULL.
+  114: <Anonymous>
+plot_ly(<br>
+          x = ~ session$userData$plotOptions$variableX,
+          y = ~ session$userData$plotOptions$variableY,
+          type = "scatter",
+          mode = "markers+line",
+          marker = list(color = "#299213"),
+          line = list(color = "#299213")
+        ) %>%
+          layout(
+            xaxis = list(title = session$userData$plotOptions$variableX, fixedrange = TRUE),
+            yaxis = list(title = session$userData$plotOptions$variableY, fixedrange = TRUE)
+          )
+Listening on http://127.0.0.1:3333
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+Warning: Error in : All columns in a tibble must be vectors.
+✖ Column `x` is NULL.
+✖ Column `y` is NULL.
+  114: <Anonymous>
+
+Listening on http://127.0.0.1:3333
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+Warning: Error in : All columns in a tibble must be vectors.
+✖ Column `x` is NULL.
+✖ Column `y` is NULL.
+  114: <Anonymous>
+
+Listening on http://127.0.0.1:3333
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+Warning: Error in : All columns in a tibble must be vectors.
+✖ Column `x` is NULL.
+✖ Column `y` is NULL.
+  114: <Anonymous>
+
+Listening on http://127.0.0.1:3333
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+Warning: Error in : All columns in a tibble must be vectors.
+✖ Column `x` is NULL.
+✖ Column `y` is NULL.
+  114: <Anonymous>
+
+Listening on http://127.0.0.1:3333
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+Warning: Error in : All columns in a tibble must be vectors.
+✖ Column `x` is NULL.
+✖ Column `y` is NULL.
+  114: <Anonymous>
+
+Listening on http://127.0.0.1:3333
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+
+Listening on http://127.0.0.1:3333
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+Warning: Error in : All columns in a tibble must be vectors.
+✖ Column `x` is NULL.
+✖ Column `y` is NULL.
+  114: <Anonymous>
+[[1]]
+[1] "Data"
+
+[[2]]
+[1] "Gráfico de linha"
+
+[[3]]
+[1] "Periodo"
+
+[[4]]
+[1] "UTI pediátrica II COVID-19"
+
+[[5]]
+[1] "Tipo"
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+[[1]]
+[1] "Data"
+
+[[2]]
+[1] "Gráfico de linha"
+
+[[3]]
+[1] "Periodo"
+
+[[4]]
+[1] "UTI pediátrica II COVID-19"
+
+[[5]]
+[1] "Tipo"
+
+[[6]]
+[1] "Teste"
+
+[[7]]
+[1] "Teste2"
+
+[[8]]
+[1] "#FFFFFF"
+
+[[9]]
+[1] "Vermelho"
+
+Warning: `arrange_()` is deprecated as of dplyr 0.7.0.
+Please use `arrange()` instead.
+See vignette('programming') for more help
+This warning is displayed once every 8 hours.
+Call `lifecycle::last_warnings()` to see where this warning was generated.
+A line object has been specified, but lines is not in the mode
+Adding lines to the mode...
+
+Listening on http://127.0.0.1:3333
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+Warning: Error in : First argument, `data`, must be a data frame or shared data.
+  [No stack trace available]
+
+Listening on http://127.0.0.1:3333
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+Warning in file(filename, "r") :
+  não foi possível abrir o arquivo 'session$userData$dataframe$data``': Arquivo ou diretório não encontrado
+Warning: Error in file: não é possível abrir a conexão
+  [No stack trace available]
+
+Listening on http://127.0.0.1:3333
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+Warning in file(filename, "r") :
+  não foi possível abrir o arquivo 'session$userData$dataframe$data$``': Arquivo ou diretório não encontrado
+Warning: Error in file: não é possível abrir a conexão
+  [No stack trace available]
+
+Listening on http://127.0.0.1:3333
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+Warning in file(filename, "r") :
+  não foi possível abrir o arquivo 'session$userData$dataframe$data$``': Arquivo ou diretório não encontrado
+Warning: Error in file: não é possível abrir a conexão
+  [No stack trace available]
+[[1]]
+[1] "Data"
+
+[[2]]
+[1] "Gráfico de linha"
+
+[[3]]
+[1] "Periodo"
+
+[[4]]
+[1] "UTI adulto II COVID-19"
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+[[1]]
+[1] "Data"
+
+[[2]]
+[1] "Gráfico de linha"
+
+[[3]]
+[1] "Periodo"
+
+[[4]]
+[1] "UTI adulto II COVID-19"
+
+[[5]]
+NULL
+
+[[6]]
+[1] "Teste"
+
+[[7]]
+[1] "Teste2"
+
+[[8]]
+[1] "#C42B2B"
+
+[[9]]
+NULL
+
+Warning in file(filename, "r") :
+  não foi possível abrir o arquivo 'session$userData$dataframe$data$`Periodo`': Arquivo ou diretório não encontrado
+Warning: Error in file: não é possível abrir a conexão
+  [No stack trace available]
+
+Listening on http://127.0.0.1:3333
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+Warning in file(filename, "r") :
+  não foi possível abrir o arquivo 'session$userData$dataframe$data$``': Arquivo ou diretório não encontrado
+Warning: Error in file: não é possível abrir a conexão
+  [No stack trace available]
+
+Listening on http://127.0.0.1:3333
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+Warning: Error in parse: tentativa de usar um nome de variável com comprimento zero
+  [No stack trace available]
+[[1]]
+[1] "Data"
+
+[[2]]
+[1] "Gráfico de linha"
+
+[[3]]
+[1] "Periodo"
+
+[[4]]
+[1] "UTI adulto II COVID-19"
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+[[1]]
+[1] "Data"
+
+[[2]]
+[1] "Gráfico de linha"
+
+[[3]]
+[1] "Periodo"
+
+[[4]]
+[1] "UTI adulto II COVID-19"
+
+[[5]]
+NULL
+
+[[6]]
+[1] "Teste"
+
+[[7]]
+[1] "Teste2"
+
+[[8]]
+[1] "#D63232"
+
+[[9]]
+NULL
+
+Warning: Ignoring 4044 observations
+Warning: `arrange_()` is deprecated as of dplyr 0.7.0.
+Please use `arrange()` instead.
+See vignette('programming') for more help
+This warning is displayed once every 8 hours.
+Call `lifecycle::last_warnings()` to see where this warning was generated.
+A line object has been specified, but lines is not in the mode
+Adding lines to the mode...
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+Warning: Error in parse: tentativa de usar um nome de variável com comprimento zero
+  [No stack trace available]
+[[1]]
+[1] "Data"
+
+[[2]]
+[1] "Gráfico de linha"
+
+[[3]]
+[1] "Periodo"
+
+[[4]]
+[1] "UTI adulto II COVID-19"
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+[[1]]
+[1] "Data"
+
+[[2]]
+[1] "Gráfico de linha"
+
+[[3]]
+[1] "Periodo"
+
+[[4]]
+[1] "UTI adulto II COVID-19"
+
+[[5]]
+NULL
+
+[[6]]
+[1] "Teste"
+
+[[7]]
+[1] "Teste2"
+
+[[8]]
+[1] "#E32DDA"
+
+[[9]]
+NULL
+
+Warning: Ignoring 4044 observations
+A line object has been specified, but lines is not in the mode
+Adding lines to the mode...
+
+Listening on http://127.0.0.1:3333
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+Warning: Error in parse: tentativa de usar um nome de variável com comprimento zero
+  [No stack trace available]
+
+Listening on http://127.0.0.1:3333
+[[1]]
+[1] "Data"
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+NULL
+
+[[9]]
+NULL
+
+Warning: Error in parse: tentativa de usar um nome de variável com comprimento zero
+  [No stack trace available]
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+Error in source("./src/components/ForwardBackwardButtons/index.R") : 
+  ./src/components/ForwardBackwardButtons/index.R:17:10: ',' inesperado
+16:           class = "green-button"
+17:         ),
+             ^
+Calls: source -> withVisible -> eval -> eval -> source
+Execução interrompida
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+Warning: Error in parse: tentativa de usar um nome de variável com comprimento zero
+  [No stack trace available]
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+Warning: Error in parse: tentativa de usar um nome de variável com comprimento zero
+  [No stack trace available]
+Warning: Error in parse: tentativa de usar um nome de variável com comprimento zero
+  [No stack trace available]
+Error in file(filename, "r", encoding = encoding) : 
+  não é possível abrir a conexão
+Calls: source -> withVisible -> eval -> eval -> source -> file
+Além disso: Warning message:
+In file(filename, "r", encoding = encoding) :
+  não foi possível abrir o arquivo './src/functions/ui/SideBarPanelItem/index.R': Arquivo ou diretório não encontrado
+Execução interrompida
+Error in file(filename, "r", encoding = encoding) : 
+  não é possível abrir a conexão
+Calls: source -> withVisible -> eval -> eval -> source -> file
+Além disso: Warning message:
+In file(filename, "r", encoding = encoding) :
+  não foi possível abrir o arquivo './src/functions/ui/SideBarPanelItem/index.R': Arquivo ou diretório não encontrado
+Execução interrompida
+Error in compile_data(as_sass(input), options) : 
+  Error: File to import not found or unreadable: ../../functions/ui/SideBarPanelItem/styles.
+        on line 1:1 of src/components/SideBarPanel/_styles.scss
+        from line 1:1 of src/pages/Home/_styles.scss
+        from line 6:1 of src/styles/main.scss
+        from line 1:1 of stdin
+>> @import "../../functions/ui/SideBarPanelItem/styles";
+
+   ^
+Calls: <Anonymous> ... dots_list -> <Anonymous> -> dots_list -> sass -> compile_data
+Execução interrompida
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+[1] "edition"
+Error in sideBarPanelItem(id = ns("home"), ref = "home", label = "Página Inicial",  : 
+  unused argument (route_id = route_id)
+Calls: source ... <Anonymous> -> dots_list -> <Anonymous> -> dots_list
+Execução interrompida
+
+Listening on http://127.0.0.1:3333
+Error in sideBarPanelItem(id = ns("home"), ref = "home", label = "Página Inicial") : 
+  unused argument (ref = "home")
+Calls: source ... <Anonymous> -> dots_list -> <Anonymous> -> dots_list
+Execução interrompida
+Error in sideBarPanelItem(id = ns("home"), ref = "home", label = "Página Inicial") : 
+  unused argument (ref = "home")
+Calls: source ... <Anonymous> -> dots_list -> <Anonymous> -> dots_list
+Execução interrompida
+
+Listening on http://127.0.0.1:3333
+Warning: Error in sideBarPanelItem: unused argument (ref = "/")
+  [No stack trace available]
+
+Listening on http://127.0.0.1:3333
+Warning: Error in sideBarPanelItem: unused argument (ref = "/")
+  [No stack trace available]
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+Warning: Error in parse: tentativa de usar um nome de variável com comprimento zero
+  [No stack trace available]
+Warning: Error in parse: tentativa de usar um nome de variável com comprimento zero
+  [No stack trace available]
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+[1] "data-import"
+[1] "data-import"
+[1] "data-import"
+[1] "data-import"
+[1] "data-import"
+[1] "/"
+[1] "/"
+[1] "/"
+[1] "/"
+[1] "/"
+
+Listening on http://127.0.0.1:3333
+Warning: Error in parse: tentativa de usar um nome de variável com comprimento zero
+  [No stack trace available]
+
+Listening on http://127.0.0.1:3333
+[1] "result"
+[1] "oi2"
+[1] "result"
+[1] "oi2"
+[1] "result"
+[1] "oi2"
+[1] "result"
+[1] "oi2"
+[1] "result"
+[1] "oi"
+Warning: Error in parse: tentativa de usar um nome de variável com comprimento zero
+  [No stack trace available]
+
+Listening on http://127.0.0.1:3333
+[1] "result"
+[1] "result"
+[1] "result"
+[1] "result"
+[1] "result"
+Warning: Error in parse: tentativa de usar um nome de variável com comprimento zero
+  [No stack trace available]
+[1] "edition"
+[1] "edition"
+[1] "edition"
+[1] "edition"
+[1] "edition"
+[1] "/"
+[1] "/"
+[1] "/"
+[1] "/"
+[1] "/"
+
+Listening on http://127.0.0.1:3333
+[1] "/"
+[1] "/"
+[1] "/"
+[1] "/"
+[1] "/"
+
+Listening on http://127.0.0.1:3333
+[1] "/"
+[1] "/"
+[1] "/"
+[1] "/"
+[1] "/"
+
+Listening on http://127.0.0.1:3333
+[1] "/"
+[1] "/"
+[1] "/"
+[1] "/"
+[1] "/"
+[1] "/"
+[1] "/"
+[1] "/"
+[1] "/"
+[1] "/"
+[1] "data-import"
+[1] "data-import"
+[1] "data-import"
+[1] "data-import"
+[1] "data-import"
+[1] "/"
+[1] "/"
+[1] "/"
+[1] "/"
+[1] "/"
+[1] "data-import"
+[1] "data-import"
+[1] "data-import"
+[1] "data-import"
+[1] "data-import"
+[1] "/"
+[1] "/"
+[1] "/"
+[1] "/"
+[1] "/"
+
+Listening on http://127.0.0.1:3333
+[1] "/"
+[1] "/"
+[1] "/"
+[1] "/"
+[1] "/"
+
+Listening on http://127.0.0.1:3333
+[1] "/"
+[1] "/"
+[1] "/"
+[1] "/"
+[1] "/"
+
+Listening on http://127.0.0.1:3333
+[1] "/"
+[1] "/"
+[1] "/"
+[1] "/"
+[1] "/"
+
+Listening on http://127.0.0.1:3333
+[1] "/"
+Warning: Error in updateActionButton: unused argument (class = "action-button active")
+  [No stack trace available]
+[1] "/"
+Warning: Error in updateActionButton: unused argument (class = "action-button active")
+  [No stack trace available]
+[1] "/"
+Warning: Error in updateActionButton: unused argument (class = "action-button active")
+  [No stack trace available]
+[1] "/"
+Warning: Error in updateActionButton: unused argument (class = "action-button active")
+  [No stack trace available]
+[1] "/"
+Warning: Error in updateActionButton: unused argument (class = "action-button active")
+  [No stack trace available]
+[1] "/"
+Warning: Error in updateActionButton: unused argument (class = "action-button active")
+  [No stack trace available]
+[1] "/"
+Warning: Error in updateActionButton: unused argument (class = "action-button active")
+  [No stack trace available]
+[1] "/"
+Warning: Error in updateActionButton: unused argument (class = "action-button active")
+  [No stack trace available]
+[1] "/"
+Warning: Error in updateActionButton: unused argument (class = "action-button active")
+  [No stack trace available]
+[1] "/"
+Warning: Error in updateActionButton: unused argument (class = "action-button active")
+  [No stack trace available]
+[1] "/"
+Warning: Error in updateActionButton: unused argument (class = "action-button active")
+  [No stack trace available]
+[1] "/"
+Warning: Error in updateActionButton: unused argument (class = "action-button active")
+  [No stack trace available]
+[1] "/"
+Warning: Error in updateActionButton: unused argument (class = "action-button active")
+  [No stack trace available]
+[1] "/"
+Warning: Error in updateActionButton: unused argument (class = "action-button active")
+  [No stack trace available]
+[1] "/"
+Warning: Error in updateActionButton: unused argument (class = "action-button active")
+  [No stack trace available]
+[1] "/"
+Warning: Error in updateActionButton: unused argument (class = "action-button active")
+  [No stack trace available]
+[1] "/"
+Warning: Error in updateActionButton: unused argument (class = "action-button active")
+  [No stack trace available]
+[1] "/"
+Warning: Error in updateActionButton: unused argument (class = "action-button active")
+  [No stack trace available]
+[1] "/"
+Warning: Error in updateActionButton: unused argument (class = "action-button active")
+  [No stack trace available]
+[1] "/"
+Warning: Error in updateActionButton: unused argument (class = "action-button active")
+  [No stack trace available]
+[1] "/"
+Warning: Error in updateActionButton: unused argument (class = "action-button active")
+  [No stack trace available]
+[1] "/"
+Warning: Error in updateActionButton: unused argument (class = "action-button active")
+  [No stack trace available]
+[1] "/"
+Warning: Error in updateActionButton: unused argument (class = "action-button active")
+  [No stack trace available]
+[1] "/"
+Warning: Error in updateActionButton: unused argument (class = "action-button active")
+  [No stack trace available]
+[1] "/"
+Warning: Error in updateActionButton: unused argument (class = "action-button active")
+  [No stack trace available]
+
+Listening on http://127.0.0.1:3333
+[1] "/"
+[1] "/"
+[1] "/"
+[1] "/"
+[1] "/"
+[1] "/"
+[1] "/"
+[1] "/"
+[1] "/"
+[1] "/"
+
+Listening on http://127.0.0.1:3333
+[1] TRUE
+[1] TRUE
+[1] TRUE
+[1] TRUE
+[1] TRUE
+
+Listening on http://127.0.0.1:3333
+[1] TRUE
+[1] FALSE
+[1] FALSE
+[1] FALSE
+[1] FALSE
+[1] FALSE
+[1] TRUE
+[1] FALSE
+[1] FALSE
+[1] FALSE
+[1] FALSE
+[1] TRUE
+[1] FALSE
+[1] FALSE
+[1] FALSE
+[1] FALSE
+[1] FALSE
+[1] FALSE
+[1] FALSE
+[1] TRUE
+[1] FALSE
+[1] FALSE
+[1] FALSE
+[1] FALSE
+[1] TRUE
+[1] FALSE
+[1] FALSE
+[1] FALSE
+[1] FALSE
+[1] TRUE
+Warning: Error in parse: tentativa de usar um nome de variável com comprimento zero
+  [No stack trace available]
+
+Listening on http://127.0.0.1:3333
+[1] FALSE
+[1] FALSE
+[1] FALSE
+[1] FALSE
+[1] TRUE
+Warning: Error in parse: tentativa de usar um nome de variável com comprimento zero
+  [No stack trace available]
+[1] TRUE
+[1] FALSE
+[1] FALSE
+[1] FALSE
+[1] FALSE
+[1] FALSE
+[1] FALSE
+[1] TRUE
+[1] FALSE
+[1] FALSE
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+Warning: Error in parse: tentativa de usar um nome de variável com comprimento zero
+  [No stack trace available]
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+[1] "oi"
+
+Listening on http://127.0.0.1:3333
+[1] "oi"
+[1] "oi"
+[1] "oi"
+[1] "oi"
+[1] "oi"
+[1] "oi"
+[1] "oi"
+[1] "oi"
+[1] "oi"
+Warning: Error in parse: tentativa de usar um nome de variável com comprimento zero
+  [No stack trace available]
+[1] "oi"
+[1] "oi"
+[1] "oi"
+Warning: Error in parse: tentativa de usar um nome de variável com comprimento zero
+  [No stack trace available]
+[1] "oi"
+[1] "oi"
+[1] "oi"
+Warning: Error in parse: tentativa de usar um nome de variável com comprimento zero
+  [No stack trace available]
+[1] "oi"
+[1] "oi"
+[1] "oi"
+[1] "oi"
+Warning: Error in parse: tentativa de usar um nome de variável com comprimento zero
+  [No stack trace available]
+[1] "oi"
+Warning: Error in parse: tentativa de usar um nome de variável com comprimento zero
+  [No stack trace available]
+[1] "oi"
+[1] "oi"
+[1] "oi"
+[1] "oi"
+[1] "oi"
+Warning: Error in parse: tentativa de usar um nome de variável com comprimento zero
+  [No stack trace available]
+[1] "oi"
+[1] "oi"
+[1] "oi"
+[1] "oi"
+[1] "oi"
+[1] "oi"
+[1] "oi"
+Warning: Error in parse: tentativa de usar um nome de variável com comprimento zero
+  [No stack trace available]
+[1] "oi"
+[1] "oi"
+[1] "oi"
+Warning: Error in parse: tentativa de usar um nome de variável com comprimento zero
+  [No stack trace available]
+[1] "oi"
+[1] "oi"
+[1] "oi"
+Warning: Error in parse: tentativa de usar um nome de variável com comprimento zero
+  [No stack trace available]
+[1] "oi"
+[1] "oi"
+[1] "oi"
+[1] "oi"
+Warning: Error in parse: tentativa de usar um nome de variável com comprimento zero
+  [No stack trace available]
+[1] "oi"
+[1] "oi"
+[1] "oi"
+[1] "oi"
+[1] "oi"
+[1] "oi"
+[1] "oi"
+[1] "oi"
+[1] "oi"
+Warning: Error in parse: tentativa de usar um nome de variável com comprimento zero
+  [No stack trace available]
+[1] "oi"
+[1] "oi"
+Warning: Error in parse: tentativa de usar um nome de variável com comprimento zero
+  [No stack trace available]
+[1] "oi"
+[1] "oi"
+[1] "oi"
+Warning: Error in parse: tentativa de usar um nome de variável com comprimento zero
+  [No stack trace available]
+[1] "oi"
+[1] "oi"
+[1] "oi"
+[1] "oi"
+[1] "oi"
+[1] "oi"
+[1] "oi"
+[1] "oi"
+Warning: Error in parse: tentativa de usar um nome de variável com comprimento zero
+  [No stack trace available]
+[1] "oi"
+[1] "oi"
+Warning: Error in parse: tentativa de usar um nome de variável com comprimento zero
+  [No stack trace available]
+[1] "oi"
+[1] "oi"
+[1] "oi"
+Warning: Error in parse: tentativa de usar um nome de variável com comprimento zero
+  [No stack trace available]
+[1] "oi"
+[1] "oi"
+[1] "oi"
+Warning: Error in parse: tentativa de usar um nome de variável com comprimento zero
+  [No stack trace available]
+[1] "oi"
+Warning: Error in parse: tentativa de usar um nome de variável com comprimento zero
+  [No stack trace available]
+[1] "oi"
+[1] "oi"
+[1] "oi"
+[1] "oi"
+[1] "oi"
+[1] "oi"
+Warning: Error in parse: tentativa de usar um nome de variável com comprimento zero
+  [No stack trace available]
+[1] "oi"
+[1] "oi"
+Warning: Error in parse: tentativa de usar um nome de variável com comprimento zero
+  [No stack trace available]
+[1] "oi"
+[1] "oi"
+[1] "oi"
+[1] "oi"
+Warning: Error in parse: tentativa de usar um nome de variável com comprimento zero
+  [No stack trace available]
+[1] "oi"
+Warning: Error in parse: tentativa de usar um nome de variável com comprimento zero
+  [No stack trace available]
+[1] "oi"
+[1] "oi"
+[1] "oi"
+Warning: Error in parse: tentativa de usar um nome de variável com comprimento zero
+  [No stack trace available]
+[1] "oi"
+[1] "oi"
+[1] "oi"
+[1] "oi"
+Warning: Error in parse: tentativa de usar um nome de variável com comprimento zero
+  [No stack trace available]
+[1] "oi"
+
+Listening on http://127.0.0.1:3333
+[1] "oi"
+Warning: Error in parse: tentativa de usar um nome de variável com comprimento zero
+  [No stack trace available]
+[1] "oi"
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+Warning: Error in dots_list: objeto 'label' não encontrado
+  [No stack trace available]
+Warning: Error in dots_list: objeto 'label' não encontrado
+  [No stack trace available]
+Warning: Error in dots_list: objeto 'label' não encontrado
+  [No stack trace available]
+Warning: Error in dots_list: objeto 'label' não encontrado
+  [No stack trace available]
+Warning: Error in dots_list: objeto 'label' não encontrado
+  [No stack trace available]
+Error in source("./src/components/SideBarPanelItem/index.R") : 
+  ./src/components/SideBarPanelItem/index.R:23:7: '}' inesperado
+22:         )
+23:       }
+          ^
+Calls: source -> withVisible -> eval -> eval -> source
+Execução interrompida
+Error in sideBarPanelItem(id = ns("home"), label = "Página Inicial") : 
+  unused argument (label = "Página Inicial")
+Calls: source ... <Anonymous> -> dots_list -> <Anonymous> -> dots_list
+Execução interrompida
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+Warning: Error in parse: tentativa de usar um nome de variável com comprimento zero
+  [No stack trace available]
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+Warning: Error in parse: tentativa de usar um nome de variável com comprimento zero
+  [No stack trace available]
+Error in eval(as.symbol(paste0("..", i))) : 
+  objeto 'session' não encontrado
+Calls: source ... dots_list -> req -> dotloop -> fun_ -> isTruthy -> eval -> eval
+Execução interrompida
+Error in eval(as.symbol(paste0("..", i))) : 
+  objeto 'session' não encontrado
+Calls: source ... eval -> req -> dotloop -> fun_ -> isTruthy -> eval -> eval
+Execução interrompida
+
+Listening on http://127.0.0.1:3333
+Warning: Error in parse: tentativa de usar um nome de variável com comprimento zero
+  [No stack trace available]
+
+Listening on http://127.0.0.1:3333
+Error in sideBarPanel(id = "sideBarPanelHome", route_id = "home") : 
+  unused argument (route_id = "home")
+Calls: source ... withVisible -> eval -> eval -> <Anonymous> -> dots_list
+Execução interrompida
+Error in sideBarPanel(id = "sideBarPanelDataImport", route_id = "data-import") : 
+  unused argument (route_id = "data-import")
+Calls: source ... withVisible -> eval -> eval -> <Anonymous> -> dots_list
+Execução interrompida
+Error in source("./src/pages/Home/ui.R", encoding = "UTF-8") : 
+  ./src/pages/Home/ui.R:11:6: ',' inesperado
+10:               interativos através da ferramenta estatística Shiny disponível no R."
+11:     ),
+         ^
+Calls: source -> withVisible -> eval -> eval -> source
+Execução interrompida
+Error in sideBarPanel(id = "sideBarPanelDataImport", route_id = "data-import") : 
+  unused argument (route_id = "data-import")
+Calls: source ... withVisible -> eval -> eval -> <Anonymous> -> dots_list
+Execução interrompida
+Error in sideBarPanel(id = "sideBarPanelDataImport", route_id = "data-import") : 
+  unused argument (route_id = "data-import")
+Calls: source ... withVisible -> eval -> eval -> <Anonymous> -> dots_list
+Execução interrompida
+Error in sideBarPanel(id = "sideBarPanelDataImport", route_id = "data-import") : 
+  unused argument (route_id = "data-import")
+Calls: source ... withVisible -> eval -> eval -> <Anonymous> -> dots_list
+Execução interrompida
+Error in file(filename, "r", encoding = encoding) : 
+  não é possível abrir a conexão
+Calls: source -> withVisible -> eval -> eval -> source -> file
+Além disso: Warning message:
+In file(filename, "r", encoding = encoding) :
+  não foi possível abrir o arquivo './src/functions/ui/MainPanel/index.R': Arquivo ou diretório não encontrado
+Execução interrompida
+Error in sideBarPanel(id = "sideBarPanelDataImport", route_id = "data-import") : 
+  unused argument (route_id = "data-import")
+Calls: source ... withVisible -> eval -> eval -> <Anonymous> -> dots_list
+Execução interrompida
+Error in ns("pageTransitionButtonHome") : 
+  não foi possível encontrar a função "ns"
+Calls: source ... <Anonymous> -> dots_list -> pageTransitionButton -> NS
+Execução interrompida
+Error in file(filename, "r", encoding = encoding) : 
+  não é possível abrir a conexão
+Calls: source -> withVisible -> eval -> eval -> source -> file
+Além disso: Warning message:
+In file(filename, "r", encoding = encoding) :
+  não foi possível abrir o arquivo './src/functions/ui/MainButton/index.R': Arquivo ou diretório não encontrado
+Execução interrompida
+Error in file(filename, "r", encoding = encoding) : 
+  não é possível abrir a conexão
+Calls: source -> withVisible -> eval -> eval -> source -> file
+Além disso: Warning message:
+In file(filename, "r", encoding = encoding) :
+  não foi possível abrir o arquivo './src/functions/ui/MainButton/index.R': Arquivo ou diretório não encontrado
+Execução interrompida
+Error in file(filename, "r", encoding = encoding) : 
+  não é possível abrir a conexão
+Calls: source -> withVisible -> eval -> eval -> source -> file
+Além disso: Warning message:
+In file(filename, "r", encoding = encoding) :
+  não foi possível abrir o arquivo './src/functions/ui/MainButton/index.R': Arquivo ou diretório não encontrado
+Execução interrompida
+Error in file(filename, "r", encoding = encoding) : 
+  não é possível abrir a conexão
+Calls: source -> withVisible -> eval -> eval -> source -> file
+Além disso: Warning message:
+In file(filename, "r", encoding = encoding) :
+  não foi possível abrir o arquivo './src/functions/ui/MainButton/index.R': Arquivo ou diretório não encontrado
+Execução interrompida
+Error in file(filename, "r", encoding = encoding) : 
+  não é possível abrir a conexão
+Calls: source -> withVisible -> eval -> eval -> source -> file
+Além disso: Warning message:
+In file(filename, "r", encoding = encoding) :
+  não foi possível abrir o arquivo './src/functions/ui/MainButton/index.R': Arquivo ou diretório não encontrado
+Execução interrompida
+Error in file(filename, "r", encoding = encoding) : 
+  não é possível abrir a conexão
+Calls: source -> withVisible -> eval -> eval -> source -> file
+Além disso: Warning message:
+In file(filename, "r", encoding = encoding) :
+  não foi possível abrir o arquivo './src/functions/ui/MainButton/index.R': Arquivo ou diretório não encontrado
+Execução interrompida
+Error in file(filename, "r", encoding = encoding) : 
+  não é possível abrir a conexão
+Calls: source -> withVisible -> eval -> eval -> source -> file
+Além disso: Warning message:
+In file(filename, "r", encoding = encoding) :
+  não foi possível abrir o arquivo './src/functions/ui/MainButton/index.R': Arquivo ou diretório não encontrado
+Execução interrompida
+Error in file(filename, "r", encoding = encoding) : 
+  não é possível abrir a conexão
+Calls: source -> withVisible -> eval -> eval -> source -> file
+Além disso: Warning message:
+In file(filename, "r", encoding = encoding) :
+  não foi possível abrir o arquivo './src/functions/ui/MainButton/index.R': Arquivo ou diretório não encontrado
+Execução interrompida
+Error in file(filename, "r", encoding = encoding) : 
+  não é possível abrir a conexão
+Calls: source -> withVisible -> eval -> eval -> source -> file
+Além disso: Warning message:
+In file(filename, "r", encoding = encoding) :
+  não foi possível abrir o arquivo './src/functions/ui/MainButton/index.R': Arquivo ou diretório não encontrado
+Execução interrompida
+Error in file(filename, "r", encoding = encoding) : 
+  não é possível abrir a conexão
+Calls: source -> withVisible -> eval -> eval -> source -> file
+Além disso: Warning message:
+In file(filename, "r", encoding = encoding) :
+  não foi possível abrir o arquivo './src/components/MainPanel/index.R': Arquivo ou diretório não encontrado
+Execução interrompida
+Error in file(filename, "r", encoding = encoding) : 
+  não é possível abrir a conexão
+Calls: source -> withVisible -> eval -> eval -> source -> file
+Além disso: Warning message:
+In file(filename, "r", encoding = encoding) :
+  não foi possível abrir o arquivo './src/components/MainPanel/index.R': Arquivo ou diretório não encontrado
+Execução interrompida
+Error in file(filename, "r", encoding = encoding) : 
+  não é possível abrir a conexão
+Calls: source -> withVisible -> eval -> eval -> source -> file
+Além disso: Warning message:
+In file(filename, "r", encoding = encoding) :
+  não foi possível abrir o arquivo './src/components/MainPanel/index.R': Arquivo ou diretório não encontrado
+Execução interrompida
+Error in file(filename, "r", encoding = encoding) : 
+  não é possível abrir a conexão
+Calls: source -> withVisible -> eval -> eval -> source -> file
+Além disso: Warning message:
+In file(filename, "r", encoding = encoding) :
+  não foi possível abrir o arquivo './src/components/MainPanel/index.R': Arquivo ou diretório não encontrado
+Execução interrompida
+Error in file(filename, "r", encoding = encoding) : 
+  não é possível abrir a conexão
+Calls: source -> withVisible -> eval -> eval -> source -> file
+Além disso: Warning message:
+In file(filename, "r", encoding = encoding) :
+  não foi possível abrir o arquivo './src/components/MainPanel/index.R': Arquivo ou diretório não encontrado
+Execução interrompida
+Error in sideBarPanel(id = "sideBarPanelDataImport", route_id = "data-import") : 
+  unused argument (route_id = "data-import")
+Calls: source ... withVisible -> eval -> eval -> <Anonymous> -> dots_list
+Execução interrompida
+Error in sideBarPanel(id = "sideBarPanelType", route_id = "type") : 
+  unused argument (route_id = "type")
+Calls: source ... withVisible -> eval -> eval -> <Anonymous> -> dots_list
+Execução interrompida
+Error in sideBarPanel(id = "sideBarPanelType", route_id = "type") : 
+  unused argument (route_id = "type")
+Calls: source ... withVisible -> eval -> eval -> <Anonymous> -> dots_list
+Execução interrompida
+Error in sideBarPanel(id = "sideBarPanelType", route_id = "type") : 
+  unused argument (route_id = "type")
+Calls: source ... withVisible -> eval -> eval -> <Anonymous> -> dots_list
+Execução interrompida
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+Warning: Error in parse: tentativa de usar um nome de variável com comprimento zero
+  [No stack trace available]
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+Error in file(filename, "r", encoding = encoding) : 
+  não é possível abrir a conexão
+Calls: source -> withVisible -> eval -> eval -> source -> file
+Além disso: Warning message:
+In file(filename, "r", encoding = encoding) :
+  não foi possível abrir o arquivo './src/components/ForwardBackwardButtons/index.R': Arquivo ou diretório não encontrado
+Execução interrompida
+Error in compile_data(as_sass(input), options) : 
+  Error: File to import not found or unreadable: ../../components/ForwardBackwardButtons/styles.
+        on line 2:1 of src/pages/DataImport/_styles.scss
+        from line 7:1 of src/styles/main.scss
+        from line 1:1 of stdin
+>> @import "../../components/ForwardBackwardButtons/styles";
+
+   ^
+Calls: <Anonymous> ... dots_list -> <Anonymous> -> dots_list -> sass -> compile_data
+Execução interrompida
+Error in compile_data(as_sass(input), options) : 
+  Error: File to import not found or unreadable: ../../components/ForwardBackwardButtons/styles.
+        on line 2:1 of src/pages/DataImport/_styles.scss
+        from line 7:1 of src/styles/main.scss
+        from line 1:1 of stdin
+>> @import "../../components/ForwardBackwardButtons/styles";
+
+   ^
+Calls: <Anonymous> ... dots_list -> <Anonymous> -> dots_list -> sass -> compile_data
+Execução interrompida
+Error in file(filename, "r", encoding = encoding) : 
+  não é possível abrir a conexão
+Calls: source -> withVisible -> eval -> eval -> source -> file
+Além disso: Warning message:
+In file(filename, "r", encoding = encoding) :
+  não foi possível abrir o arquivo './src/functions/ui/ForwardBackwardButtons/index.R': Arquivo ou diretório não encontrado
+Execução interrompida
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+Warning in eval(parse(text = expr), envir = parentFrame) :
+  reiniciando promessa interrompida de avaliação
+Warning in eval(parse(text = expr), envir = parentFrame) :
+  reiniciando promessa interrompida de avaliação
+Warning in eval(parse(text = expr), envir = parentFrame) :
+  reiniciando promessa interrompida de avaliação
+Warning in eval(parse(text = expr), envir = parentFrame) :
+  reiniciando promessa interrompida de avaliação
+Warning in eval(parse(text = expr), envir = parentFrame) :
+  reiniciando promessa interrompida de avaliação
+Warning in eval(parse(text = expr), envir = parentFrame) :
+  reiniciando promessa interrompida de avaliação
+Warning in eval(parse(text = expr), envir = parentFrame) :
+  reiniciando promessa interrompida de avaliação
+Warning in eval(parse(text = expr), envir = parentFrame) :
+  reiniciando promessa interrompida de avaliação
+Warning in eval(parse(text = expr), envir = parentFrame) :
+  reiniciando promessa interrompida de avaliação
+Warning in eval(parse(text = expr), envir = parentFrame) :
+  reiniciando promessa interrompida de avaliação
+Warning in eval(parse(text = expr), envir = parentFrame) :
+  reiniciando promessa interrompida de avaliação
+Warning in eval(parse(text = expr), envir = parentFrame) :
+  reiniciando promessa interrompida de avaliação
+Warning in eval(parse(text = expr), envir = parentFrame) :
+  reiniciando promessa interrompida de avaliação
+Warning in eval(parse(text = expr), envir = parentFrame) :
+  reiniciando promessa interrompida de avaliação
+Warning in eval(parse(text = expr), envir = parentFrame) :
+  reiniciando promessa interrompida de avaliação
+Warning in eval(parse(text = expr), envir = parentFrame) :
+  reiniciando promessa interrompida de avaliação
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+Warning in eval(parse(text = expr), envir = parentFrame) :
+  reiniciando promessa interrompida de avaliação
+Warning in eval(parse(text = expr), envir = parentFrame) :
+  reiniciando promessa interrompida de avaliação
+Warning in eval(parse(text = expr), envir = parentFrame) :
+  reiniciando promessa interrompida de avaliação
+Warning in eval(parse(text = expr), envir = parentFrame) :
+  reiniciando promessa interrompida de avaliação
+Warning in eval(parse(text = expr), envir = parentFrame) :
+  reiniciando promessa interrompida de avaliação
+
+Listening on http://127.0.0.1:3333
+Warning in eval(parse(text = expr), envir = parentFrame) :
+  reiniciando promessa interrompida de avaliação
+Warning in eval(parse(text = expr), envir = parentFrame) :
+  reiniciando promessa interrompida de avaliação
+Warning in eval(parse(text = expr), envir = parentFrame) :
+  reiniciando promessa interrompida de avaliação
+Warning in eval(parse(text = expr), envir = parentFrame) :
+  reiniciando promessa interrompida de avaliação
+Warning in eval(parse(text = expr), envir = parentFrame) :
+  reiniciando promessa interrompida de avaliação
+Warning in eval(parse(text = expr), envir = parentFrame) :
+  reiniciando promessa interrompida de avaliação
+Warning in eval(parse(text = expr), envir = parentFrame) :
+  reiniciando promessa interrompida de avaliação
+Warning: Error in parse: tentativa de usar um nome de variável com comprimento zero
+  [No stack trace available]
+
+Listening on http://127.0.0.1:3333
+Warning in eval(parse(text = expr), envir = parentFrame) :
+  reiniciando promessa interrompida de avaliação
+Warning in eval(parse(text = expr), envir = parentFrame) :
+  reiniciando promessa interrompida de avaliação
+Warning in eval(parse(text = expr), envir = parentFrame) :
+  reiniciando promessa interrompida de avaliação
+Warning in eval(parse(text = expr), envir = parentFrame) :
+  reiniciando promessa interrompida de avaliação
+Warning in eval(parse(text = expr), envir = parentFrame) :
+  reiniciando promessa interrompida de avaliação
+Warning in eval(parse(text = expr), envir = parentFrame) :
+  reiniciando promessa interrompida de avaliação
+Warning: Error in parse: tentativa de usar um nome de variável com comprimento zero
+  [No stack trace available]
+Warning: Ignoring 4044 observations
+Warning: `arrange_()` is deprecated as of dplyr 0.7.0.
+Please use `arrange()` instead.
+See vignette('programming') for more help
+This warning is displayed once every 8 hours.
+Call `lifecycle::last_warnings()` to see where this warning was generated.
+A line object has been specified, but lines is not in the mode
+Adding lines to the mode...
+Warning: Ignoring 4044 observations
+A line object has been specified, but lines is not in the mode
+Adding lines to the mode...
+
+
+Execução interrompida

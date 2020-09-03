@@ -31,7 +31,17 @@ editionPanel <- function(id) {
     ),
     tags$div(
       class = "config",
-      switchCheckbox(id = ns("teste"))
+      h2("Configurações"),
+      tags$div(
+        tags$div(
+          class = "content",
+          switchCheckbox(id = ns("subtitles"), label = "Legendas")
+        ),
+        tags$div(
+          class = "content",
+          switchCheckbox(id = ns("subtitles_hover"), label = "Legendas (on hover)")
+        )
+      )
     )
   )
 }
@@ -40,8 +50,6 @@ editionPanelServer <- function(id) {
   moduleServer(
     id,
     function(input, output, session) {
-      switchCheckboxServer(id = "teste")
-
       output$color <- renderUI({
         req(session$userData$plotOptions$type, session$userData$plotOptions$variableX)
 
@@ -153,7 +161,18 @@ editionPanelServer <- function(id) {
         plotOptions$typeColor <- defaultSetPlotOptions(input = input$typeColor)
       })
 
-      return(plotOptions)
+      plotConfig <- reactiveValues(
+        subtitles = switchCheckboxServer(
+          id = "subtitles",
+          ref = session$userData$plotConfig$subtitles
+        ),
+        subtitles_hover = switchCheckboxServer(
+          id = "subtitles_hover",
+          ref = session$userData$plotConfig$subtitles_hover
+        )
+      )
+
+      return(list(plotOptions = plotOptions, plotConfig = plotConfig))
     }
   )
 }

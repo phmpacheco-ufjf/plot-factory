@@ -51,6 +51,21 @@
     }
 
     .config {
+      display: flex;
+      flex-direction: column;
+      width: 95%;
+      margin-top: 10px;
+
+      & > div {
+        display: flex;
+
+        .content {
+          display: flex;
+          flex-direction: column;
+          width: 100%;
+        }
+      }
+
       @include switchCheckbox();
     }
   }

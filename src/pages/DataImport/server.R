@@ -5,12 +5,13 @@ serverDataImport <- function(input, output, session) {
 
   displayDataframeServer(id = "displayDataframeDataImport", dataframe = dataframe)
 
-  observeEvent(dataframe$data, {
+  observe({
     forwardBackwardButtonsServer(
       id = "forwardBackwardButtonsDataImport",
       backward = "/",
       forward = "type",
       {
+        req(dataframe$data)
         session$userData$dataframe$data <- dataframe$data
       }
     )
