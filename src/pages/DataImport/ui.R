@@ -11,7 +11,7 @@ uiDataImport <- tags$div(
         suas variáveis. Para que isso ocorra, exigimos que a base de dados esteja em formato .RDS"
       )
     ),
-    importData(idButton = "importDataButtonDataImport", idDisplay = "displayDataframeDataImport"),
+    importPanel(id = "importPanelDataImport"),
     forwardBackwardButtons(id = "forwardBackwardButtonsDataImport")
   )
 )

@@ -10178,3 +10178,18 @@ Adding lines to the mode...
 
 
 Execução interrompida
+Error in callModule(module, id, session = session) : 
+  session must be a ShinySession or session_proxy object.
+Calls: source ... dots_list -> importPanelServer -> moduleServer -> callModule
+Execução interrompida
+
+Listening on http://127.0.0.1:3333
+Warning in eval(parse(text = expr), envir = parentFrame) :
+  reiniciando promessa interrompida de avaliação
+Warning in eval(parse(text = expr), envir = parentFrame) :
+  reiniciando promessa interrompida de avaliação
+Warning in eval(parse(text = expr), envir = parentFrame) :
+  reiniciando promessa interrompida de avaliação
+
+
+Execução interrompida
