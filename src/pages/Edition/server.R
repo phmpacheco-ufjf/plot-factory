@@ -16,7 +16,7 @@ serverEdition <- function(input, output, session) {
         session$userData$plotOptions$typeColor <- plot$plotOptions$typeColor
 
         session$userData$plotConfig$subtitles <- plot$plotConfig$subtitles$state
-        session$userData$plotConfig$subtitles_hover <- plot$plotConfig$subtitles_hover$state
+        session$userData$plotConfig$fixedRange <- plot$plotConfig$fixedRange$state
       }
     )
   })

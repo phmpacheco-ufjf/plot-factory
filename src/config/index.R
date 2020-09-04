@@ -5,6 +5,7 @@ suppressMessages(library(sass))
 suppressMessages(library(DT))
 suppressMessages(library(colourpicker))
 suppressMessages(library(plotly))
+suppressMessages(library(tidyverse))
 
 addResourcePath("assets", "./src/assets")
 
@@ -28,3 +29,4 @@ source("./src/functions/ui/MainButton/index.R")
 source("./src/functions/ui/FileInputOnlyButton/index.R")
 
 source("./src/functions/server/DefaultSetPlotOptions/index.R")
+source("./src/functions/server/TypeOfPlot/index.R")

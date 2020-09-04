@@ -59,35 +59,9 @@ server <- function(input, output, session) {
   )
 
   session$userData$plotConfig <- reactiveValues(
-    subtitles = FALSE,
-    subtitles_hover = FALSE
+    subtitles = TRUE,
+    fixedRange = FALSE
   )
-
-  # session$userData$dataframe <- reactiveValues(
-  #   data = NULL,
-  #   x = NULL,
-  #   y = NULL,
-  #   groupBy = NULL
-  # )
-
-  # session$userData$plotOptions <- reactiveValues(
-  #   type = NULL,
-  #   mode = NULL,
-  #   marker = NULL,
-  #   line = NULL,
-  #   hoverinfo = NULL,
-  #   textinfo = NULL,
-  #   showlegend = NULL,
-  #   labels = NULL,
-  #   values = NULL,
-  #   hole = NULL,
-  #   textposition = NULL,
-  #   insidetextanchor = NULL,
-  #   title = NULL,
-  #   subtitle = NULL,
-  #   hexColor = NULL,
-  #   typeColor = NULL
-  # )
 }
 
 options(shiny.port = 3333)

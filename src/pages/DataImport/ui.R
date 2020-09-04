@@ -4,7 +4,7 @@ uiDataImport <- tags$div(
   mainPanel(
     mainText = mainText(
       title = "Importando dados",
-      text = "O primeiro passo para a construção de qualquer gráfico é importaro banco de dados.
+      text = "O primeiro passo para a construção de qualquer gráfico é importar o banco de dados.
               Para isso, clique no botão abaixo para selecionar o arquivo de interesse.",
       p(
         "É importante ressaltar que os dados devem estar livre de erros e com a formatação correta de

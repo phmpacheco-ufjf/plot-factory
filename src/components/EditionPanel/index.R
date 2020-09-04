@@ -2,7 +2,6 @@ editionPanel <- function(id) {
   ns <- NS(id)
 
   tags$div(
-    useShinyjs(),
     class = "editionPanel",
     h2("Estilizando componentes"),
     tags$div(
@@ -39,7 +38,7 @@ editionPanel <- function(id) {
         ),
         tags$div(
           class = "content",
-          switchCheckbox(id = ns("subtitles_hover"), label = "Legendas (on hover)")
+          switchCheckbox(id = ns("fixedRange"), label = "Zoom fixo")
         )
       )
     )
@@ -81,7 +80,7 @@ editionPanelServer <- function(id) {
             selectInput(
               session$ns("typeColor"),
               h4("Tom de cores"),
-              choices = c("Escolha uma variável" = "", "Azul", "Vermelho"),
+              choices = c("Escolha uma variável" = "", "Set1", "Set2", "Set3", "Pastel1", "Pastel2", "Paired", "Dark2", "Accent"),
               selected = session$userData$plotOptions$typeColor
             )
           )
@@ -114,7 +113,7 @@ editionPanelServer <- function(id) {
               selectInput(
                 session$ns("typeColor"),
                 h4("Tom de cores"),
-                choices = c("Escolha uma variável" = "", "Azul", "Vermelho"),
+                choices = c("Escolha uma variável" = "", "Set1", "Set2", "Set3", "Pastel1", "Pastel2", "Paired", "Dark2", "Accent"),
                 selected = session$userData$plotOptions$typeColor
               )
             )
@@ -166,9 +165,9 @@ editionPanelServer <- function(id) {
           id = "subtitles",
           ref = session$userData$plotConfig$subtitles
         ),
-        subtitles_hover = switchCheckboxServer(
-          id = "subtitles_hover",
-          ref = session$userData$plotConfig$subtitles_hover
+        fixedRange = switchCheckboxServer(
+          id = "fixedRange",
+          ref = session$userData$plotConfig$fixedRange
         )
       )
 
