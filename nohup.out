@@ -53454,3 +53454,368 @@ Listening on http://127.0.0.1:3333
 
 
 Execução interrompida
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+Warning in eval(parse(text = expr), envir = parentFrame) :
+  reiniciando promessa interrompida de avaliação
+Warning in eval(parse(text = expr), envir = parentFrame) :
+  reiniciando promessa interrompida de avaliação
+Warning in eval(parse(text = expr), envir = parentFrame) :
+  reiniciando promessa interrompida de avaliação
+Warning in eval(parse(text = expr), envir = parentFrame) :
+  reiniciando promessa interrompida de avaliação
+
+Listening on http://127.0.0.1:3333
+Warning: `arrange_()` is deprecated as of dplyr 0.7.0.
+Please use `arrange()` instead.
+See vignette('programming') for more help
+This warning is displayed once every 8 hours.
+Call `lifecycle::last_warnings()` to see where this warning was generated.
+Warning: line.color doesn't (yet) support data arrays
+Warning: Only one fillcolor per trace allowed
+Warning in min(x, na.rm = na.rm) :
+  nenhum argumento não faltante para min; retornando Inf
+Warning in max(x, na.rm = na.rm) :
+  nenhum argumento não faltante para max; retornando -Inf
+Warning: line.color doesn't (yet) support data arrays
+Warning: Only one fillcolor per trace allowed
+Warning in RColorBrewer::brewer.pal(n, pal) :
+  n too large, allowed maximum for palette Set2 is 8
+Returning the palette you asked for with that many colors
+
+Warning in RColorBrewer::brewer.pal(n, pal) :
+  n too large, allowed maximum for palette Set2 is 8
+Returning the palette you asked for with that many colors
+
+Warning in RColorBrewer::brewer.pal(n, pal) :
+  n too large, allowed maximum for palette Set2 is 8
+Returning the palette you asked for with that many colors
+
+Warning in RColorBrewer::brewer.pal(n, pal) :
+  n too large, allowed maximum for palette Set2 is 8
+Returning the palette you asked for with that many colors
+
+Warning in RColorBrewer::brewer.pal(n, pal) :
+  n too large, allowed maximum for palette Set2 is 8
+Returning the palette you asked for with that many colors
+
+Warning in RColorBrewer::brewer.pal(n, pal) :
+  n too large, allowed maximum for palette Set2 is 8
+Returning the palette you asked for with that many colors
+
+Warning in RColorBrewer::brewer.pal(n, pal) :
+  n too large, allowed maximum for palette Set2 is 8
+Returning the palette you asked for with that many colors
+
+Warning in RColorBrewer::brewer.pal(n, pal) :
+  n too large, allowed maximum for palette Set2 is 8
+Returning the palette you asked for with that many colors
+
+Warning in RColorBrewer::brewer.pal(n, pal) :
+  n too large, allowed maximum for palette Set2 is 8
+Returning the palette you asked for with that many colors
+
+Warning in RColorBrewer::brewer.pal(n, pal) :
+  n too large, allowed maximum for palette Set2 is 8
+Returning the palette you asked for with that many colors
+
+Warning in RColorBrewer::brewer.pal(n, pal) :
+  n too large, allowed maximum for palette Set2 is 8
+Returning the palette you asked for with that many colors
+
+Warning in RColorBrewer::brewer.pal(n, pal) :
+  n too large, allowed maximum for palette Set2 is 8
+Returning the palette you asked for with that many colors
+
+Warning in RColorBrewer::brewer.pal(n, pal) :
+  n too large, allowed maximum for palette Set2 is 8
+Returning the palette you asked for with that many colors
+
+Warning in RColorBrewer::brewer.pal(n, pal) :
+  n too large, allowed maximum for palette Set2 is 8
+Returning the palette you asked for with that many colors
+
+Warning in RColorBrewer::brewer.pal(n, pal) :
+  n too large, allowed maximum for palette Set2 is 8
+Returning the palette you asked for with that many colors
+
+Warning in RColorBrewer::brewer.pal(n, pal) :
+  n too large, allowed maximum for palette Set2 is 8
+Returning the palette you asked for with that many colors
+
+Warning in RColorBrewer::brewer.pal(n, pal) :
+  n too large, allowed maximum for palette Set2 is 8
+Returning the palette you asked for with that many colors
+
+Warning in RColorBrewer::brewer.pal(n, pal) :
+  n too large, allowed maximum for palette Set2 is 8
+Returning the palette you asked for with that many colors
+
+Warning in RColorBrewer::brewer.pal(n, pal) :
+  n too large, allowed maximum for palette Set2 is 8
+Returning the palette you asked for with that many colors
+
+Warning in RColorBrewer::brewer.pal(n, pal) :
+  n too large, allowed maximum for palette Set2 is 8
+Returning the palette you asked for with that many colors
+
+Warning in RColorBrewer::brewer.pal(n, pal) :
+  n too large, allowed maximum for palette Set2 is 8
+Returning the palette you asked for with that many colors
+
+Warning in RColorBrewer::brewer.pal(n, pal) :
+  n too large, allowed maximum for palette Set2 is 8
+Returning the palette you asked for with that many colors
+
+Warning in RColorBrewer::brewer.pal(n, pal) :
+  n too large, allowed maximum for palette Set2 is 8
+Returning the palette you asked for with that many colors
+
+Warning in RColorBrewer::brewer.pal(n, pal) :
+  n too large, allowed maximum for palette Set2 is 8
+Returning the palette you asked for with that many colors
+
+Warning: line.color doesn't (yet) support data arrays
+Warning: Only one fillcolor per trace allowed
+Warning in min(x, na.rm = na.rm) :
+  nenhum argumento não faltante para min; retornando Inf
+Warning in max(x, na.rm = na.rm) :
+  nenhum argumento não faltante para max; retornando -Inf
+Warning: line.color doesn't (yet) support data arrays
+Warning: Only one fillcolor per trace allowed
+
+Listening on http://127.0.0.1:3333
+Warning: `arrange_()` is deprecated as of dplyr 0.7.0.
+Please use `arrange()` instead.
+See vignette('programming') for more help
+This warning is displayed once every 8 hours.
+Call `lifecycle::last_warnings()` to see where this warning was generated.
+Warning in RColorBrewer::brewer.pal(n, pal) :
+  n too large, allowed maximum for palette Pastel1 is 9
+Returning the palette you asked for with that many colors
+
+Warning in RColorBrewer::brewer.pal(n, pal) :
+  n too large, allowed maximum for palette Pastel1 is 9
+Returning the palette you asked for with that many colors
+
+Warning in RColorBrewer::brewer.pal(n, pal) :
+  n too large, allowed maximum for palette Pastel1 is 9
+Returning the palette you asked for with that many colors
+
+Warning in RColorBrewer::brewer.pal(n, pal) :
+  n too large, allowed maximum for palette Pastel1 is 9
+Returning the palette you asked for with that many colors
+
+Warning in RColorBrewer::brewer.pal(n, pal) :
+  n too large, allowed maximum for palette Pastel1 is 9
+Returning the palette you asked for with that many colors
+
+Warning in RColorBrewer::brewer.pal(n, pal) :
+  n too large, allowed maximum for palette Pastel1 is 9
+Returning the palette you asked for with that many colors
+
+Warning in RColorBrewer::brewer.pal(n, pal) :
+  n too large, allowed maximum for palette Pastel1 is 9
+Returning the palette you asked for with that many colors
+
+Warning in RColorBrewer::brewer.pal(n, pal) :
+  n too large, allowed maximum for palette Pastel1 is 9
+Returning the palette you asked for with that many colors
+
+Warning in RColorBrewer::brewer.pal(n, pal) :
+  n too large, allowed maximum for palette Pastel1 is 9
+Returning the palette you asked for with that many colors
+
+Warning in RColorBrewer::brewer.pal(n, pal) :
+  n too large, allowed maximum for palette Pastel1 is 9
+Returning the palette you asked for with that many colors
+
+Warning in RColorBrewer::brewer.pal(n, pal) :
+  n too large, allowed maximum for palette Pastel1 is 9
+Returning the palette you asked for with that many colors
+
+Warning in RColorBrewer::brewer.pal(n, pal) :
+  n too large, allowed maximum for palette Pastel1 is 9
+Returning the palette you asked for with that many colors
+
+Warning in RColorBrewer::brewer.pal(n, pal) :
+  n too large, allowed maximum for palette Pastel1 is 9
+Returning the palette you asked for with that many colors
+
+Warning in RColorBrewer::brewer.pal(n, pal) :
+  n too large, allowed maximum for palette Pastel1 is 9
+Returning the palette you asked for with that many colors
+
+Warning in RColorBrewer::brewer.pal(n, pal) :
+  n too large, allowed maximum for palette Pastel1 is 9
+Returning the palette you asked for with that many colors
+
+Warning in RColorBrewer::brewer.pal(n, pal) :
+  n too large, allowed maximum for palette Pastel1 is 9
+Returning the palette you asked for with that many colors
+
+Warning in RColorBrewer::brewer.pal(n, pal) :
+  n too large, allowed maximum for palette Pastel1 is 9
+Returning the palette you asked for with that many colors
+
+Warning in RColorBrewer::brewer.pal(n, pal) :
+  n too large, allowed maximum for palette Pastel1 is 9
+Returning the palette you asked for with that many colors
+
+Warning in RColorBrewer::brewer.pal(n, pal) :
+  n too large, allowed maximum for palette Pastel1 is 9
+Returning the palette you asked for with that many colors
+
+Warning in RColorBrewer::brewer.pal(n, pal) :
+  n too large, allowed maximum for palette Pastel1 is 9
+Returning the palette you asked for with that many colors
+
+Warning in RColorBrewer::brewer.pal(n, pal) :
+  n too large, allowed maximum for palette Pastel1 is 9
+Returning the palette you asked for with that many colors
+
+Warning in RColorBrewer::brewer.pal(n, pal) :
+  n too large, allowed maximum for palette Pastel1 is 9
+Returning the palette you asked for with that many colors
+
+Warning in RColorBrewer::brewer.pal(n, pal) :
+  n too large, allowed maximum for palette Pastel1 is 9
+Returning the palette you asked for with that many colors
+
+Warning in RColorBrewer::brewer.pal(n, pal) :
+  n too large, allowed maximum for palette Pastel1 is 9
+Returning the palette you asked for with that many colors
+
+Warning in RColorBrewer::brewer.pal(n, pal) :
+  n too large, allowed maximum for palette Pastel1 is 9
+Returning the palette you asked for with that many colors
+
+Warning in RColorBrewer::brewer.pal(n, pal) :
+  n too large, allowed maximum for palette Pastel1 is 9
+Returning the palette you asked for with that many colors
+
+Warning in RColorBrewer::brewer.pal(n, pal) :
+  n too large, allowed maximum for palette Pastel1 is 9
+Returning the palette you asked for with that many colors
+
+Warning in RColorBrewer::brewer.pal(n, pal) :
+  n too large, allowed maximum for palette Pastel1 is 9
+Returning the palette you asked for with that many colors
+
+Warning in RColorBrewer::brewer.pal(n, pal) :
+  n too large, allowed maximum for palette Pastel1 is 9
+Returning the palette you asked for with that many colors
+
+Warning in RColorBrewer::brewer.pal(n, pal) :
+  n too large, allowed maximum for palette Pastel1 is 9
+Returning the palette you asked for with that many colors
+
+Warning in RColorBrewer::brewer.pal(n, pal) :
+  n too large, allowed maximum for palette Pastel1 is 9
+Returning the palette you asked for with that many colors
+
+Warning in RColorBrewer::brewer.pal(n, pal) :
+  n too large, allowed maximum for palette Pastel1 is 9
+Returning the palette you asked for with that many colors
+
+Warning in RColorBrewer::brewer.pal(n, pal) :
+  n too large, allowed maximum for palette Pastel1 is 9
+Returning the palette you asked for with that many colors
+
+Warning in RColorBrewer::brewer.pal(n, pal) :
+  n too large, allowed maximum for palette Pastel1 is 9
+Returning the palette you asked for with that many colors
+
+Warning in RColorBrewer::brewer.pal(n, pal) :
+  n too large, allowed maximum for palette Pastel1 is 9
+Returning the palette you asked for with that many colors
+
+Warning in RColorBrewer::brewer.pal(n, pal) :
+  n too large, allowed maximum for palette Pastel1 is 9
+Returning the palette you asked for with that many colors
+
+Warning in RColorBrewer::brewer.pal(n, pal) :
+  n too large, allowed maximum for palette Pastel1 is 9
+Returning the palette you asked for with that many colors
+
+Warning in RColorBrewer::brewer.pal(n, pal) :
+  n too large, allowed maximum for palette Pastel1 is 9
+Returning the palette you asked for with that many colors
+
+Warning in RColorBrewer::brewer.pal(n, pal) :
+  n too large, allowed maximum for palette Pastel1 is 9
+Returning the palette you asked for with that many colors
+
+Warning in RColorBrewer::brewer.pal(n, pal) :
+  n too large, allowed maximum for palette Pastel1 is 9
+Returning the palette you asked for with that many colors
+
+Warning in RColorBrewer::brewer.pal(n, pal) :
+  n too large, allowed maximum for palette Pastel1 is 9
+Returning the palette you asked for with that many colors
+
+Warning in RColorBrewer::brewer.pal(n, pal) :
+  n too large, allowed maximum for palette Pastel1 is 9
+Returning the palette you asked for with that many colors
+
+Warning in RColorBrewer::brewer.pal(n, pal) :
+  n too large, allowed maximum for palette Pastel1 is 9
+Returning the palette you asked for with that many colors
+
+Warning in RColorBrewer::brewer.pal(n, pal) :
+  n too large, allowed maximum for palette Pastel1 is 9
+Returning the palette you asked for with that many colors
+
+Warning in RColorBrewer::brewer.pal(n, pal) :
+  n too large, allowed maximum for palette Pastel1 is 9
+Returning the palette you asked for with that many colors
+
+Warning in RColorBrewer::brewer.pal(n, pal) :
+  n too large, allowed maximum for palette Pastel1 is 9
+Returning the palette you asked for with that many colors
+
+Warning in RColorBrewer::brewer.pal(n, pal) :
+  n too large, allowed maximum for palette Pastel1 is 9
+Returning the palette you asked for with that many colors
+
+Warning in RColorBrewer::brewer.pal(n, pal) :
+  n too large, allowed maximum for palette Pastel1 is 9
+Returning the palette you asked for with that many colors
+
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+Warning: Error in $: $ operator is invalid for atomic vectors
+  [No stack trace available]
+
+Listening on http://127.0.0.1:3333
+Warning: Error in $: $ operator is invalid for atomic vectors
+  [No stack trace available]
+
+Listening on http://127.0.0.1:3333
+Warning: Error in $: $ operator is invalid for atomic vectors
+  [No stack trace available]
+
+Listening on http://127.0.0.1:3333
+Warning: Error in $: $ operator is invalid for atomic vectors
+  [No stack trace available]
+
+Listening on http://127.0.0.1:3333
+Warning: Error in $: $ operator is invalid for atomic vectors
+  [No stack trace available]
+Warning: Error in $: $ operator is invalid for atomic vectors
+  [No stack trace available]
+
+
+Execução interrompida

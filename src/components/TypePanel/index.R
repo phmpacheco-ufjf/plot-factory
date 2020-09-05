@@ -36,12 +36,12 @@ typePanelServer <- function(id) {
     function(input, output, session) {
       choices <- c(
         "Escolha um tipo" = "",
-        "Gráfico de linha (com pontos)",
-        "Gráfico de linha (sem pontos)",
-        "Gráfico de dispersão",
-        "Gráfico de barras",
-        "Gráfico de pizza",
-        "Gráfico de boxplot"
+        "Gráfico de linha (com pontos)" = "markers+lines",
+        "Gráfico de linha (sem pontos)" = "lines",
+        "Gráfico de dispersão" = "markers",
+        "Gráfico de barras" = "bar",
+        "Gráfico de pizza" = "pie",
+        "Gráfico de boxplot" = "box"
       )
 
       observe({
