@@ -1,5 +1,6 @@
 @mixin mainPanel {
   .mainPanel {
+    width: 100%;
     background-color: $bg-blue;
     background-image: url("../../../assets/images/background.svg");
 

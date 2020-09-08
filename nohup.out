@@ -53819,3 +53819,376 @@ Warning: Error in $: $ operator is invalid for atomic vectors
 
 
 Execução interrompida
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+Warning: Error in parse: tentativa de usar um nome de variável com comprimento zero
+  [No stack trace available]
+Warning: `arrange_()` is deprecated as of dplyr 0.7.0.
+Please use `arrange()` instead.
+See vignette('programming') for more help
+This warning is displayed once every 8 hours.
+Call `lifecycle::last_warnings()` to see where this warning was generated.
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+Warning: Error in typeOfPlot: objeto 'type' não encontrado
+  [No stack trace available]
+
+Listening on http://127.0.0.1:3333
+Warning: `arrange_()` is deprecated as of dplyr 0.7.0.
+Please use `arrange()` instead.
+See vignette('programming') for more help
+This warning is displayed once every 8 hours.
+Call `lifecycle::last_warnings()` to see where this warning was generated.
+Warning in RColorBrewer::brewer.pal(n, pal) :
+  n too large, allowed maximum for palette Set2 is 8
+Returning the palette you asked for with that many colors
+
+Warning in RColorBrewer::brewer.pal(n, pal) :
+  n too large, allowed maximum for palette Set2 is 8
+Returning the palette you asked for with that many colors
+
+Warning in RColorBrewer::brewer.pal(n, pal) :
+  n too large, allowed maximum for palette Set2 is 8
+Returning the palette you asked for with that many colors
+
+Warning in RColorBrewer::brewer.pal(n, pal) :
+  n too large, allowed maximum for palette Set2 is 8
+Returning the palette you asked for with that many colors
+
+Warning in RColorBrewer::brewer.pal(n, pal) :
+  n too large, allowed maximum for palette Set2 is 8
+Returning the palette you asked for with that many colors
+
+Warning in RColorBrewer::brewer.pal(n, pal) :
+  n too large, allowed maximum for palette Set2 is 8
+Returning the palette you asked for with that many colors
+
+Warning in RColorBrewer::brewer.pal(n, pal) :
+  n too large, allowed maximum for palette Set2 is 8
+Returning the palette you asked for with that many colors
+
+Warning in RColorBrewer::brewer.pal(n, pal) :
+  n too large, allowed maximum for palette Set2 is 8
+Returning the palette you asked for with that many colors
+
+Warning in RColorBrewer::brewer.pal(n, pal) :
+  n too large, allowed maximum for palette Set2 is 8
+Returning the palette you asked for with that many colors
+
+Warning in RColorBrewer::brewer.pal(n, pal) :
+  n too large, allowed maximum for palette Set2 is 8
+Returning the palette you asked for with that many colors
+
+Warning in RColorBrewer::brewer.pal(n, pal) :
+  n too large, allowed maximum for palette Set2 is 8
+Returning the palette you asked for with that many colors
+
+Warning in RColorBrewer::brewer.pal(n, pal) :
+  n too large, allowed maximum for palette Set2 is 8
+Returning the palette you asked for with that many colors
+
+Warning in RColorBrewer::brewer.pal(n, pal) :
+  n too large, allowed maximum for palette Set2 is 8
+Returning the palette you asked for with that many colors
+
+Warning in RColorBrewer::brewer.pal(n, pal) :
+  n too large, allowed maximum for palette Set2 is 8
+Returning the palette you asked for with that many colors
+
+Warning in RColorBrewer::brewer.pal(n, pal) :
+  n too large, allowed maximum for palette Set2 is 8
+Returning the palette you asked for with that many colors
+
+Warning in RColorBrewer::brewer.pal(n, pal) :
+  n too large, allowed maximum for palette Set2 is 8
+Returning the palette you asked for with that many colors
+
+Warning in RColorBrewer::brewer.pal(n, pal) :
+  n too large, allowed maximum for palette Set2 is 8
+Returning the palette you asked for with that many colors
+
+Warning in RColorBrewer::brewer.pal(n, pal) :
+  n too large, allowed maximum for palette Set2 is 8
+Returning the palette you asked for with that many colors
+
+Warning in RColorBrewer::brewer.pal(n, pal) :
+  n too large, allowed maximum for palette Set2 is 8
+Returning the palette you asked for with that many colors
+
+Warning in RColorBrewer::brewer.pal(n, pal) :
+  n too large, allowed maximum for palette Set2 is 8
+Returning the palette you asked for with that many colors
+
+Warning in RColorBrewer::brewer.pal(n, pal) :
+  n too large, allowed maximum for palette Set2 is 8
+Returning the palette you asked for with that many colors
+
+Warning in RColorBrewer::brewer.pal(n, pal) :
+  n too large, allowed maximum for palette Set2 is 8
+Returning the palette you asked for with that many colors
+
+Warning in RColorBrewer::brewer.pal(n, pal) :
+  n too large, allowed maximum for palette Set2 is 8
+Returning the palette you asked for with that many colors
+
+Warning in RColorBrewer::brewer.pal(n, pal) :
+  n too large, allowed maximum for palette Set2 is 8
+Returning the palette you asked for with that many colors
+
+Warning in RColorBrewer::brewer.pal(n, pal) :
+  n too large, allowed maximum for palette Set2 is 8
+Returning the palette you asked for with that many colors
+
+Warning in RColorBrewer::brewer.pal(n, pal) :
+  n too large, allowed maximum for palette Set2 is 8
+Returning the palette you asked for with that many colors
+
+Warning in RColorBrewer::brewer.pal(n, pal) :
+  n too large, allowed maximum for palette Set2 is 8
+Returning the palette you asked for with that many colors
+
+Warning in RColorBrewer::brewer.pal(n, pal) :
+  n too large, allowed maximum for palette Set2 is 8
+Returning the palette you asked for with that many colors
+
+Warning in RColorBrewer::brewer.pal(n, pal) :
+  n too large, allowed maximum for palette Set2 is 8
+Returning the palette you asked for with that many colors
+
+Warning in RColorBrewer::brewer.pal(n, pal) :
+  n too large, allowed maximum for palette Set2 is 8
+Returning the palette you asked for with that many colors
+
+Warning in RColorBrewer::brewer.pal(n, pal) :
+  n too large, allowed maximum for palette Set2 is 8
+Returning the palette you asked for with that many colors
+
+Warning in RColorBrewer::brewer.pal(n, pal) :
+  n too large, allowed maximum for palette Set2 is 8
+Returning the palette you asked for with that many colors
+
+Warning in RColorBrewer::brewer.pal(n, pal) :
+  n too large, allowed maximum for palette Set2 is 8
+Returning the palette you asked for with that many colors
+
+Warning in RColorBrewer::brewer.pal(n, pal) :
+  n too large, allowed maximum for palette Set2 is 8
+Returning the palette you asked for with that many colors
+
+Warning in RColorBrewer::brewer.pal(n, pal) :
+  n too large, allowed maximum for palette Set2 is 8
+Returning the palette you asked for with that many colors
+
+Warning in RColorBrewer::brewer.pal(n, pal) :
+  n too large, allowed maximum for palette Set2 is 8
+Returning the palette you asked for with that many colors
+
+Warning in RColorBrewer::brewer.pal(n, pal) :
+  n too large, allowed maximum for palette Set2 is 8
+Returning the palette you asked for with that many colors
+
+Warning in RColorBrewer::brewer.pal(n, pal) :
+  n too large, allowed maximum for palette Set2 is 8
+Returning the palette you asked for with that many colors
+
+Warning in RColorBrewer::brewer.pal(n, pal) :
+  n too large, allowed maximum for palette Set2 is 8
+Returning the palette you asked for with that many colors
+
+Warning in RColorBrewer::brewer.pal(n, pal) :
+  n too large, allowed maximum for palette Set2 is 8
+Returning the palette you asked for with that many colors
+
+Warning in RColorBrewer::brewer.pal(n, pal) :
+  n too large, allowed maximum for palette Set2 is 8
+Returning the palette you asked for with that many colors
+
+Warning in RColorBrewer::brewer.pal(n, pal) :
+  n too large, allowed maximum for palette Set2 is 8
+Returning the palette you asked for with that many colors
+
+Warning in RColorBrewer::brewer.pal(n, pal) :
+  n too large, allowed maximum for palette Set2 is 8
+Returning the palette you asked for with that many colors
+
+Warning in RColorBrewer::brewer.pal(n, pal) :
+  n too large, allowed maximum for palette Set2 is 8
+Returning the palette you asked for with that many colors
+
+Warning in RColorBrewer::brewer.pal(n, pal) :
+  n too large, allowed maximum for palette Set2 is 8
+Returning the palette you asked for with that many colors
+
+Warning in RColorBrewer::brewer.pal(n, pal) :
+  n too large, allowed maximum for palette Set2 is 8
+Returning the palette you asked for with that many colors
+
+Warning in RColorBrewer::brewer.pal(n, pal) :
+  n too large, allowed maximum for palette Set2 is 8
+Returning the palette you asked for with that many colors
+
+Warning in RColorBrewer::brewer.pal(n, pal) :
+  n too large, allowed maximum for palette Set2 is 8
+Returning the palette you asked for with that many colors
+
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+Warning: `arrange_()` is deprecated as of dplyr 0.7.0.
+Please use `arrange()` instead.
+See vignette('programming') for more help
+This warning is displayed once every 8 hours.
+Call `lifecycle::last_warnings()` to see where this warning was generated.
+Warning: Error in parse: tentativa de usar um nome de variável com comprimento zero
+  [No stack trace available]
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+Warning in eval(parse(text = expr), envir = parentFrame) :
+  reiniciando promessa interrompida de avaliação
+Warning in eval(parse(text = expr), envir = parentFrame) :
+  reiniciando promessa interrompida de avaliação
+Warning in eval(parse(text = expr), envir = parentFrame) :
+  reiniciando promessa interrompida de avaliação
+Warning in eval(parse(text = expr), envir = parentFrame) :
+  reiniciando promessa interrompida de avaliação
+Warning in eval(parse(text = expr), envir = parentFrame) :
+  reiniciando promessa interrompida de avaliação
+Warning in eval(parse(text = expr), envir = parentFrame) :
+  reiniciando promessa interrompida de avaliação
+Warning in eval(parse(text = expr), envir = parentFrame) :
+  reiniciando promessa interrompida de avaliação
+Warning in eval(parse(text = expr), envir = parentFrame) :
+  reiniciando promessa interrompida de avaliação
+Warning in eval(parse(text = expr), envir = parentFrame) :
+  reiniciando promessa interrompida de avaliação
+Warning in eval(parse(text = expr), envir = parentFrame) :
+  reiniciando promessa interrompida de avaliação
+Warning in eval(parse(text = expr), envir = parentFrame) :
+  reiniciando promessa interrompida de avaliação
+Warning in eval(parse(text = expr), envir = parentFrame) :
+  reiniciando promessa interrompida de avaliação
+Warning in eval(parse(text = expr), envir = parentFrame) :
+  reiniciando promessa interrompida de avaliação
+Warning in eval(parse(text = expr), envir = parentFrame) :
+  reiniciando promessa interrompida de avaliação
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+Warning in eval(parse(text = expr), envir = parentFrame) :
+  reiniciando promessa interrompida de avaliação
+Warning in eval(parse(text = expr), envir = parentFrame) :
+  reiniciando promessa interrompida de avaliação
+Warning in eval(parse(text = expr), envir = parentFrame) :
+  reiniciando promessa interrompida de avaliação
+Warning in eval(parse(text = expr), envir = parentFrame) :
+  reiniciando promessa interrompida de avaliação
+Warning in eval(parse(text = expr), envir = parentFrame) :
+  reiniciando promessa interrompida de avaliação
+Warning in eval(parse(text = expr), envir = parentFrame) :
+  reiniciando promessa interrompida de avaliação
+Warning in eval(parse(text = expr), envir = parentFrame) :
+  reiniciando promessa interrompida de avaliação
+Warning in eval(parse(text = expr), envir = parentFrame) :
+  reiniciando promessa interrompida de avaliação
+Warning in eval(parse(text = expr), envir = parentFrame) :
+  reiniciando promessa interrompida de avaliação
+Error in compile_data(as_sass(input), options) : 
+  Error: File to import not found or unreadable: ./Global/loading.
+        on line 4:1 of src/styles/main.scss
+        from line 1:1 of stdin
+>> @import "./Global/loading";
+
+   ^
+Calls: <Anonymous> ... dots_list -> <Anonymous> -> dots_list -> sass -> compile_data
+Execução interrompida
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+Warning in eval(parse(text = expr), envir = parentFrame) :
+  reiniciando promessa interrompida de avaliação
+Warning: Error in eval: objeto 'plotOptions' não encontrado
+  [No stack trace available]
+Warning in eval(parse(text = expr), envir = parentFrame) :
+  reiniciando promessa interrompida de avaliação
+Warning in eval(parse(text = expr), envir = parentFrame) :
+  reiniciando promessa interrompida de avaliação
+Warning in eval(parse(text = expr), envir = parentFrame) :
+  reiniciando promessa interrompida de avaliação
+Warning in eval(parse(text = expr), envir = parentFrame) :
+  reiniciando promessa interrompida de avaliação
+Warning in eval(parse(text = expr), envir = parentFrame) :
+  reiniciando promessa interrompida de avaliação
+Warning in eval(parse(text = expr), envir = parentFrame) :
+  reiniciando promessa interrompida de avaliação
+Warning in eval(parse(text = expr), envir = parentFrame) :
+  reiniciando promessa interrompida de avaliação
+Warning in eval(parse(text = expr), envir = parentFrame) :
+  reiniciando promessa interrompida de avaliação
+Warning: Error in eval: objeto 'plotOptions' não encontrado
+  [No stack trace available]
+Warning in eval(parse(text = expr), envir = parentFrame) :
+  reiniciando promessa interrompida de avaliação
+Warning in eval(parse(text = expr), envir = parentFrame) :
+  reiniciando promessa interrompida de avaliação
+Warning in eval(parse(text = expr), envir = parentFrame) :
+  reiniciando promessa interrompida de avaliação
+Warning in eval(parse(text = expr), envir = parentFrame) :
+  reiniciando promessa interrompida de avaliação
+Warning in eval(parse(text = expr), envir = parentFrame) :
+  reiniciando promessa interrompida de avaliação
+Warning: Error in eval: objeto 'plotOptions' não encontrado
+  [No stack trace available]
+
+Listening on http://127.0.0.1:3333
+Warning: `arrange_()` is deprecated as of dplyr 0.7.0.
+Please use `arrange()` instead.
+See vignette('programming') for more help
+This warning is displayed once every 8 hours.
+Call `lifecycle::last_warnings()` to see where this warning was generated.
+
+Listening on http://127.0.0.1:3333
+Warning in eval(parse(text = expr), envir = parentFrame) :
+  reiniciando promessa interrompida de avaliação
+Warning: `arrange_()` is deprecated as of dplyr 0.7.0.
+Please use `arrange()` instead.
+See vignette('programming') for more help
+This warning is displayed once every 8 hours.
+Call `lifecycle::last_warnings()` to see where this warning was generated.
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+
+Execução interrompida

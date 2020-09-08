@@ -9,7 +9,13 @@ serverEdition <- function(input, output, session) {
       backward = "type",
       forward = "result",
       {
-        req(plot$plotOptions$title, plot$plotOptions$subtitle)
+        req(session$userData$plotOptions$type)
+        if (is.null(session$userData$plotOptions$variableGroupBy)) {
+          req(plot$plotOptions$title, plot$plotOptions$subtitle, plot$plotOptions$hexColor)
+        } else {
+          req(plot$plotOptions$title, plot$plotOptions$subtitle, plot$plotOptions$typeColor)
+        }
+
         session$userData$plotOptions$title <- plot$plotOptions$title
         session$userData$plotOptions$subtitle <- plot$plotOptions$subtitle
         session$userData$plotOptions$hexColor <- plot$plotOptions$hexColor

@@ -50,7 +50,7 @@ editionPanelServer <- function(id) {
     id,
     function(input, output, session) {
       output$color <- renderUI({
-        req(session$userData$plotOptions$type, session$userData$plotOptions$variableX)
+        req(session$userData$plotOptions$type)
 
         if (session$userData$plotOptions$type == "Gráfico de boxplot") {
           tagList(
@@ -122,7 +122,7 @@ editionPanelServer <- function(id) {
       })
 
       observe({
-        req(session$userData$plotOptions$type, session$userData$plotOptions$variableX)
+        req(session$userData$plotOptions$type)
 
         updateTextAreaInput(
           session,

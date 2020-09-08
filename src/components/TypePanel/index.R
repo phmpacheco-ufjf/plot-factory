@@ -39,7 +39,6 @@ typePanelServer <- function(id) {
         "Gráfico de linha (com pontos)" = "markers+lines",
         "Gráfico de linha (sem pontos)" = "lines",
         "Gráfico de dispersão" = "markers",
-        "Gráfico de barras" = "bar",
         "Gráfico de pizza" = "pie",
         "Gráfico de boxplot" = "box"
       )
@@ -79,24 +78,16 @@ typePanelServer <- function(id) {
       observeEvent(input$type, {
         req(input$type)
 
-        if (input$type == "Gráfico de pizza" | input$type == "Gráfico de boxplot") {
+        if (input$type == "pie" | input$type == "box") {
           updateSelectInput(
             session,
             "variableY",
             selected = ""
           )
 
-          updateSelectInput(
-            session,
-            "variableGroupBy",
-            selected = ""
-          )
-
           disable("variableY")
-          disable("variableGroupBy")
         } else {
           enable("variableY")
-          enable("variableGroupBy")
         }
       })
 

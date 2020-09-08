@@ -16,7 +16,7 @@ displayPlotServer <- function(id) {
       output$plot <- renderPlotly({
         req(session$userData$plotOptions$title, session$userData$plotOptions$subtitle)
 
-        result <- typeOfPlot(session = session, type = session$userData$plotOptions$type, dataframe = "dataframe")
+        result <- typeOfPlot(session = session, dataframe = "dataframe", plotOptions = session$userData$plotOptions, plotConfig = session$userData$plotConfig)
 
         code$text <- result$text
         eval(parse(text = paste0("session$userData$dataframe$data %>%", result$plot)))
